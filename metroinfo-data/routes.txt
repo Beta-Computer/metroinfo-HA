@@ -25,7 +25,7 @@ route_id,route_long_name
 91,Rangiora/City direct
 92,Kaiapoi/City direct
 95,City/Pegasus and Waikuku
-97,97,Rangiora/Pegasus
-F,F,Diamond Harbour Ferry
-Oa,Oa,Orbiter
-Oc,Oc,Orbiter
+97,Rangiora/Pegasus
+F,Diamond Harbour Ferry
+Oa,Orbiter
+Oc,Orbiter
