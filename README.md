@@ -4,8 +4,12 @@ Connect metroinfo api to Home assistant
 You will need to edit your `configuration.yaml` see [this](https://www.home-assistant.io/docs/configuration/) if you need help
 
 1. get api token from [here](https://apidevelopers.metroinfo.co.nz)
-2. Add metroinfo.py to your config folder
-3. Open 'configuration.yaml' and add this code
+<p class='img'>
+  <img src='/images/Metroinfo-webiste.jpeg' alt='Screenshot of the metroinfo Developer portal' height= "600">
+  Click on sign up.
+</p>
+3. Add metroinfo.py to your config folder
+4. Open 'configuration.yaml' and add this code
 ```yaml
 - platform: command_line
   name: Bus Time
