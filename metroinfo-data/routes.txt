@@ -1,0 +1,31 @@
+route_id,route_long_name
+100,Wigram/The Palms
+107,Styx Mill/Northlands
+120,Burnside/Spreydon
+125,Redwood/Westlake
+130,Hei Hei/Avonhead
+135,The Palms/New Brighton
+140,Russley/Mt Pleasant
+155,Eastgate/Lyttelton
+17,Bryndwr/Huntsbury
+1,Rangiora/Cashmere
+28,Casebrook/Lyttelton,
+29,Airport/City via Fendalton
+3,Airport/Sumner
+44,Shirley/Westmorland
+5,Rolleston/New Brighton
+60,Hillmorton/Southshore
+7,Halswell/Queenspark
+80,Lincoln/Parklands
+81,Lincoln/City direct
+820,Burnham/Lincoln via Rolleston
+85,Rolleston/City direct
+86,Darfield/City
+87,Leeston/City
+91,Rangiora/City direct
+92,Kaiapoi/City direct
+95,City/Pegasus and Waikuku
+97,97,Rangiora/Pegasus
+F,F,Diamond Harbour Ferry
+Oa,Oa,Orbiter
+Oc,Oc,Orbiter
