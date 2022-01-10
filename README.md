@@ -5,7 +5,7 @@ You will need to edit your `configuration.yaml` see [this](https://www.home-assi
 
 1. get api token from [here](https://apidevelopers.metroinfo.co.nz)
 <p class='img'>
-  <img src='/images/Metroinfo-dev-webiste.jpeg' alt='Screenshot of the metroinfo Developer portal' height= "1086" width= "2874">
+  <img src='/images/Metroinfo-dev-webiste.jpeg' alt='Screenshot of the metroinfo Developer portal'>
   Click on sign up.
 </p>
 3. Add metroinfo.py to your config folder
