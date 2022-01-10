@@ -8,7 +8,7 @@ Connect metroinfo api to Home assistant
 </p>
 
 2. enter your details
-3. Add metroinfo.py to your config folder
+3. Add ['metroinfo.py'](/config/metroinfo.py) to your config folder.
 4. open metroinfo.py with [Visual Studio Code](https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_vscode), [File editor](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_configurator) or [Samba share](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_samba)
 5. change apitoken to your api token.
 6. change stopcode to a stop found [here](https://go.metroinfo.co.nz/) 
