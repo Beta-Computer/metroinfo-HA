@@ -21,4 +21,6 @@ Connect metroinfo api to Home assistant
   command: "python3 metroinfo.py"
 ```
 
-[Restart Home assistant](https://www.home-assistant.io/docs/configuration/#reloading-changes)
+[Restart Home assistant](https://www.home-assistant.io/docs/configuration/#reloading-changes) 
+
+<a href="https://my.home-assistant.io/redirect/server_controls/" target="_blank"><img src="https://my.home-assistant.io/badges/server_controls.svg" alt="Open your Home Assistant instance and show your server controls." /></a>
