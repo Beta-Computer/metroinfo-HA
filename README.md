@@ -10,6 +10,7 @@ You will need to edit your `configuration.yaml` see [this](https://www.home-assi
 </p>
 3. Add metroinfo.py to your config folder
 4. Open 'configuration.yaml' and add this code
+
 ```yaml
 - platform: command_line
   name: Bus Time
