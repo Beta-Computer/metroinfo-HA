@@ -22,3 +22,4 @@ You will need to edit your `configuration.yaml` see [this](https://www.home-assi
   command: "python3 metroinfo.py"
 ```
 
+[Restart Home assistant](https://www.home-assistant.io/docs/configuration/#reloading-changes)
