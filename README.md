@@ -1,6 +1,9 @@
 # Metroinfo-HA
 Connect metroinfo api to Home assistant
 
+## setup
+
+
 1. Get your own api token from [here](https://apidevelopers.metroinfo.co.nz)
 <p class='img'>
   <img src='/images/Metroinfo-dev-webiste.jpeg' alt='Screenshot of the metroinfo Developer portal'>
@@ -28,3 +31,12 @@ Connect metroinfo api to Home assistant
 
 
 <a href="https://my.home-assistant.io/redirect/server_controls/" target="_blank"><img src="https://my.home-assistant.io/badges/server_controls.svg" alt="Open your Home Assistant instance and show your server controls." /></a>
+
+## Troubleshooting
+### IndexError: list index out of range
+  
+  - Make sure filter bus code is a string for example `filterbuscode = '5'` or set `filterbuscode = '0'` if you would like to get the next bus regartless of code.
+  - You may get this error if a bus is not scheduled at this stop.
+
+### Other Error
+  - [Open a issue](https://github.com/Beta-Computer/metroinfo-HA/issues/new/choose)
