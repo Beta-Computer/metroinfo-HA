@@ -1,7 +1,7 @@
 # Metroinfo-HA
 Connect metroinfo api to Home assistant
 
-1. Get your own api token from [here](https://apidevelopers.metroinfo.co.nz)
+1. Get your own api token from [here](https://apidevelopers.metroinfo.co.nz){:target="_blank"}
 <p class='img'>
   <img src='/images/Metroinfo-dev-webiste.jpeg' alt='Screenshot of the metroinfo Developer portal'>
   Click on sign up.
