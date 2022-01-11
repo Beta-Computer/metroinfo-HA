@@ -35,7 +35,7 @@ Connect Metroinfo api to Home assistant
 ## Troubleshooting
 ### IndexError: list index out of range
   
-  - Make sure filter bus code is a string for example `filterbuscode = '5'` or set `filterbuscode = '0'` if you would like to get the next bus regartless of code.
+  - Make sure filter bus code is a string for example `filterbuscode = '5'` or set `filterbuscode = 0` if you would like to get the next bus regartless of code.
   - You may get this error if a bus is not scheduled at this stop.
 
 ### Other Error
