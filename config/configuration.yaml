@@ -1,0 +1,3 @@
+- platform: command_line
+  name: Bus Time
+  command: "python3 metroinfo.py"
