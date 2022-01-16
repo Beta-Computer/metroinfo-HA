@@ -15,9 +15,25 @@ Connect Metroinfo api to Home assistant
 4. Write down your api token. 
 5. Add `metroinfo.py` and `Setup.py` to the same folder as your `configuration.yaml`. These can be found [here.](/config/)
 6. Open `Setup.py` with [Visual Studio Code](https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_vscode), [File editor](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_configurator) or [Samba share](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_samba)
+
 7. Change `apitoken` to your api token. Api token can be found [here](https://apidevelopers.metroinfo.co.nz/profile)
 8. Change `stopcode` to a stop found [here.](https://go.metroinfo.co.nz/) List of stop codes can be found [here](/metroinfo-data/stops.txt)
 9. Change `filterbuscode`. list of bus route codes can be found [here](/metroinfo-data/routes.txt)
+
+If you want to get the next bus regardless of the next bus code use this in `Setup.py`
+
+```python
+apitoken = "paste your api token here"
+stopcode = "53088"
+filterbuscode = 0
+```
+If you would like to filter by a bus code for example: "29" use this in `Setup.py`
+```python
+apitoken = "paste your api token here"
+stopcode = "53088"
+filterbuscode = '29'
+```
+
 10. Open `configuration.yaml` and add this code. See [this](https://www.home-assistant.io/docs/configuration/#editing-configurationyaml) if you need help editing `configuration.yaml`
 ```yaml
 - platform: command_line
