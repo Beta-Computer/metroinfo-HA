@@ -15,6 +15,10 @@ Connect Metroinfo api to Home assistant
 4. Sign in with your email and password
 5. subscribe to [real time information](https://apidevelopers.metroinfo.co.nz/product#product=real-time-information)
 6. Name it something recognisable for example "home assistant", agree to the terms and conditions and click subscribe
+<p class='img'>
+  <img src='images/Subscribe-screenshot.png' alt='Screenshot of the metroinfo Products portal'>
+</p>
+
 9. Write down your api token. 
 10. Add `metroinfo.py` and `Setup.py` to the same folder as your `configuration.yaml`. These can be found [here.](/config/)
 11. Open `Setup.py` with [Visual Studio Code](https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_vscode), [File editor](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_configurator) or [Samba share](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_samba)
