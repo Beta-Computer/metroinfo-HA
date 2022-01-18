@@ -47,9 +47,10 @@ filterbuscode = '29'
 ### Edit Configuartion.yaml
 13. Open `configuration.yaml` and add this code. See [this](https://www.home-assistant.io/docs/configuration/#editing-configurationyaml) if you need help editing `configuration.yaml`
 ```yaml
-- platform: command_line
-  name: Bus Time
-  command: "python3 metroinfo.py"
+sensor:
+  - platform: command_line
+    name: Bus Time
+    command: "python3 metroinfo.py"
 ```
 ### Restart Home Assistant
 
