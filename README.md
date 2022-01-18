@@ -14,18 +14,21 @@ Connect Metroinfo api to Home assistant
 3. Go to your email and click the link sent to you by metroinfo
 4. Sign in with your email and password
 5. subscribe to [real time information](https://apidevelopers.metroinfo.co.nz/product#product=real-time-information)
+<p class='img'>
+  <img src='images/Products.png' alt='Screenshot of the metroinfo Products portal'>
+</p>
 6. Name it something recognisable for example "home assistant", agree to the terms and conditions and click subscribe
 <p class='img'>
   <img src='images/Subscribe-page-screenshot.png' alt='Screenshot of the metroinfo Products portal'>
 </p>
 
-9. Write down your api token. 
-10. Add `metroinfo.py` and `Setup.py` to the same folder as your `configuration.yaml`. These can be found [here.](/config/)
-11. Open `Setup.py` with [Visual Studio Code](https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_vscode), [File editor](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_configurator) or [Samba share](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_samba)
+7. Write down your api token. 
+8. Add `metroinfo.py` and `Setup.py` to the same folder as your `configuration.yaml`. These can be found [here.](/config/)
+9. Open `Setup.py` with [Visual Studio Code](https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_vscode), [File editor](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_configurator) or [Samba share](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_samba)
 
-7. Change `apitoken` to your api token. Api token can be found [here](https://apidevelopers.metroinfo.co.nz/profile)
-8. Change `stopcode` to a stop found [here.](https://go.metroinfo.co.nz/) List of stop codes can be found [here](/metroinfo-data/stops.txt)
-9. Change `filterbuscode`. list of bus route codes can be found [here](/metroinfo-data/routes.txt)
+10. Change `apitoken` to your api token. Api token can be found [here](https://apidevelopers.metroinfo.co.nz/profile)
+11. Change `stopcode` to a stop found [here.](https://go.metroinfo.co.nz/) List of stop codes can be found [here](/metroinfo-data/stops.txt)
+12. Change `filterbuscode`. list of bus route codes can be found [here](/metroinfo-data/routes.txt)
 
 If you want to get the next bus regardless of the next bus code use this in `Setup.py`
 
@@ -41,14 +44,14 @@ stopcode = "53088"
 filterbuscode = '29'
 ```
 
-10. Open `configuration.yaml` and add this code. See [this](https://www.home-assistant.io/docs/configuration/#editing-configurationyaml) if you need help editing `configuration.yaml`
+13. Open `configuration.yaml` and add this code. See [this](https://www.home-assistant.io/docs/configuration/#editing-configurationyaml) if you need help editing `configuration.yaml`
 ```yaml
 - platform: command_line
   name: Bus Time
   command: "python3 metroinfo.py"
 ```
 
-10. [Restart Home assistant](https://www.home-assistant.io/docs/configuration/#reloading-changes) 
+14. [Restart Home assistant](https://www.home-assistant.io/docs/configuration/#reloading-changes) 
 
 
 
