@@ -16,7 +16,7 @@ Connect Metroinfo api to Home assistant
 5. subscribe to [real time information](https://apidevelopers.metroinfo.co.nz/product#product=real-time-information)
 6. Name it something recognisable for example "home assistant", agree to the terms and conditions and click subscribe
 <p class='img'>
-  <img src='images/Subscribe-screenshot.png' alt='Screenshot of the metroinfo Products portal'>
+  <img src='images/Subscribe-page-screenshot.png' alt='Screenshot of the metroinfo Products portal'>
 </p>
 
 9. Write down your api token. 
