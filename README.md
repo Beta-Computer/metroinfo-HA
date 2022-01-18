@@ -11,7 +11,7 @@ Connect Metroinfo api to Home assistant
 </p>
 
 2. Enter your details
-3. Go to your profile
+3. [Go to your profile](https://apidevelopers.metroinfo.co.nz/profile)
 4. Write down your api token. 
 5. Add `metroinfo.py` and `Setup.py` to the same folder as your `configuration.yaml`. These can be found [here.](/config/)
 6. Open `Setup.py` with [Visual Studio Code](https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_vscode), [File editor](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_configurator) or [Samba share](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_samba)
