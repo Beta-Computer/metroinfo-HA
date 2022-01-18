@@ -68,5 +68,15 @@ sensor:
   - Make sure filter bus code is a string for example `filterbuscode = '5'` or set `filterbuscode = 0` if you would like to get the next bus regartless of code.
   - You may get this error if a bus is not scheduled at this stop.
 
+### Configuration.yaml Error
+
+  - if you have split your `configuration.yaml` you will need to place the `configuration.yaml` code above into your `sensor.yaml` file and you will need to use the code bellow.
+
+```yaml
+- platform: command_line
+  name: Bus Time
+  command: "python3 metroinfo.py"
+  unit_of_measurement: minutes
+```
 ### Other Error
   - [Open a issue](https://github.com/Beta-Computer/metroinfo-HA/issues/new/choose)
