@@ -51,6 +51,7 @@ sensor:
   - platform: command_line
     name: Bus Time
     command: "python3 metroinfo.py"
+    unit_of_measurement: minutes
 ```
 ### Restart Home Assistant
 
