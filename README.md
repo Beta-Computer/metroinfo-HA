@@ -45,12 +45,12 @@ stopcode = "53088"
 filterbuscode = '29'
 ```
 ### Edit Configuartion.yaml
-13. Open `configuration.yaml` and add this code. See [this](https://www.home-assistant.io/docs/configuration/#editing-configurationyaml) if you need help editing `configuration.yaml`
+13. Open `configuration.yaml` and add this code. See [this](https://www.home-assistant.io/docs/configuration/#editing-configurationyaml) if you need help editing `configuration.yaml`. Change `/path/to/script/` to the path to your `metroinfo.py` file.
 ```yaml
 sensor:
   - platform: command_line
     name: Bus Time
-    command: "python3 metroinfo.py"
+    command: "python3 /path/to/script/metroinfo.py"
     unit_of_measurement: minutes
 ```
 ### Restart Home Assistant
@@ -75,7 +75,7 @@ sensor:
 ```yaml
 - platform: command_line
   name: Bus Time
-  command: "python3 metroinfo.py"
+  command: "python3 /path/to/script/metroinfo.py"
   unit_of_measurement: minutes
 ```
 ### Other Error
