@@ -1,5 +1,5 @@
 # Metroinfo-HA
-Connect Metroinfo api to Home assistant
+Connect Metroinfo api to Home assistant using the [command line sensor intergation.](https://www.home-assistant.io/integrations/sensor.command_line/)
 
 ## Setup
 ### Get Api Token
