@@ -63,6 +63,18 @@ sensor:
 
 <a href="https://my.home-assistant.io/redirect/server_controls/" target="_blank"><img src="https://my.home-assistant.io/badges/server_controls.svg" alt="Open your Home Assistant instance and show your server controls." /></a>
 
+## Advanced
+
+The [command line sensor intergation.](https://www.home-assistant.io/integrations/sensor.command_line/) supports scan_interval which defines number of seconds for polling the metroinfo api. Defult is 60.
+
+```yaml
+  - platform: command_line
+    name: Bus Time
+    command: "python3 /path/to/script/metroinfo.py"
+    unit_of_measurement: minutes
+    scan_interval: 60
+```
+
 ## Troubleshooting
 ### IndexError: list index out of range
   
