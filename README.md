@@ -31,18 +31,19 @@ Connect Metroinfo api to Home assistant using the [command line sensor intergati
 11. Change `stopcode` to a stop found [here.](https://go.metroinfo.co.nz/) List of stop codes can be found [here](/metroinfo-data/stops.txt)
 12. Change `filterbuscode`. list of bus route codes can be found [here](/metroinfo-data/routes.txt)
 
-If you want to get the next bus regardless of the next bus code use this in `Setup.py`
+If you want to get the next bus regardless of the next bus code you will need to set `get_next_bus` to true in `Setup.py` see example bellow.
 
 ```python
 apitoken = "paste your api token here"
 stopcode = "53088"
-filterbuscode = 0
+get_next_bus = "true"
 ```
 If you would like to filter by a bus code for example: "29" use this in `Setup.py`
 ```python
 apitoken = "paste your api token here"
 stopcode = "53088"
 filterbuscode = '29'
+get_next_bus = "false"
 ```
 ### Edit Configuartion.yaml
 13. Open `configuration.yaml` and add this code. See [this](https://www.home-assistant.io/docs/configuration/#editing-configurationyaml) if you need help editing `configuration.yaml`. Change `/path/to/script/` to the path to your `metroinfo.py` file.
