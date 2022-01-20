@@ -1,4 +1,4 @@
 apitoken = "afojeofajimomaceafe"
 stopcode = "53088"
 filterbuscode = "29"
-# filterbuscode = 0
+get_next_bus = "true"
