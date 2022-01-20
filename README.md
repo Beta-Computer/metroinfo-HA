@@ -65,7 +65,7 @@ sensor:
 
 ## Advanced
 
-The [command line sensor intergation.](https://www.home-assistant.io/integrations/sensor.command_line/) supports scan_interval which defines number of seconds for polling the metroinfo api. Defult is 60.
+The [command line sensor intergation.](https://www.home-assistant.io/integrations/sensor.command_line/) supports [scan_interval](https://www.home-assistant.io/integrations/sensor.command_line/#scan_interval) which defines number of seconds for polling the metroinfo api. Defult is 60.
 
 ```yaml
   - platform: command_line
@@ -78,7 +78,7 @@ The [command line sensor intergation.](https://www.home-assistant.io/integration
 ## Troubleshooting
 ### IndexError: list index out of range
   
-  - Make sure filter bus code is a string for example `filterbuscode = '5'` or set `filterbuscode = 0` if you would like to get the next bus regartless of code.
+  - Make sure filter bus code is a string for example `filterbuscode = '5'`
   - You may get this error if a bus is not scheduled at this stop.
 
 ### Configuration.yaml Error
