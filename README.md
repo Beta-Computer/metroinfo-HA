@@ -52,7 +52,7 @@ get_next_bus = "false"
 ```yaml
 sensor:
   - platform: command_line
-    name: Bus Time
+    name: Time Until Next Bus
     command: "python3 /path/to/script/metroinfo.py"
     unit_of_measurement: minutes
 ```
