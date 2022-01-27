@@ -1,3 +1,8 @@
 - platform: command_line
   name: Bus Time
   command: "python3 metroinfo.py"
+#   scan_interval: 60
+# homeassistant:
+#     customize:
+#       sensor.time_until_next_bus:
+#         icon: mdi:bus-stop
