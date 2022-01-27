@@ -75,6 +75,7 @@ sensor:
 
 ## Advanced
 
+### Scan Interval
 The [command line sensor intergation.](https://www.home-assistant.io/integrations/sensor.command_line/) supports [scan_interval](https://www.home-assistant.io/integrations/sensor.command_line/#scan_interval) which defines number of seconds for polling the metroinfo api. Defult is 60.
 
 ```yaml
@@ -84,6 +85,35 @@ The [command line sensor intergation.](https://www.home-assistant.io/integration
     unit_of_measurement: minutes
     scan_interval: 60
 ```
+[Restart Home assistant](https://www.home-assistant.io/docs/configuration/#reloading-changes) 
+
+<a href="https://my.home-assistant.io/redirect/server_controls/" target="_blank"><img src="https://my.home-assistant.io/badges/server_controls.svg" alt="Open your Home Assistant instance and show your server controls." /></a>
+
+### Icon
+To update the icon you will need to add the following yaml to your home assistant `configuration.yaml` file. More information can be found [here.](https://next.home-assistant.io/docs/configuration/customizing-devices#icon)
+Icons can be custom or a [meterial design icon.](https://materialdesignicons.com)
+
+```yaml
+homeassistant:
+    customize:
+      sensor.time_until_next_bus:
+        icon: mdi:bus-stop
+```
+
+#### Reloading Customize
+
+Home Assistant offers a service to reload the core configuration while Home Assistant is running. This allows you to change your customize section and see your changes being applied without having to restart Home Assistant.
+
+To reload customizations, navigate to Configuration > Server Controls and then press the "Reload Location & Customizations" button. If you don't see this, enable Advanced Mode on your user profile page first.
+
+Alternatively, you can reload via service call. Navigate to Developer Tools > Services tab, select `homeassistant.reload_core_config` from the dropdown and press the "Call Service" button.
+
+#### Restart Home assistant
+Alternativly you can restart your entire home assistant instance.
+
+[Restart Home assistant](https://www.home-assistant.io/docs/configuration/#reloading-changes) 
+
+<a href="https://my.home-assistant.io/redirect/server_controls/" target="_blank"><img src="https://my.home-assistant.io/badges/server_controls.svg" alt="Open your Home Assistant instance and show your server controls." /></a>
 
 ## Troubleshooting
 ### IndexError: list index out of range
