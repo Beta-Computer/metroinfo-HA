@@ -2,8 +2,16 @@
 This code connects [Metroinfo Siri API](https://apidevelopers.metroinfo.co.nz/api-details#api=siri-service) to Home assistant using the [command line sensor intergation.](https://www.home-assistant.io/integrations/sensor.command_line/)
 
 If you would like to connect [Metroinfo GTFS Static Api](https://apidevelopers.metroinfo.co.nz/api-details#api=gtfs-static-service) see [Home Assistant GTFS intergration.](https://www.home-assistant.io/integrations/gtfs/)
+## Preview
+
+<p class='img'>
+  <img src='/images/Metroinfo Preview.png' alt='Preview of the time untill bus sensor.'>
+  
+  Preview of the time untill bus sensor.
+</p>
 
 ## Setup
+
 ### Get Api Token
 
 1. Get your own api token from [https://apidevelopers.metroinfo.co.nz](https://apidevelopers.metroinfo.co.nz)
