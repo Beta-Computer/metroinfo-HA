@@ -1,7 +1,7 @@
 # Metroinfo-HA
 This code connects [Metroinfo Siri API](https://apidevelopers.metroinfo.co.nz/api-details#api=siri-service) to [Home assistant](https://www.home-assistant.io) using the [command line sensor intergation.](https://www.home-assistant.io/integrations/sensor.command_line/) This allows you to obtain realtime departure info for Christchurch public transport, which can then be displayed on your [Home Assistant dashboard](https://www.home-assistant.io/lovelace/) or used in [automations](https://www.home-assistant.io/docs/automation/).
 
-If you would like to connect [Metroinfo GTFS Static Api](https://apidevelopers.metroinfo.co.nz/api-details#api=gtfs-static-service) see [Home Assistant GTFS intergration.](https://www.home-assistant.io/integrations/gtfs/)
+If you would like to connect the metroinfo schedule (does't update in realtime) you should use [Metroinfo GTFS Static Api](https://apidevelopers.metroinfo.co.nz/api-details#api=gtfs-static-service) see [Home Assistant GTFS intergration.](https://www.home-assistant.io/integrations/gtfs/)
 ## Preview
 
 <p class='img'>
