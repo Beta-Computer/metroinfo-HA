@@ -1,2059 +1,2059 @@
 stop_id	stop_name
-
-24814	Barbadoes St near Canon 								
-40064	Hussey Rd near Springvale Gdns								
-22636	Waltham Rd near Coleridge St								
-43571	Memorial Ave near Ilam Rd								
-18131	Hardy St near Beresford 								
-42241	Main North Rd near Kaiapoi Golf Club								
-20451	Hills Rd near Warden St								
-17282	Highsted Rd near Sapphire St								
-46608	Halswell Junction Rd near Foremans 								
-45757	O'Neill Ave near Beechwood Dr								
-21789	Effingham St near Marine Pde								
-10656	Guildford St near Wayside Ave								
-36804	Gayhurst Rd near Strathfield Ave								
-12837	Lincoln Rd near Nairn St								
-53383	Lake Tce Rd near New Brighton 								
-54239	Innes Rd near Nancy Ave								
-11500	The Hub Hornby								
-33779	Patterson Tce near Alvaston Dr								
-20467	Hills Rd near Dudley St								
-18149	Seaview Rd								
-41382	Fendalton Rd near Waiwetu St								
-17295	Veitches Rd near Larch Pl								
-40055	Town Hall								
-21791	Effingham St near Surfers Pl								
-23972	Sydenham Shops								
-39061	Travis Rd near Country Dr								
-42239	Winchester St near Coleridge Tce								
-54241	Greers Rd near Westburn Terrace								
-11516	Rossall St near Rhodes 								
-10660	Carlton Mill Rd near Shrewsbury St								
-29273	Regents Park Dr near Styx Mill Rd								
-12844	Papanui Rd near Webb St								
-33767	Nottingham Ave near Arkwright Pl								
-11996	St Martins Rd near Ensors 								
-40040	Port Hills Rd near Curries 								
-17269	Veitches Rd near Kimberley St								
-39057	New Brighton Rd near Locksley Ave								
-23940	Colombo St near Southampton 								
-15083	Main North Rd near Parsonage 								
-11965	Barrington St near Wychbury 								
-32421	Opawa Rd near Brougham St								
-29241	Regents Park Dr near Styx Mill Rd								
-10639	Clyde Rd near Morley St								
-33751	Patterson Tce near Clipston Pl								
-12816	Papanui Rd near Weston 								
-54256	Greers Rd near Westburn Terrace								
-23955	Colombo St near Byron 								
-39042	Awatea Rd near Owaka 								
-15096	Rangiora Woodend Rd near Chinnerys 								
-24805	Yaldhurst Rd near Bucknell St								
-38197	Amyes Rd near Trevor St								
-42698	Colenso St near Menzies 								
-40038	North Pde near Poulton Ave								
-54260	Victoria St near Peterborough 								
-42218	Dublin St near Norwich Qy								
-45726	Charlesworth St near Ti Rakau Dr								
-20446	Broadhaven Ave near Anglesea 								
-11977	Harvard Ave and Main South Rd								
-32893	Huntsbury								
-10641	Clyde Rd near Hooker Ave								
-19459	Harewood Rd near Trafford St								
-38184	Awatea Rd near Dix St								
-15065	Main North Rd near Woodend Beach 								
-20894	Broadhaven Ave near Ferngrove Pl								
-18578	N Avon Rd near Tweed St								
-42680	Sumner								
-39035	Awatea Rd near Owaka 								
-3684	Acacia Avenue near Hibiscus Grove								
-41353	Templeton								
-23929	Hargood St near Clydesdale 								
-54273	Waimairi Rd near Dovedale Ave								
-20414	Queenspark								
-43537	Rossall St near Highgate Ave								
-32886	Huntsbury Ave								
-11949	Clarence St near Peverel 								
-10618	Clyde Rd near Wai-iti Tce								
-32409	Ramahana Rd near Aotea Tce								
-19428	Colombo St near Bealey Ave								
-20422	Broadhaven Ave near Ferngrove Pl								
-40491	Ferry Rd near Osborne St								
-38178	Awatea Rd near Dix St								
-18584	Beach Rd near Bower Ave								
-17253	Riccarton Ave								
-15077	Woodend (Main North Rd)								
-43528	Williams St near Courtenay Drive								
-41348	Fendalton								
-40017	Rossall St near Highgate Ave								
-29239	Daniels Rd near Marwick Pl								
-44858	Ti Rakau Dr near Kestrel Pl								
-11954	St Martins Rd near Wilding 								
-54287	Waimairi Rd near Dovedale Ave								
-32872	Huntsbury Ave near Ramahana Rd								
-10625	Clyde Rd near Evatt St								
-19437	Veitches Rd near Larch Pl								
-12800	Papanui Rd near Milford St								
-18108	Wainoni Rd near Ottawa 								
-41330	New Brighton Rd near Bower Ave								
-20873	Queenspark								
-19400	Colombo St near Canon 								
-23901	Hargood St and Linwood Ave								
-38166	Awatea Rd near Gdns								
-14198	Buchanans Rd near Peebles Dr								
-16370	Wairakei Rd near Charlcott St								
-42667	Wakefield Ave near Paisley St								
-54294	Cranford St near Knowles 								
-32864	Ramahana Rd near Aotea Tce								
-15049	Main North Rd near the lakes								
-39019	Main South Rd near Canterbury St								
-33714	Selwyn St near Bletsoe Ave								
-30688	Gloucester St near Latimer Square								
-26170	Woodend (Main North Rd)								
-42651	Nayland St near Head 								
-18566	Marine Pde near Rawhiti Ave								
-39003	Main South Rd near Tower St								
-17230	Riccarton Ave (Hospital)								
-23917	Colombo St near Boon 								
-20405	Broadhaven Ave near Jacaranda Pl								
-21736	Effingham St near Pegasus Ave								
-20887	Bower Ave near Pinewood 								
-38150	Awatea Rd near Gdns								
-10602	Clyde Rd near Jeffreys 								
-30674	Marriner St near Wakefield Ave								
-26189	Estuary Rd near Beatty St								
-33705	Selwyn St near Cheviot 								
-19416	Harewood Rd near Gardiners 								
-11931	Cashmere Rd near Crichton Tce								
-32855	Ramahana Rd near Aotea Tce								
-24418	Barbadoes St near Bealey Ave								
-10251	Maidstone Rd near Colina St								
-23566	Ferry Rd near Phillipstown Cts								
-19060	Highsted Rd near Glenmore Ave								
-53781	Yaldhurst								
-32048	Carmen Rd near Halwyn Dr								
-54633	Gardiners Road near Cullahill Street								
-22230	Westlake Dr near Hemingford Pl								
-51126	Disraeli St near Selwyn 								
-43172	Harper Ave near Deans 								
-12431	Stanmore Rd near Lychgate Cl								
-14612	Gilberthorpes Rd near Waterloo 								
-36889	Buckleys Rd near Pamela St								
-13766	Lake Terrace Rd near Fairway Dr								
-53308	Westfield Riccarton								
-15943	Main North Rd near Swift St								
-43164	Wairakei Rd near Jennifer St								
-36870	Kerrs Rd								
-44014	Ashley St near River Rd								
-11592	Hoon Hay Rd near Cashmere 								
-32030	Blenheim Rd near Cable St								
-19073	Highsted Rd near Sapphire St								
-26601	Southern Park and Ride (South Belt)								
-24425	Flockton St near Archer 								
-33369	Milton St								
-15958	Main North Rd near Thompsons 								
-3248	Mt Pleasant Terminus								
-37721	Memorial Ave near Hampton Pl								
-54646	Southbridge								
-53799	Yaldhurst								
-13778	Lake Terrace Rd near Lakewood Dr								
-10267	Maidstone Rd near Radbrook St								
-11117	Lyttelton St near Conway 								
-24879	Springs Rd near Caudron 								
-43155	Wairakei Rd near Pitcairn Cres								
-3263	NTA								
-3262	NTA								
-23545	Aylmer St and Colombo 								
-54651	Southbridge Hotel								
-15927	Main North Rd near Richill St								
-50295	Ellesmere Junction Rd near Mather Pl								
-32024	Hackthorne Rd near Gwynfa Ave								
-36862	Woodham Rd near Carnarvon St								
-10233	Withells Rd near Gainford St								
-12892	Papanui Rd near Tomes 								
-11563	Ensors Rd near Grenville St								
-44482	Main North Rd near Hewitts 								
-13745	Burwood Rd near Helmsdale St								
-12412	Stanmore Rd near London St								
-44476	King St near Royal Tce								
-22224	Lancewood Dr near Westlake 								
-24402	Barbadoes St near Canon 								
-14608	Manurere St near Tauiwi Cres								
-33348	Cashmere Rd near Penruddock Rse								
-53331	Silverstream								
-15936	Main North Rd near Donegal St								
-37709	Greers Rd near Saffron St								
-51157	Woodham Rd near Tancred St								
-23550	Colombo St near Fisher Ave								
-32011	Colombo St near Fisher Ave								
-13750	Stanmore Rd near Gloucester St								
-43140	Highsted Rd								
-12420	Stanmore Rd near Alexandra St								
-54667	Kaiapoi Central Park & Ride								
-42294	Port Hills Rd near Nuttall Dr								
-10246	Maidstone Rd near Derenzy Pl								
-20498	Queenspark Dr near Chadlington St								
-44469	Main North Rd near Hewitts 								
-47976	James St near Boundary Rd								
-25706	Waterloo Rd near Kissel St								
-19025	Cranford St near Mcfaddens Rd								
-18177	Wainoni Rd near Ottawa 								
-42287	Main North Rd near Lees 								
-23521	Ferry Rd near Bordesley St								
-24851	Carmen Rd near Waterloo 								
-15904	Kainga								
-33330	Cashmere Rd near Mavin 								
-32484	Glovers Rd near Larsens 								
-53349	Silverstream								
-12871	Papanui Rd near Mays 								
-10694	Whitby St near Everest 								
-32007	Buchanans Rd near Dumfries Dr								
-13721	Beach Rd near Effingham St								
-10214	Avonhead Mall								
-46631	Merrin St near Withells Rd								
-42273	Port Hills Rd near Avoca Valley 								
-45301	Burwood Rd								
-44453	King St near Royal Tce								
-18183	Wainoni Rd near Avonside Dr								
-25710	Waterloo Rd								
-23532	Hackthorne Rd near Westenra Tce								
-54680	Travis Road near Atlantis Street								
-32478	Roydvale Ave								
-12408	Burwood Rd near Lakewood Dr								
-15915	Main North Rd near Link 								
-51174	Gardiners Rd near Sawyers Arms 								
-54202	Penruddock Rise near Sedbergh Place								
-10222	Withells Rd near Apsley Dr								
-13732	Burwood Rd near Mairehau 								
-12885	Papanui Rd near Normans 								
-19485	Harewood Rd near Cotswold Ave								
-23509	Ferry Rd near Manning Pl								
-19002	Claridges Rd near Opal Pl								
-39090	Bassett St near Tobin Ln								
-43117	Rocking Horse Rd near Heron St								
-24833	Yaldhurst Rd near Corfe St								
-33798	Halswell Rd nearHalswell Junction 								
-51188	Gardiners Rd near Sawyers Arms 								
-54698	Acacia Avenue near Beech Dr								
-33311	Cashmere Rd near Kaiwara St								
-53365	Richill St near Main North Rd								
-54218	Prestons Rd near Alpine View								
-42260	Main North Rd near Williams St								
-24846	Russley								
-42256	Port Hills Rd near Chapmans 								
-19018	Highsted Rd near Ludhiana St								
-39088	New Brighton Rd								
-45761	Harewood Rd near Waimakariri 								
-18165	Wainoni Rd near Cuffs 								
-43101	Memorial Ave near Ilam Rd								
-19492	Bishopdale Mall (Harewood Rd)								
-33780	Halswell Rd near Larsens 								
-51190	Woodham Rd near Ngarimu St								
-23513	Ferry Rd near Isabella Pl								
-10205	Avonhead Mall								
-54225	Innes Rd near Nancy Ave								
-32450	Lake Terrace Rd near De Ville Pl								
-53377	Lake Tce Rd near New Brighton 								
-33307	Hoon Hay Rd								
-29294	Main North Rd near Queen Elizabeth II Dr								
-13713	Beach Rd near Bower Ave								
-12863	Papanui Rd near Tomes 								
-10687	Rossall St near Holmwood Rd								
-51518	Corsair Dr near Harvard Ave								
-37692	Riccarton Rd near Balgay St								
-11062	Lincoln University								
-12393	Mairehau Rd near Royal Pk Dr								
-26557	Estuary Rd								
-28732	Opawa Rd near Ensors 								
-24378	Yaldhurst Rd near Angela St								
-40869	Beach Rd near Britannia St								
-22194	Lyttelton St near Glynne Cres								
-50670	Hansons Ln near Arthur St								
-17604	Memorial Ave near Roydvale 								
-38546	St Albans near Devonport Ln								
-18938	Tuam St near Saxon 								
-53706	Gloucester St near Fitzgerald Ave								
-51525	Corsair Dr near Gallaghan Cl								
-52856	Brookside Rd near Stonebrook Dr								
-13249	Kahu Rd near Titoki St								
-14581	Hagley Ave near Selwyn St								
-13254	Clyde Rd near Arts 								
-47003	Mcgregors Rd near Ruru 								
-40853	Halswell Rd near Warren Cres								
-40848	Wainoni Rd near Avonside Dr								
-52860	Rolleston (Kidman St)								
-17615	Memorial Ave near Grangewood Ln								
-38533	Springfield Rd near Kinloch St								
-53710	Gloucester St near Fitzgerald Ave								
-16764	Wairakei Rd near Blighs 								
-36359	Mccormacks Bay Rd near Maffeys 								
-50689	Hansons Ln near Haynes Ave								
-51539	The Runway near Kittyhawk Ave								
-50207	Godley Rd								
-10192	Hawthornden Rd near Henridge Pl								
-13220	Kotare St near Kahu Rd								
-11043	Centaurus Rd near Austin Kirk Ln								
-12372	Main North Rd near Swift St								
-46146	Linwood Ave near Cashel St								
-28713	Fitzgerald Ave near Armagh St								
-50691	Hansons Ln near Haynes Ave								
-52873	Cranley St								
-24350	Emmett St near Riselaw 								
-50211	Aylesbury Rd near Runners 								
-51541	The Runway near Dalwood Dve								
-53723	Innes Road near Severn Street								
-38522	Springfield Rd near Kinloch St								
-15887	Main North Rd near Neeves 								
-16738	Sawyers Arms Rd								
-15405	Papanui								
-13231	Kahu Rd near Girvan St								
-15894	Main North Rd near Doubledays 								
-38994	Main South Rd near Canterbury St								
-37663	Burnside High School								
-26542	Estuary Rd near Bellamy Ave								
-23033	Eastgate Mall (Linwood Ave)								
-53734	Marine Parade near Beresford St								
-52887	Salisbury St near Victoria 								
-15414	Papanui Rd near Blighs 								
-46133	Gloucester St near Barbadoes 								
-12386	Main North Rd near Factory 								
-51556	Wharenui Rd near Janet St								
-38514	Edgeware Rd near Caledonian 								
-10171	Hyde Park								
-15860	Woodend Rd near Greenwood Cl								
-24332	Buchanans Rd near Peebles Dr								
-22156	Selwyn St near Ruskin 								
-40824	Wairakei Rd near Jennifer St								
-26999	Gloucester St								
-51560	Wharenui Rd near Riccarton 								
-13208	Guildford St near Wadhurst Pl								
-25660	Westlake Dr near Eskdale Pl								
-52894	Bealey Ave								
-50230	Two Chain Rd near Aylesbury 								
-23482	Radley St near Tavender 								
-12355	Belfast								
-14534	Epsom Rd near Carbine Pl								
-38987	Main South Rd near Tower St								
-13685	Stanmore Rd near Haast St								
-11027	Main South Rd near English St								
-43091	Maidstone Rd near Farnham Pl								
-38505	Barbadoes St near Edgeware Rd								
-53747	Halswell Shops								
-10185	Kedleston Dr near Audley Gate								
-43089	Main South Rd near Carmen 								
-36794	Cresswell Ave near Gayhurst Rd								
-33284	Moorhouse Ave near Antigua St								
-23014	Hay St near Kuaka Cres								
-24345	Emmett St near Shirley Rd								
-40811	Lincoln Rd near Ln								
-40807	Wairakei Rd near Greers 								
-22160	Halswell Rd nearHalswell Junction 								
-53752	Marine Parade near Beresford Street								
-51573	Wharenui Rd near Riccarton 								
-25673	Westlake								
-23495	Cashmere 								
-45262	Rolleston Dr near Renoir 								
-38973	Main South Rd near Springs 								
-37644	Whiteleigh Ave near Leamington St								
-12364	Halswell Rd near Warren Cres								
-47440	Clarence St near Dilworth 								
-13212	Guildford St near Heath 								
-15873	Main North Rd								
-54605	Hereford St near Latimer Square								
-18901	Seaview Rd								
-47438	Rolleston Dr near Othello 								
-14990	Bealey Ave								
-24795	Emmett St near Skipton 								
-24313	Buchanans Rd near Cicada Pl								
-50253	Jones Rd (Templeton)								
-54614	Hereford St near Latimer Square								
-51587	Wharenui Rd near Puna St								
-53768	Birchs Rd near Oaks Dr								
-51103	Ti Rakau Dr near Delta Wy								
-11004	Cashmere Rd near Thorrington 								
-12338	Williams St near Holland Drive								
-43070	Maidstone Rd near Farnham Pl								
-37637	Clarence St near Burdale 								
-10159	Kedleston Dr near Apsley 								
-12340	Main North Rd near Doubledays 								
-13671	Ilam Rd near Montana Ave								
-10163	Kedleston Dr near Greystoke Ln								
-24321	Briggs Rd								
-23476	Cashmere								
-25656	Westlake Dr near Lancewood 								
-26503	Estuary Rd near Bellamy Ave								
-54622	Gardiners Road near Cullahill Street								
-33266	Moorhouse Ave near Montreal St								
-26981	Kingsbury Ave near Melford Cl								
-51594	Hereford St near Barbadoes 								
-53775	West Melton shops								
-22141	Barrington Mall (Athelstan St)								
-14523	Moorhouse Ave near Madras St								
-50269	Ellesmere Junction Rd near Mather Pl								
-38956	Main South Rd near Garvins 								
-51119	Disraeli St near Braddon 								
-39472	Keyes Rd near Lonsdale St								
-18532	Lake Terrace Rd								
-15020	Williams St near Dale 								
-38145	Dunbars Rd near Westlake Dr								
-26158	Estuary Rd near Sandra St								
-54195	Penruddock Rise near Francis Mill Grove								
-43977	Cranford St near Fraser 								
-42646	Wakefield Ave near Duncan St								
-55046	Jones Rd near Dawsons 								
-30661	Major Hornbrook Rd near Billys Trk								
-32840	Ramahana Rd near Centaurus 								
-14179	Parker St near Steele 								
-16358	Carlton Mill Rd near Cheltenham St								
-17689	Memorial Ave near Chilcombe St								
-17207	Riccarton Rd near Bartlett St								
-15031	Main North Rd near Old 								
-16362	Rossall St near Rhodes 								
-38132	Dunbars Rd near Westlake Dr								
-39464	Keyes Rd near Rawson St								
-32829	Waltham Rd near Rogers St								
-11908	Centaurus Rd near Whaka Tce								
-44815	Buchanans Rd near Dumfries Dr								
-14180	Colombo St near Salisbury 								
-42633	Lyttelton Wharf								
-55051	Jones Rd near Dawsons 								
-26162	Rocking Horse Rd near Tern St								
-11912	Hoon Hay Rd near Cashmere 								
-32838	Centaurus Rd near Ramahana 								
-30657	Nayland St near Stoke 								
-50604	Birmingham Dr near Craft Pl								
-14151	Smiths City (Southbound)								
-15480	Pages Rd near Shortland St								
-38121	Dunbars Rd near Lancewood Dr								
-26136	Rocking Horse Rd near Whimbrels Wy								
-42622	Duncan St near Campbell 								
-43954	Marshland Rd near Cotton St								
-55067	Apsley Drive								
-30642	Nayland St near Hardwicke 								
-28797	Bealey Ave near Madras St								
-47074	Pages Rd near Portchester St								
-50615	Birmingham Dr near Craft Pl								
-15008	Kaiapoi (McDonalds)								
-18521	Marshland Rd near Voss St								
-17670	Memorial Ave near Kendal 								
-15012	Williams St near Davie 								
-16343	Carlton Mill Rd near Exeter St								
-38113	Dunbars Rd near Balkwell St								
-40436	Blenheim Rd near Hansons Ln								
-43949	Marshland Rd near Hercules St								
-42614	Main North Rd near Barnes 								
-2854	The Hub Hornby								
-28323	Birchs Rd near Robinsons 								
-26143	Estuary Rd near Jellicoe St								
-32817	Wilsons Rd near Timbertop Ln								
-30635	Marriner St near Richmond Hill Wlk								
-52802	Brookside Rd near Stonebrook Dr								
-38580	Merivale Mall								
-13283	The Palms (Marshland Rd- vet side)								
-18972	New Brighton (Beresford St)								
-50627	Annex Rd near Nazareth Ave								
-19820	Veitches Rd near Grampian St								
-17643	Memorial Ave near Burnside Park								
-14133	Manurere St near Wycola Ave								
-30619	Main Rd near Marriner St								
-42605	Van Asch St near Denman 								
-55080	South Belt near Buckleys Rd								
-43931	Marshland Rd near Mcsaveneys 								
-40427	Memorial Ave near Grahams Rd								
-26590	Buckleys Rd near Rudds 								
-30626	Nayland St near Menzies 								
-39438	Travis Road near Bower Ave								
-32801	Waltham Rd near Austin St								
-38109	Halswell Rd near Dunbars 								
-50636	Annex Rd near Birmingham Dr								
-52818	Brookside Rd near East Maddisons 								
-36392	St Andrews Hill Rd near Marama Cres								
-19831	Claridges Rd near Opal Pl								
-13296	Lake Terrace Rd near Giles Pl								
-28306	Dunbars Rd near Hindess St								
-43920	Bush St near Strachan Pl								
-40415	Halswell Rd near Rowley Ave								
-20818	Queenspark Dr near Bower Ave								
-28784	Fitzgerald Ave near Alexandra St								
-46198	Rolleston Dr near Renoir 								
-15479	Pages Rd near Breezes 								
-14146	Manurere St near Ranui 								
-38579	Springfield Rd near St Albans 								
-50643	Annex Rd near Railway								
-52825	East Maddisons Rd near Lowes 								
-17658	Aylesbury Rd near Queens Dr								
-13265	North Pde near Averill St								
-40882	Eastgate Mall (Buckleys Rd)								
-36385	St Andrews Hill Rd near The Brae								
-41733	Rangiora Woodend Rd near Chinnerys 								
-43912	Marshland Rd near Mcsaveneys 								
-43908	The Palms (Shirley Rd)								
-24397	Gerald St near Murray Pl								
-26574	Oram Ave near Rodney St								
-14599	Hei Rd near Buchanans 								
-30603	Moorhouse Ave near Manchester St								
-38567	Springfield Rd near St Albans 								
-51502	Corsair Dr near Grebe Pl								
-14114	Hagley Ave near High Sch								
-18955	Tuam St near England 								
-50658	Annex Rd near Railway								
-36371	Major Hornbrook Rd near Billys Trk								
-52839	Rolleston Terminus								
-14122	Gilberthorpes Rd near Prichard Cres								
-38551	St Albans near Donald Pl								
-20802	Queenspark Dr near Donnington St								
-50662	Hansons Ln near Arthur St								
-13277	North Parade								
-52841	Brookside Rd near East Maddisons 								
-16786	Sawyers Arms Rd near Cotswold Ave								
-17636	Veitches Rd near Grampian St								
-20576	Bower Ave near Saltaire St								
-18257	Marine Pde near Bowhill Rd								
-23606	Colombo St near Thorrington Rd								
-40188	Bower Ave near Pinewood 								
-43210	Northwood Blvd near Mounter Ave								
-16078	Rossall St near Glandovey Rd								
-41039	Opawa Rd near Mary McLean Pl								
-24931	Carmen Rd near Waterloo 								
-39192	New Brighton (Oram Ave)								
-28055	Blenheim Rd near Curletts 								
-11626	Gamblins Rd near Ngaio St								
-33896	Halswell Rd near O'halloran Dr								
-36929	Aldwins Rd near Matlock St								
-29389	Cranford St near Malvern 								
-10775	Guildford St near Heath 								
-33416	Cashmere Rd near Kaiwara St								
-39185	Keyes Rd								
-40174	Kaiapoi (Police Station)								
-44532	Oxford Rd near Fairview Briars								
-24949	Carmen Rd								
-20582	Bower Ave near Dick Taylor Dr								
-16084	Strowan Rd near Lloyd St								
-42358	Bridle Path Rd near Port Hills 								
-28064	Blenheim Rd near Curletts 								
-33400	Penruddock Rse near Sedgwick Wy								
-36917	Aldwins Rd near Bass St								
-10308	Maidstone Rd near Colina St								
-32552	Brougham St near Albemarle 								
-33883	Halswell Rd near Village Lane								
-10781	Guildford St near Heath 								
-12960	Papanui Rd near Hawthorne St								
-13811	Main North Rd near Williams St								
-21886	Aston Dr near Orlando Cres								
-42343	Head St near Dryden 								
-44521	Kingsbury Ave near Windsor Ct								
-18235	Marine Pde near Hawke St								
-40161	Wainoni Rd near Breezes 								
-17380	Veitches Rd near Cavendish 								
-41018	Brittan Tce near Simeon Qy								
-39171	Keyes Rd near Sinclair St								
-16050	Rossall St near Office Rd								
-11603	Centaurus Rd near Torvill & Dean Ln								
-29362	Cranford St near Berwick 								
-12939	Lincoln Rd near Torrens 								
-10752	Whitby St near Everest 								
-33877	Halswell Rd near Glovers 								
-36901	Aldwins Rd near Harrow St								
-16066	Rossall St near Leinster Rd								
-39163	Bassett St near Parnwell 								
-44513	High St near Stephen 								
-40157	Wainoni Rd near Orrick Cres								
-18242	New Brighton (Oram Ave)								
-41002	Tuam St near Percy 								
-19574	Grampian St near Cavendish Rd								
-42336	Bridle Path Rd								
-20569	Bower Ave near Palmers Rd								
-33865	Halswell Rd near Nicholls 								
-10768	Sheffield Cres near Wairakei Rd								
-11619	Centaurus Rd near St Martins 								
-29370	Cranford St near Westminster 								
-12941	Main North Rd near Belfast 								
-40142	Wainoni Rd near Portsmouth St								
-21864	Effingham St near Monowai Cres								
-17367	Memorial Ave near Avice Hill Reserve								
-41471	Mairehau Rd near Putake Dr								
-39159	Bassett St near Vivian 								
-28017	Creyke Rd								
-44509	Kingsbury Ave near Regent 								
-15181	Ferry Rd near Manning Pl								
-42327	Bridle Path Rd near Ferrymead Park Dr								
-53061	Manchester St Super Stop								
-10734	Teesdale St near Deepdale 								
-32523	Brougham St near Wilsons Rd								
-33854	Larsens Rd near Glovers 								
-12918	Halswell Rd near Tankerville 								
-28491	Fitzgerald Ave near River Rd								
-18219	Stanmore Rd near London St								
-39144	Keyes Rd near Gresham Tce								
-17379	Memorial Ave near Spitfire Square								
-18226	Marine Pde near Lonsdale St								
-40135	Cavendish Rd near Barnes 								
-24908	Yaldhurst Rd near Curletts 								
-15199	Main North Rd								
-42793	Nayland St near Head 								
-16045	Wairakei Rd near Spalding St								
-42315	Masham Rd near Kintyre Dr								
-38291	Riccarton Rd near Shand Cres								
-53074	Manchester St Super Stop								
-12925	Papanui Rd near Rugby St								
-10747	Teesdale St near Tay 								
-32510	Opawa Rd near Hawford 								
-29358	Cranford St near Winton 								
-32990	Opawa								
-33849	Patterson Tce near Ridder Pl								
-20511	Queenspark Dr near Chadlington St								
-18675	Mairehau Rd near Tapiri St								
-42786	Nayland St near Hardwicke 								
-17346	Memorial Ave near Burnside Park								
-16499	Wairakei Rd near Abros Pl								
-38289	Riccarton Rd near Paeroa St								
-39137	Hawke St near Convoy 								
-16013	Wairakei Rd near Aorangi 								
-29327	Regent's Park Dr near Primrose Hill Ln								
-40126	Wainoni Rd near Orrick Cres								
-42304	Bridle Path Rd near Ferrymead Park Dr								
-33831	Oakridge St near Nicholls Rd								
-53088	Bus Interchange (Platform C)								
-26297	Rocking Horse Rd near Torea Ln								
-32506	Opawa Rd near Locarno St								
-32988	Opawa								
-50810	Lyttelton Jetty								
-10710	Sir William Pickering Dr near Roydvale Ave								
-42772	Colenso St near Menzies 								
-18203	Stanmore Rd near Warwick St								
-17351	Memorial Ave near Roydvale 								
-53090	Bus Interchange (Platform D)								
-36098	Moorhouse near Manchester St								
-38270	Springs Rd near Amyes 								
-12902	Papanui Rd near Weston 								
-10723	Roydvale Ave near O'connor Pl								
-33820	Halswell Shops								
-32974	Opawa Rd near Cholmondeley Ave								
-30795	Main Rd near Augusta St								
-28489	Blenheim Rd near Curletts 								
-50823	Diamond Harbour Jetty								
-21024	Gloucester St near England 								
-45477	Aidanfield Dr near Bibiana St								
-25866	Dunbars Rd near Balkwell St								
-23203	Hackthorne Rd near Dyers Pass 								
-24537	Springs Rd near Dufek Cres								
-26714	Gloucester St near England 								
-33018	Mccarthy St near Rowley Ave								
-32167	Major Hornbrook Rd near Muritai Tce								
-22351	Wales St near Shamrock Pl								
-36521	Waimairi Rd near Brulay Cts								
-37853	Aldwins Rd near Bass St								
-13882	Kotare St								
-11223	Lyttelton St near Conway 								
-51249	Sir William Pickering Dr								
-12551	Lincoln Rd and Parade Ct								
-54755	West Belt								
-13404	Woodbury St near Glenharrow Ave								
-10377	Kedleston Dr near Hatfield Pl								
-14736	Moorhouse Ave near Washington Wy								
-53429	Williams St (Mobil Kaiapoi)								
-23219	Hackthorne Rd near Stambridge Pl								
-10383	Maidstone Rd near Derenzy Pl								
-32151	Major Hornbrook Rd near Rockview Pl								
-24544	Bentley St near Cutts Rd								
-26722	Kippenberger Ave near East Belt								
-22367	Barrington St near Conway 								
-23699	Wilsons Rd								
-46318	Mandeville St near Kyle 								
-51254	Riccarton Ave (Hospital)								
-54764	West Belt								
-33485	Sedgwick Way near Woodside Common								
-13895	Williams St near Cass 								
-21030	Gloucester St								
-14743	Park Tce near Peterborough St								
-11234	Frankleigh St near Alvarez Pl								
-44131	Rocking Horse Rd near Penguin St								
-13415	Staveley St								
-12567	Lincoln Rd near Nairn St								
-46789	Pages Rd near Woodham 								
-24516	Cutts Rd near Yaldhurst 								
-20152	Hills Rd near Gresford St								
-19162	Harewood Rd near Farrington Ave								
-33471	Penruddock Rse near Highcrest Hts								
-3386	Barrington Mall								
-22333	Patterson Tce near Ridder Pl								
-24996	Yaldhurst Rd near Racecourse 								
-25845	James St near Boundary Rd								
-53440	Corsair Dr - The Landing								
-54772	Smith Street near Raven St N								
-11206	Aldwins Rd near Harrow St								
-14715	Riccarton Ave								
-32146	St Martins Shops								
-13869	Kotare St near Roa Rd								
-10354	Merrin St near Hawthornden Rd								
-11688	Centaurus Rd near Major Aitken Dr								
-24528	Springs Rd near Sioux Ave								
-26705	Oram Ave near Hood St								
-41087	Ti Rakau Dr near Shearwater 								
-11690	Centaurus Rd near Austin Kirk Ln								
-44597	High St near Weston Pl								
-45449	Linwood Ave near Kidbrooke St								
-22346	Patterson Tce near Rempstone Dr								
-19170	Bishopdale Mall (Harewood Rd)								
-14727	Oakridge St near Nicholls Rd								
-32133	Fendalton Rd near Stratford St								
-53455	The Runway near Deal St								
-54786	Smith Street near Raven St N								
-51277	Sir William Pickering near Gil Simpson								
-36972	St Martins Rd near Wilding 								
-10365	Kedleston Dr near Audley Gate								
-54304	Darfield								
-12546	Bealey Ave								
-13876	Williams St near Davie 								
-23647	Hay St near Mcgregors Rd								
-20134	Hills Rd near Warden St								
-44584	Ashley St near Duke 								
-19143	Harewood Rd near Marble Wood Dr								
-44108	Addington Village								
-24977	Yaldhurst Rd near Withells 								
-22314	Barrington St near Strauss Pl								
-51283	Sir William Pickering Dr								
-54793	Kingsbury Ave near Melford Cl								
-32122	University - Creyke Rd								
-53464	The Runway near Deal St								
-12994	Halswell Rd near Coppell Pl								
-10331	Avonhead Mall								
-54315	Darfield Town Centre								
-41073	Opawa Rd near Grange St								
-36964	St Martins Rd near Ensors 								
-12514	Papanui Rd near Webb St								
-28093	Blenheim Rd near Watts 								
-33459	Penruddock Rse near Pembridge Ln								
-19158	Harewood Rd near St James Ave								
-45420	Bluestone Dr near Alpine View								
-24500	Yaldhurst Rd near Ludecke Pl								
-25832	Springs Rd near Birchs 								
-10349	Avonhead Mall								
-32599	Greers Rd near Ardmore Pl								
-14704	Christchurch Hospital Main Stop WB								
-51296	Bush St near Coates Pl								
-33444	Penruddock Rse near Croftfield Pl								
-53472	Hawke St near Keppel 								
-32114	University - Creyke Rd								
-42391	Heathcote								
-11674	Gamblins Rd near Ngaio St								
-36955	Ensors Rd								
-13853	Williams St near Dale 								
-44566	Ashley St near Duke 								
-42389	Bridle Path Rd near Hammerton Ln								
-19127	Harewood Rd near Wooldridge 								
-20595	Whitmore St near Bealey Ave								
-18274	Burwood Rd near Stanford St								
-45892	Halswell Junction Rd near Foremans 								
-25809	Springs Rd near Boston Ave								
-41056	Bridle Path Rd near Rollin St								
-32581	Hills Rd near Dudley St								
-24954	Barbadoes St near Purchas 								
-32105	Ferry Rd near Radley St								
-10799	Guildford St near Wayside Ave								
-53486	Hawke St near Keppel 								
-36940	Ensors Rd and Sullivan Ave								
-10312	Withells Rd near Gainford St								
-11642	Centaurus Rd near Woodlau Rse								
-12973	Main North Rd near Cranford St								
-33437	Cashmere Rd near Mavin 								
-28072	Blenheim Rd near Hansons Ln								
-19136	Harewood Rd near Nunweek Blvd								
-18288	The Palms (Marshland Rd mall side)								
-46736	Brittan Tce near Seaview 								
-54343	Pegasus Main St near Motu Qy								
-11657	Howard St near Simeon 								
-28086	Blenheim Rd near Watts 								
-53493	Williams St (Mobil Kaiapoi)								
-12505	Papanui Rd near St Albans 								
-36938	Ensors Rd near Charles St								
-13830	Williams St near Sims Rd								
-42370	Bridle Path Rd								
-10320	Withells Rd near Apsley Dr								
-33428	Cashmere Rd - Francis Res								
-12987	Papanui Rd near Heaton St								
-40190	Bower Ave near Dick Taylor Dr								
-36482	Soleares Ave near Mt Pleasant Rd								
-47137	Lincoln Rd near Hazeldean 								
-11186	Kerrs Rd								
-40980	Wairakei Rd near Kendal Ave								
-40502	Milton St near Strickland 								
-24015	Barbadoes St near Bealey Ave								
-41831	Brittan Tce near Voelas Rd								
-26672	Gloucester St near Stanmore Rd								
-36005	Major Hornbrook Rd near Billys Trk								
-23165	Princess Margaret Hospital								
-12034	Main North Rd near Richill St								
-39515	Shirley Rd near Quinns 								
-51644	Inwoods Rd near Jade Pl								
-53821	Doyleston								
-38669	Idris Rd near Fendalton 								
-15548	Ferry Rd near Oak St								
-14216	Bealey Ave								
-11193	Lyttelton St near Rose 								
-15553	Ferry Rd near Charlesworth St								
-13375	Clyde Rd near Fendalton 								
-38653	Straven Rd near Rochdale St								
-23177	Hackthorne Rd near Stambridge Pl								
-26686	Estuary Rd near Halsey St								
-24027	Middlepark Rd near Epsom 								
-40979	Highsted Rd near Glenmore Ave								
-26209	Rocking Horse Rd near Petrel Ln								
-28869	Main Rd near Te Awakura Tce								
-50322	Ellesmere Junction Rd near Leeston 								
-39504	Shirley Rd near Quinns 								
-12047	Main North Rd near Donegal St								
-53832	Doyleston								
-19910	Veitches Rd near Cavendish 								
-51659	Inwoods Rd near Jade Pl								
-11164	Eastgate Mall (Buckleys Rd)								
-12010	N Avon Rd near Petrie St								
-40967	Ferry Rd near Settlers Cres								
-23149	Hackthorne Rd near Gwynfa Ave								
-41812	Norwich Quay near Canterbury St								
-28830	Bealey Ave								
-51663	Bower Ave near Crofts Ln								
-22295	Lyttelton St near Hennessy Pl								
-24473	Racecourse Rd near O'briens 								
-15524	Ferry Rd near Tilford St								
-14677	St Asaph near Fitzgerald Ave								
-50333	Lowes Rd near Rembrandt Dr								
-53845	Springston								
-44080	Rowley Ave near Salmond St								
-38648	Idris Rd near Wroxton Tce								
-13347	Main North Rd near Manse Pl								
-14683	Moorhouse Ave near Selwyn St								
-13352	Main North Rd near the lakes								
-11172	Buckleys Rd near Butterfield Ave								
-14200	Buchanans Rd near Racecourse 								
-38630	Idris Rd near Wroxton Tce								
-28848	Main Rd near Wakatu Ave								
-51671	Bower Ave near Crofts Ln								
-23154	Hackthorne Rd near Cashmere 								
-12023	Burwood Rd near Clarevale St								
-54701	Oxford Road near Charles Upham Dr								
-50346	Lowes Rd near Tennyson St								
-28811	Bealey Ave near Madras St								
-22276	Halswell Rd near Village Lane								
-24456	Emmett St near Riselaw 								
-40946	Tuam St near Nursery Rd								
-26638	Pages Rd near Farnborough St								
-50351	Jones Rd near Weedons Ross 								
-51685	Aston Dr near Torres Pines								
-23120	Hackthorne Rd near Lowick Ave								
-13323	N Avon Rd near Chrystal St								
-12477	Marshland Rd near Pagoda St								
-10298	Maidstone Rd near Highfield Pl								
-38624	Glandovey Rd								
-37778	Gayhurst Rd near Coopers 								
-54717	Oxford Road near Oakwood Dr								
-12483	Papanui Rd near Murray Pl								
-15991	Northwood Blvd near Main North Rd								
-25312	Middlepark Rd near Takaro Ave								
-28824	Main Rd near Celia St								
-51692	Aston Dr near Torres Pines								
-24460	Buchanans Rd near Racecourse 								
-32076	Innes Rd near Hills 								
-23131	Hackthorne Rd near Lady Polson Ln								
-51212	Roydvale Ave near Highwood Ln								
-26640	Bush St near South Blt								
-47562	Hussey Rd near Millpark Tce								
-14665	St Asaph near Barbadoes 								
-50367	Jones Rd near Hoskyns 								
-53878	Springston								
-15511	Ferrymead Shops								
-54729	Rangiora (Ashley Street)								
-24439	Quinns Rd near Hercules St								
-37750	Aldwins Rd near Edmond St								
-23584	Colombo St near Nutfield Ln								
-33395	Milton St near Drummond 								
-19087	Highsted Rd								
-40922	Hussey Rd near Springvale Gdns								
-25768	Springs Rd near Henry Wigram Pl								
-38607	Heaton St near Glandovey Rd								
-11129	Rose St near Hoon Hay Rd								
-32069	Lake Terrace Rd near Lakewood Dr								
-40914	Main North Rd near Sturrocks 								
-53884	Irwell								
-53401	Island Rd near Barnard St								
-13784	Hawthornden Rd near Bellingham Pl								
-50379	Jones Rd near Hoskyns 								
-10279	Maidstone Rd								
-13306	Marshland Rd near Alma Pl								
-54738	West Belt near Arlington Boulevard								
-26629	Pages Rd								
-10280	Maidstone Rd near Westmont St								
-28807	Main Rd near Raekura Pl								
-15970	Northwood								
-36891	Aldwins Rd near Marlborough St								
-25775	Springs Rd near Boston Ave								
-33382	Milton St near Selwyn 								
-22269	Nottingham Ave near Arkwright Pl								
-19094	Veitches Rd near Kimberley St								
-50380	Kissel St near Banks 								
-51231	Roydvale Ave near Homersham Pl								
-24441	Barbadoes St near Purchas 								
-54740	West Belt near Arlington Blvd								
-12465	Marshland Rd near Cotton St								
-13797	Main North Rd								
-13310	North Pde near Medway St								
-53897	Corsair Dr near Keene St								
-37745	Riccarton Rd near Field Tce								
-53417	Island Rd near Barnard St								
-18652	Mairehau Rd near Daytona Pl								
-17322	Memorial Ave near Grahams Rd								
-38262	Amyes Rd near Shands 								
-36080	Moorhouse Ave near Montreal St								
-50708	Withells Rd near Woodbury St								
-33808	Wales St near Shamrock Pl								
-16475	Wairakei Rd near Sheffield Cres								
-19981	Cranford St near Westminster 								
-41437	Papanui Rd near Holly 								
-40103	Wainoni Rd near Hampshire St								
-29304	Lowry Ave near Denniston Cres								
-43619	Southern Park and Ride (South Belt)								
-39591	Bassett St near Parnwell 								
-30782	St Andrews Hill Rd near The Brae								
-26278	Estuary Rd near Sandra St								
-50712	Withells Rd near Staveley St								
-24091	Kensington Ave near Westminster St								
-33812	Wales St near Oldham Cres								
-17333	Memorial Ave near Grangewood Ln								
-15152	Linwood Ave near Cashel St								
-39100	Bassett St near Tobin Ln								
-16481	Wairakei Rd near Abros Pl								
-20507	Broadhaven Ave near Queenspark Dr								
-29315	Regent's Park Dr near Aylsham Ln								
-42755	Duncan St near Truro 								
-29793	Blenheim Rd near Penn Pl								
-26284	Rocking Horse Rd near Tern St								
-10706	Sir William Pickering Dr (NB)								
-39589	Travis Rd near Atlantis St								
-32957	Opawa Rd near Manatu Ln								
-19999	Cavendish Rd near Sturrocks 								
-30776	Major Hornbrook Rd near Billys Trk								
-18668	Mairehau Rd near Inwoods 								
-17783	Tennyson St near Michelangelo Dr								
-42740	Nayland St near Menzies 								
-52904	Victoria St near Dorset 								
-14271	St Asaph near Montreal 								
-38243	Amyes Rd near Branston St								
-15123	Main North Rd near Cunliffe 								
-12099	Mairehau Rd near Inwoods 								
-37399	Colombo St near Remuera Ave								
-36067	Mt Pleasant Rd near Belleview Tce								
-20958	Broadhaven Ave near Inwoods Rd								
-41896	Cranford St near Malvern 								
-28436	Madeley Rd near Major Hornbrook 								
-41416	Pak n Save Wainoni								
-26250	Rocking Horse Rd near Plover St								
-47192	Aidanfield Dr near Bibiana St								
-18634	Lake Terrace Rd near Fairway Dr								
-17305	Veitches Rd near Northfield 								
-32942	Huntsbury Ave near Ramahana Rd								
-24070	Craven St near Algidus 								
-20962	Bower Ave near New Brighton Rd								
-39562	Rookwood Ave near Marriotts Rd								
-19975	Cavendish Rd near Northcote 								
-52915	Hereford St near Montreal 								
-42738	Wakefield Ave near Paisley St								
-36051	Ara Institute								
-29772	Grimseys Rd near Lowry Ave								
-42729	Van Asch St near Denman 								
-26266	Estuary Rd near Jellicoe St								
-28443	Major Hornbrook Rd near Belleview Tce								
-24089	Westminster St near Flockton 								
-38236	Amyes Rd near Branston St								
-16468	Wairakei Rd near Todd Ave								
-32935	Huntsbury Ave								
-30753	St Andrews Hill Rd near Marama Cres								
-18647	Marshland Rd near Amos Pl								
-15582	Ferry Rd near Catherine St								
-18610	Marshland Rd near Hammersley Ave								
-52927	Rolleston Ave near Gloucester St								
-32919	Huntsbury								
-41877	Cranford St near Winton 								
-36046	Fitzgerald Ave near Harvey Tce								
-24058	Emmett St near Jebson 								
-26232	Estuary Rd near Ebbtide St								
-15106	Main North Rd near Momorangi Cres								
-32926	Huntsbury Ave near Aotea Tce								
-14259	Epsom Rd near Middlepark 								
-38227	Amyes Rd near Witham St								
-39558	Keyes Rd								
-51600	Hereford St near Barbadoes 								
-30748	Major Hornbrook Rd near Muritai Tce								
-17765	Tennyson St near Rolleston Dr								
-52936	Madras St Terminus								
-38695	Riccarton Rd near Newnham Tce								
-14263	St Asaph near Colombo 								
-36033	Gloucester St near Fitzgerald Ave								
-42717	Hendersons Rd near Rowley Ave								
-24062	Buchanans Rd near Peebles Dr								
-30730	St Andrews Hill Rd near Major Hornbrook 								
-26245	Rocking Horse Rd near Penguin St								
-38215	Amyes Rd near Witham St								
-52943	Madras St near Southwark 								
-18623	Lake Terrace Rd near De Ville Pl								
-17777	Main South Rd near Chalmers St								
-51616	Hereford St near Fitzgerald Ave								
-13381	Staveley St								
-38682	Ilam Rd near Rudleigh Ave								
-12052	Main North Rd near Tuckers 								
-26213	Southshore								
-24036	Middlepark Rd near Takaro Ave								
-36022	Moorhouse Ave near Hagley 								
-42701	Head St near Wiggins 								
-23183	Dyers Pass Rd and Hackthorne 								
-26693	Union St								
-38204	Amyes Rd near Trevor St								
-14237	Racecourse Rd near O'briens 								
-30724	St Andrews Hill Rd near Marama Cres								
-39536	New Brighton Rd near Lake Terrace 								
-32903	Huntsbury Ave near Aotea Tce								
-52958	Tuam St near Madras 								
-19923	Grampian St near Cavendish Rd								
-53809	Leeston Rd near Ellesmere Junction 								
-14244	Buchanans Rd near Vanguard Dr								
-29738	Ensors Rd near Sullivan Ave								
-40998	Park Tce								
-26221	Estuary Rd near Halsey St								
-23196	Hackthorne Rd near Westenra Tce								
-24043	Flockton St near Carrick 								
-28882	Greers Rd near Ardmore Pl								
-36014	Moorhouse Ave near Waller Tce								
-12068	Main North Rd near Momorangi Cres								
-38676	Ilam Rd near Kirkwood Ave								
-15576	Ferry Rd near Tunnel 								
-13399	Solway Ave near Glenside 								
-17754	Main South Rd near Seymour St								
-50305	Godley Rd								
-39527	The Palms (New Brighton Rd)								
-53813	Leeston Rd near Ellesmere Junction 								
-30711	Mt Pleasant								
-19221	Harewood Rd near Wooldridge 								
-25907	Gerald St near Kildare Tce								
-46840	Marshland Rd								
-45994	Rolleston Dr near Othello 								
-18371	Burwood Hospital - Mairehau Rd								
-20217	Queenspark Dr near Lamorna Rd								
-42009	Port Hills Rd near Martindales 								
-54475	Prestons (Te Korari St)								
-53144	Manchester St near Kilmore 								
-11748	Centaurus Rd near Landsdowne Tce								
-10417	Sheffield Cres near Sir William Pickering Dr								
-28174	Lincoln Rd near Dickens St								
-32683	Wilsons Rd near Riverlaw Tce								
-32200	Major Hornbrook Rd near Freeman St								
-42481	Bridle Path Rd near Cannon Hill Cres								
-42475	Mt Pleasant Rd near Main 								
-40296	North Pde near Averill St								
-41143	Park Tce near Cressy 								
-45987	Linwood Ave near Wanstead Pl								
-21552	North Shore								
-43321	Hoon Hay Rd near Lewis St								
-20229	Queenspark Dr near Brentwood St								
-54481	Prestons (Te Korari St)								
-22403	Wales St near Oldham Cres								
-32677	Ramahana Rd near Aotea Tce								
-53159	Kilmore St near Manchester 								
-10429	Roydvale Ave near Juniper Pl								
-12607	Halswell Rd near Coppell Pl								
-54009	Prestons Rd near Te Korari St								
-11753	Beckenham								
-13933	Main North Rd near Wrights 								
-39298	Travis Rd near Blue Gum Pl								
-41136	Governors Bay Rd near Mariners Cv								
-46829	Saracen Ave near Mahlet St								
-11724	Cashmere Rd near Ferniehurst St								
-54013	Prestons Rd near Te Korari St								
-53163	Hereford St near Colombo 								
-54499	Preston Downs Reserve								
-33999	Halswell								
-19213	Fendalton Rd near Tui St								
-40277	Marine Pde near Hawke St								
-18363	Burwood Rd near Mairehau 								
-23718	Wilsons Rd near Koromiko St								
-45960	Mandeville St near Kyle 								
-41127	Delta Wy near Ti Rakau Dr								
-46817	Saracen Ave near Handel Cl								
-39280	Travis Rd near Bower Ave								
-53171	Hereford St near Colombo 								
-13914	Kainga								
-32654	Centaurus Rd near Ramahana 								
-54021	Simeon St near Milton 								
-33981	Halswell Rd near O'halloran Dr								
-29499	Cranford St near Fraser 								
-11730	Cashmere Rd near Valley 								
-10401	Kilmarnock St near Kahu Rd								
-19664	Northcote Rd near Uxbridge St								
-46801	Pages Rd near Kearneys 								
-17488	Main South Rd near Seymour St								
-44623	King St near Seddon 								
-50909	Pegasus Blvd near Whakatipu St								
-39279	New Brighton Rd near Bampton St								
-41115	Rapaki								
-42447	Heathcote								
-37093	Frankleigh St								
-33975	Halswell Rd near Larsens 								
-2107	Burnham								
-53185	Rolleston Ave near Gloucester St								
-54032	Milton St near Simeon 								
-29468	Antigua St near Disraeli 								
-28135	Lincoln Rd near Clarence St S								
-11707	Cashmere Rd								
-32649	Mt Pleasant Rd near Belleview Tce								
-10850	Clyde Rd near Aorangi 								
-44610	Main North Rd near Pa 								
-45941	Mcgregors Rd near Ruru 								
-50913	Springs Rd near Marshs 								
-37086	Harewood Rd near Restell St								
-42434	Main Rd near Raekura Pl								
-22847	Coronation St near Simeon 								
-39267	Cresswell Ave and New Brighton Rd								
-40254	Rodney St near Union 								
-17490	Main South Rd near Chalmers St								
-41104	Gardiners Rd near Smacks Cl								
-53192	Salisbury St near Gracefield Ave								
-29475	Cranford St near Mcfaddens Rd								
-54045	Faringdon (Blvd)								
-28142	Addington Village								
-32631	Mt Pleasant Rd near Drayton Dr								
-50921	Pegasus Blvd near Solander Rd								
-33968	Halswell Rd near Glovers 								
-11711	Cashmere Rd near Valley 								
-20632	Hills Rd near Gresford St								
-39251	New Brighton Rd near Horseshoe Lake 								
-42423	Bridle Path Rd near Rollin St								
-17461	Riccarton Rd near Harakeke St								
-15286	Ferry Rd near Hargood St								
-19640	Regents Park Dr near Woodhurst 								
-37072	Waimairi Rd near Bowen St								
-22810	Simeon St near Howard 								
-54050	Faringdon (Lansdowne Wy)								
-28594	Matipo St near Maxwell 								
-33952	Patterson Tce near Brigham Dr								
-10832	Clyde Rd near Morley St								
-32620	Soleares Ave near Mccormacks Bay Rd								
-50932	Pegasus Blvd near Main St								
-38393	Riccarton Rd near Middleton 								
-42410	Main Rd near Celia St								
-22823	Waltham Rd near Hastings St E								
-15293	Ferry Rd near Portman St								
-40231	Buckleys Rd near Kerrs 								
-43748	Central Park and Ride (White St)								
-45925	Christchurch Gondola								
-20645	Hills Rd near Avalon St								
-29452	Cranford St near Edgeware Rd								
-54066	Birchs Rd near Barton Fields Dr								
-16148	Wairakei Rd near Aorangi 								
-50945	Pegasus Blvd near Waireka St								
-32612	Brougham St near Wilsons Rd								
-23328	Colombo St and Somerfield 								
-47775	Merrin St near Farndale Pl								
-10493	Cranbrook Ave near Appleby Cres								
-22474	Barrington St near Conway 								
-26831	Pages Rd near Rowan Ave								
-52697	Tennyson St near Markham Way								
-54874	Kaiapoi South Park & Ride								
-32285	Main North Rd near School 								
-51368	Fendalton Rd near Holmwood 								
-44261	Ashley St near Rickton Pl								
-50037	Burwood Rd near Rothesay 								
-42084	Port Hills Rd near Mauger Dr								
-12676	Hendersons Road								
-26849	Pages Rd near Portchester St								
-44257	Southbrook								
-12682	Hendersons Rd near Rowley Ave								
-42078	Port Hills Rd near Avoca Valley 								
-25995	Waterloo Rd near Wilson St								
-22488	Westlake								
-45109	Jones Rd (Templeton)								
-23337	Colombo St near Devon 								
-25515	Waterloo Rd near Brixton St								
-33127	Hoon Hay Rd near Smartlea St								
-13539	Withells Rd near Avonhead 								
-15716	Ferry Rd near Charlesworth St								
-24661	Yaldhurst Rd near Brodie St								
-45580	Linwood Ave near Wanstead Pl								
-14864	Manchester St near Salisbury 								
-54888	Northern Park and Ride (River Rd)								
-10026	Maidstone Rd								
-12204	Burwood Rd near Carlsen St								
-37967	Innes Rd near Mahars 								
-45579	Warrington St near Woodville 								
-44242	Ashley St near Coldstream Rd								
-43397	Sparks Rd near Hoon Hay 								
-42066	Port Hills Rd near Horotane Valley 								
-19284	Cranford St near Main North Rd								
-23787	Colombo St near Ernlea Tce								
-53562	Stanmore Rd near Worcester St								
-33115	Mathers Rd near Hoon Hay 								
-54890	Ledbury Drive near East Maddisons Road								
-54410	Prestons School								
-20272	Queenspark Dr near Branksome Pl								
-10472	Kendal Ave near Whitby St								
-37951	Hills Rd near Westminster St								
-12653	Halswell Rd near Hendersons 								
-11321	Lyttelton St near Rose 								
-44235	Southbrook								
-19297	Fendalton Rd near Snowdon 								
-20286	Queenspark Dr near Brentwood St								
-23794	Colombo St near Tennyson 								
-24642	Russley Rd near Dinton St								
-25976	Prebbleton								
-53570	Murphys Rd near Graycliffe St								
-33104	Hoon Hay Rd near Maryhill Ave								
-54423	Prestons School								
-42050	Port Hills Rd near Nuttall Dr								
-10486	Cranbrook Ave near Kendal 								
-36610	Greers Rd near Ruddenklau Ln								
-14840	Bealey Ave								
-13998	Main North Rd near Neeves 								
-10003	Maidstone Rd near Hounslow St								
-37946	Hills Rd near Acheson Ave								
-43378	Sparks Rd near Waimokihi Pl								
-20255	Queenspark Dr near Inwoods Rd								
-25948	Springs Rd near Birchs 								
-44226	Southbrook Rd near Coronation St								
-24619	Bentley St near Delaware Cres								
-42045	Port Hills Rd near Ardtrea Ln								
-19266	Edgeware Village								
-17085	Memorial Ave near Stableford Green								
-22435	Rose St near Cashmere View 								
-53100	Bus Interchange (Platform A)								
-14817	Gilberthorpes Rd near Prichard Cres								
-36606	Greers Rd near Saffron St								
-13967	Main North Rd near Old 								
-11309	Aldwins Rd near Marlborough St								
-54434	Te Korari St near Raranga 								
-32244	Madeley Rd near Major Hornbrook 								
-12630	Halswell Rd near Tankerville 								
-21581	Effingham St near Surfers Pl								
-53589	Murphys Rd near Halswell Junction 								
-37933	Main North Rd near Vagues 								
-41191	Park Tce near Cressy 								
-24626	Yaldhurst Rd near Bucknell St								
-45546	Burwood Rd near Rothesay 								
-44699	Main North Rd near Pa 								
-26808	Kippenberger Ave near Devlin 								
-41189	Governors Bay Rd								
-46872	James St near Birchs Rd								
-22442	Barrington St near Strauss Pl								
-25953	Gerald St near West Belt								
-53591	Longhurst Medical Centre								
-44219	Sewell St near Smith 								
-32237	Major Hornbrook Rd near Belleview Tce								
-13979	Main North Rd								
-53116	Bus Interchange (Platform B)								
-11795	Centaurus Rd near Bowenvale Ave								
-54447	Te Korari St near David Palmer 								
-44203	Southbrook Rd near Denchs 								
-25924	Templeton								
-46864	Springs Rd near Brynley St								
-22419	Halswell Shops								
-42021	Martindales Rd near Truscotts 								
-18392	Wainoni Rd near Cuffs 								
-23741	Colombo St near Somerfield 								
-20238	Queenspark Dr near Branksome Pl								
-21568	Aston Dr near Beach Rd								
-54452	Leeston								
-13946	Creyke Rd								
-11769	Cashmere Rd near Crichton Tce								
-44681	Main North Rd near Sandhill 								
-41170	Grimseys Rd near Dunedin St								
-42013	Hendersons Road								
-42499	Main Rd near The Brae								
-21575	Effingham St near Monowai Cres								
-41162	Brittan Tce near Seaview 								
-20240	Queenspark Dr near Chadlington St								
-25930	Gerald St near Murray Pl								
-47706	Halswell Rd near Milns 								
-24603	Yaldhurst Rd near Nortons 								
-23756	Colombo St near Thorrington Rd								
-37905	Innes Rd near Manuka St								
-32696	Waltham Rd near Bunyan St								
-54468	Irwell								
-13951	Supa Centa								
-14801	Manurere St								
-32216	Major Hornbrook Rd near Muritai Tce								
-29050	Selwyn St near Dobson 								
-12150	Marine Pde near Rawhiti Ave								
-38301	Riccarton Rd near Wainui St								
-23288	Hackthorne Rd near Cashmere 								
-33094	Hoon Hay Rd near Maryhill Ave								
-29826	Grimseys Rd near Exton St								
-26311	Caspian St near Rocking Horse Rd								
-13489	Papanui Rd near Grants 								
-17847	Main South Rd								
-38788	Main South Rd near Curletts 								
-39639	Hills Rd near Ailsa St								
-13491	Papanui Rd near Bellvue Ave								
-16520	Wairakei Rd near Manor Pl								
-26324	Rocking Horse Rd near Godwit St								
-29835	Grimseys Rd near Dunbarton St								
-33087	Hoon Hay Rd near Lewis St								
-40616	Colombo St near Bealey Ave								
-23290	Hackthorne Rd near Lowick Ave								
-28980	Main Rd								
-24140	Emmett St near Acheson Ave								
-36597	Greers Rd near Brookside Tce								
-15678	Pages Rd								
-12166	Marine Pde near Bowhill Rd								
-39625	Shirley Rd near Slater St								
-30814	Main Rd near Cliff St								
-53953	Preston Downs Reserve								
-13017	Staveley St near Avonhead Rd								
-18702	Tuam St near Phillips 								
-54803	Fuller St near Peraki 								
-11281	Whiteleigh Ave near Leamington St								
-13462	Main North Rd near Barnes 								
-38761	Riccarton Rd near Paeroa St								
-14791	Manurere St near Ranui 								
-12132	Beach Rd near Britannia St								
-40600	Gardiners Rd near Smacks Cl								
-33073	Hoon Hay Rd near Smartlea St								
-24117	Briggs Rd near Innes 								
-29803	Lowry Ave near Grimseys Rd								
-23261	Hargood St near Oban Pl								
-24592	Yaldhurst Rd near English St								
-28951	Matipo St near Rex 								
-15645	Main North Rd near Tuckers 								
-37436	Harewood Rd near Marble Wood Dr								
-51306	Bush St near Watson Pl								
-53969	Halkett Rd near Rossington Dr								
-14318	Manchester St near Kilmore 								
-39618	New Brighton Rd near Netherby Ln								
-13470	Main North Rd near Sturrocks 								
-29819	Daniels Rd near Hannah Pl								
-54819	Fuller St near Evans Pl								
-15650	Northlands Platform C								
-25455	Gerald St near West Belt								
-33060	Mathers Rd near Cedars St								
-26307	Rocking Horse Rd near Godwit St								
-16508	Wairakei Rd								
-23274	Hargood St near Clydesdale 								
-12145	Marine Pde near Lonsdale St								
-47222	Christchurch International Airport								
-44196	Sheffield Cres								
-11299	Buckleys Rd near Rhona St								
-36578	Burnside High School								
-46373	Heaton St								
-38757	Clyde Rd near Totara St								
-54826	Fuller Street near Akaroa St								
-17834	Burnham								
-25429	Craven St near Algidus 								
-14770	Hei Rd near Buchanans 								
-22398	Barrington Mall (Athelstan St)								
-17806	Masefield Dr near Durrell Wy								
-26751	Central Park and Ride (White St)								
-50474	Heaton Intermediate								
-33056	Penruddock Rse near Hamish Pl								
-23242	Radley St near Cumnor Tce								
-54835	Adderley Tce near Sneyd St								
-51323	Pegasus Blvd near SH-1								
-44183	Ferry Rd near Phillipstown Cts								
-53504	Burwood Hospital - Main Entrance								
-15621	Ferrymead Shops								
-13443	Waimairi Rd near Maidstone 								
-12113	Burwood Rd near Stanford St								
-37415	Greers Rd near Ruddenklau Ln								
-11268	Clarence St near Lyndon 								
-44177	Lincoln Rd near Domain Tce								
-45023	Rolleston Dr near Othello 								
-12121	Burwood Rd near Newhaven St								
-24101	Kensington Ave near Innes Rd								
-23257	Colombo St near Woodbridge Rd								
-28946	Main Rd near Mccormacks Bay 								
-50000	Ellesmere Junction Rd near Leeston 								
-54842	Adderley Tce near Wesley St								
-53995	Briggs Rd								
-32198	Rodney St near Union 								
-14302	Manchester St near Salisbury 								
-50488	Heaton St - Georges								
-11275	Whiteleigh Ave near Troup Dr								
-53515	Patterson Tce near Calverton Place								
-51334	Pegasus Blvd near SH-1								
-15632	Ferry Rd near Waterman Pl								
-16963	Gardiners Rd near St Ives 								
-37404	Waimairi Rd near Athol Tce								
-13458	Dovedale Ave near Lynfield 								
-14789	Manurere St near Tauiwi Cres								
-20199	Queenspark Dr near Chadbury St								
-25884	Kirk Rd near Railway Tce								
-25401	Craven St near Algidus 								
-32180	Ferry Rd (Ritchies Depot WB)								
-28914	Matipo St near Elizabeth 								
-23226	Colombo St near Hastings W								
-22379	Rose St near Beechworth Ave								
-24559	Springs Rd near Garvins 								
-15609	Linwood Ave near Keighleys Rd								
-10396	Kilmarnock St near Kahu Rd								
-46341	Harewood Rd near Waimakariri 								
-54857	Barnard St near Silverstream Blvd								
-51347	Northlands Platform B								
-45010	Mandeville St								
-37876	Cresswell Ave near Gayhurst Rd								
-11247	Whiteleigh Ave near Barrington St								
-12579	Lincoln Rd near Torrens 								
-13427	Staveley St near Nortons Rd								
-53527	Hereford St near Fitzgerald Ave								
-38726	Clyde Rd near Hinau St								
-46339	Gloucester St near Barbadoes 								
-44154	Wainoni Rd near Shortland St								
-24563	Springs Rd near Henry Wigram Pl								
-25897	Birchs Rd near Hamptons 								
-23235	Colombo St near King 								
-26746	White St near Parkhouse Dr								
-38719	University - Ilam Rd								
-32179	Major Hornbrook Rd near Freeman St								
-22380	Rose St near Beechworth Ave								
-51352	Northlands Platform D								
-33025	Mathers Rd near Redgrave St								
-54861	Barnard St near Rahme Cres								
-53536	Milton St near Selwyn 								
-47660	Creyke Rd near Clyde 								
-13436	Staveley St near Avonhead Rd								
-18773	Beach Rd near Effingham St								
-13086	Clyde Rd near Wai-iti Tce								
-16596	Wairakei Rd near Breens 								
-15264	Ferry Rd near Smith St								
-42406	Bridle Path Rd near Port Hills 								
-20613	Bower Ave near Castletown Pl								
-42888	Harewood Rd near Wilmot St								
-26395	Estuary Rd near Ebbtide St								
-10813	Clyde Rd near Hooker Ave								
-20609	Bower Ave near Thurso Pl								
-19629	Northcote Rd near Lydia St								
-32608	Brougham St near Defoe Place								
-33934	Rose St near Marley View 								
-50834	Selwyn St near Disraeli 								
-18300	North Pde near Randall St								
-20621	Whitmore St near Avalon 								
-13093	Clyde Rd near Evatt St								
-15272	Ferry Rd near Tilford St								
-42874	Colombo St near Cass 								
-18787	St Asaph near Phillips 								
-40212	Wairakei Rd near Kendal Ave								
-39222	Travis Rd								
-16124	Wairakei Rd near Blighs 								
-45902	Gerald St near Kildare Tce								
-28587	Matipo St near Peverel 								
-29434	Cranford St near Innes Rd								
-17457	Fendalton								
-50847	Selwyn St near Harman 								
-42861	Harewood Rd near Harris Cres								
-14394	Park Tce near Peterborough St								
-39694	Ensors Rd								
-38364	Barbadoes St near Edgeware Rd								
-13064	Ilam Rnear Montana Ave								
-39214	Bassett St near Vivian 								
-43711	Main North Rd near Thompsons 								
-24193	Emmett St near Bellbrook Cres								
-25042	Buchanans Rd near Peebles Dr								
-30880	Soleares Ave near Santa Maria 								
-50852	Harman St near Grove Rd								
-16577	Rossall St near Glandovey Rd								
-18756	Burwood Rd near Clarevale St								
-33910	Sparks Rd near Hoon Hay 								
-16583	Rossall St near Leinster Rd								
-13072	Clyde Rd near Fendalton 								
-15255	Williams St near Ohoka Rd								
-51709	Bromley Rd near Raymond 								
-39687	University of Canterbury								
-38355	Edgeware Rd near Madras St								
-42857	Harewood Rd near Breens 								
-21935	Effingham St near Marine Pde								
-26382	Caspian St near Rocking Horse Rd								
-16107	Wairakei Rd near Chislehurst Pl								
-30879	Soleares Ave near Valencia Ln								
-19617	Glandovey Rd								
-37029	Tuam St near Olliviers Rd								
-17435	Fendalton Rd near Wairarapa Tce								
-51713	Bromley Rd near Raymond 								
-50868	Harman St near Lincoln Rd								
-13040	Dovedale Ave near Waimairi Rd								
-38340	Edgeware Rd near Packe St								
-16554	Wairakei Rd near Breens 								
-39673	Greers Rd near Clyde 								
-14373	Moorhouse Ave near Stewart St								
-12197	Mairehau Rd near Medina Cres								
-25026	Birchs Rd near Robinsons 								
-42842	Clyde Rd near Ilam 								
-28539	Blenheim Rd near Middleton 								
-24172	Bentley St near Pinehurst Cres								
-26353	Estuary Rd near Halsey St								
-47298	Main North Rd near Link 								
-30867	Soleares Ave near Mt Pleasant Rd								
-50875	Selwyn St near Hazeldean Rd								
-18739	Burwood Rd near Carlsen St								
-51721	Maces Rd near Lupins Ln								
-17403	Northcote Rd near Uxbridge St								
-53907	Corsair Dr near Keene St								
-18741	Burwood Rd near Lakewood Dr								
-39660	Greers Rd near Clyde 								
-13055	Waimairi Rd near Maydell St								
-37001	St Martins Shops								
-14387	Park Tce near Chester St W								
-42835	Harewood Rd near Crofton 								
-30851	Soleares Ave near Mt Pleasant Rd								
-29874	Blenheim Rd near Watts 								
-24186	Emmett St near Bellbrook Cres								
-25035	Buchanans Rd near Cicada Pl								
-50881	Springs Rd near Marshs 								
-15238	Williams St near Vickery 								
-37489	Harewood Rd near Matsons Ave								
-53911	Darfield Town centre								
-17419	Fendalton Rd near Wood Ln								
-51732	Maces Rd near Wickham St								
-15201	Main North Rd near Spencerville 								
-15684	Pages Rd near Charles Gallagher Pl								
-16531	Wairakei Rd near Spalding St								
-40644	Stanmore Rd near Draper St								
-25003	Buchanans Rd								
-42826	Yaldhurst Rd near Withells 								
-28518	Main South Rd near Lowther St								
-26330	Rocking Horse Rd near Heron St								
-42819	Maidstone Rd near Farnham Pl								
-39656	Greers Rd near Brookside Tce								
-12178	Marine Pde near Cygnet St								
-45099	Charlesworth St near Ti Rakau Dr								
-18718	Tuam St near Fitzgerald Ave								
-50899	Selwyn St near Moorhouse Ave								
-38329	Straven Rd near Rochdale St								
-51745	Ruru Rd near Hay St								
-13029	Staveley St near Colina 								
-53924	Waterloo Rd near Islington Ave								
-14360	St David near Moorhouse Ave								
-39641	Northlands Platform A								
-37462	Harewood Rd near Greers 								
-47267	Birchs Rd near Grangewood Dr								
-29857	Grimseys Rd near Exton St								
-28525	Blenheim Rd near Penn Pl								
-26348	Estuary Rd near Ebbtide St								
-25493	James St near North Blt								
-40628	Stanmore Rd near Siddal Pl								
-24164	Russley								
-51750	Ruru Rd near Hay St								
-13038	Solway Ave near Glenside 								
-53930	Waterloo Rd near Islington Ave								
-38317	Ilam Rd near Kirkwood Ave								
-15217	Main North Rd near Wrights 								
-18014	Burwood Rd near Helmsdale St								
-21665	Effingham St near Beach Rd								
-47813	Linwood Ave near Kidbrooke St								
-43456	Lincoln Rd near Parade Ct								
-44787	Oxford Rd near Fairview Briars								
-46961	Main North Rd near Styx Mill 								
-18495	Harrow St near Bordesley 								
-45630	Prebbleton								
-17160	Memorial Ave near Chilcombe St								
-33655	Selwyn St near Fairfield Ave								
-11867	Hoon Hay Rd near Barossa Ln								
-10536	Maidstone Rd near Solway Ave								
-54596	Rolleston College								
-54111	Halswell Rd near Augustine Drive								
-32325	Carmen Rd near Halwyn Dr								
-51086	Aidenfield (near McMahon Dr)								
-12719	Halswell Rd near Nash 								
-29148	Brougham St near Barrie 								
-53267	McCormacks Bay Rd & Maffeys WB								
-42596	Clifton Tce and Main Rd								
-21677	Aston Dr near Ballance St								
-23858	Linwood Ave near Tilford St								
-38099	Dunbars Rd near Ensign St								
-19353	Harewood Rd near Nunweek Blvd								
-24707	Springs Rd near Brynley St								
-44773	White St near Parkhouse Dr								
-42111	Heathcote								
-51093	Aidenfield (near McMahon Dr)								
-12726	Papanui Rd near Paparoa St								
-14903	Parker St near Kathleen Cres								
-33640	Lyttelton St near Hennessy Pl								
-53279	Jones Rd near Curraghs 								
-32791	Brougham St near Albemarle 								
-54124	Halswell Rd near Augustine Drive								
-32318	Creyke Rd near Barlow St								
-18476	North Parade								
-19324	Harewood Rd								
-23827	Radley St near Sheldon 								
-42583	Main Rd near Augusta St								
-38081	Halswell Rd near Nicholls 								
-54130	Taiora/QEII								
-42107	Port Hills Rd near Curries 								
-53280	Jones Rd near Curraghs 								
-29124	Selwyn St near Bolton Ave								
-26094	Main North Rd near School 								
-10995	Kilmarnock St near Deans Ave								
-32789	Waltham Rd near Hastings St E								
-17156	Burnside High School								
-38075	Halswell Junction Rd near Sabys 								
-21654	Aston Dr near Beach Rd								
-23836	Colombo St near Wordsworth 								
-18005	Burwood Rd near Newhaven St								
-42577	Marriner St near Main Rd								
-40399	Pages Rd near Breezes 								
-18482	Kerrs Rd near Traynor Ln								
-53298	Westfield Riccarton								
-10527	Maidstone Rd								
-32770	Brougham St near Brisbane 								
-33629	Coronation St near Simeon 								
-29130	Brougham St near Somerset Cres								
-11851	Centaurus Rd near St Martins 								
-42565	Main Rd near Wakatu Ave								
-17125	Memorial Ave near Otara St								
-16273	Rossall St near Office Rd								
-40381	Union St near Tovey 								
-39396	New Brighton Rd near Locksley Ave								
-23804	Garlands Rd near Tanner St								
-20771	Bower Ave near Thurso Pl								
-38068	Halswell Junction Rd near Kinrara Pl								
-43418	Ferry Rd near Rutherford St								
-29107	Selwyn St near Cheviot 								
-19780	Veitches Rd near Northfield 								
-22950	Selwyn St near Fairfield Ave								
-10976	Mona Vale Ave near Kilmarnock St								
-26073	Estuary Rd near Cradock St								
-28254	Major Hornbrook Rd near Rockview Pl								
-32762	Waltham Rd near Mowbray St								
-33617	Lyttelton St near Glynne Cres								
-19307	Fendalton Rd near Quamby Pl								
-38052	Halswell Junction Rd near Nicholls 								
-39383	Hawke St near Fenners Ln								
-20785	Queenspark Dr near Chadbury St								
-42554	Wakefield Ave near Nayland St								
-19798	Highsted Rd near Ludhiana St								
-23815	Garlands Rd near Maunsell St								
-16287	Wairakei Rd near Grahams 								
-20303	Queenspark Dr near Inwoods Rd								
-29596	Brougham St near James K Baxter Pl								
-55014	Broadway Pde near Munro Ln								
-29111	Selwyn St near Bletsoe Ave								
-33601	Cobham St near Evesham Cres								
-26087	Woodend								
-10504	Cranbrook Ave near Grahams Rd								
-54169	Taiora/QEII								
-18469	Wainoni Rd near Shortland St								
-32758	Defoe Pl								
-10982	Sir William Pickering Dr (SB)								
-17102	Memorial Ave near Spitfire Square								
-39377	Keyes Rd near Rawson St								
-18430	Wainoni Rd near Pannell Ave								
-42549	Main Rd near Moncks Bay Ln								
-20759	Bower Ave								
-40368	Pages Rd near Waitaki St								
-46903	Marshland Rd								
-44725	King St near Andrew 								
-32743	Ferry Rd near Alport Place								
-10953	Kilmarnock St near Harakeke 								
-54176	Ravensdale rise near Cumbria Lane								
-55022	Broadway Pde near Munro Ln								
-26056	Oram Ave near Rodney St								
-11805	Centaurus Rd near Sloan Tce								
-29565	Selwyn St near Bolton Ave								
-42531	Nayland St near Stoke 								
-20763	Bower Ave near Castletown Pl								
-38034	Halswell Rd								
-39365	Keyes Rd near Lonsdale St								
-40352	Pages Rd near Kearneys 								
-16260	Wairakei Rd near Idris 								
-54182	Ravensdale Rise at Park								
-11814	Lyttelton St near Glue Pl								
-55033	Faringdon Blvd near Ledbury Dr								
-10969	Roydvale Ave near Sir William Pickering Dr								
-29577	Antigua St near Fairfield Ave								
-18448	Wainoni Rd near Bexley 								
-32736	Soleares Ave near Toledo Pl								
-26060	Estuary Rd near Beatty St								
-43058	Maidstone Rd								
-44385	Ferry Rd near Mackworth St								
-36760	Hills Rd near Ailsa St								
-11460	Clarence St near Lyndon 								
-33250	Moorhouse Ave near Selwyn St								
-24776	Emmett St near Orcades 								
-23448	Garlands Rd near Maunsell St								
-53660	Hereford St (Aspire)								
-54992	Lady Isaac Dr near Jean Batten Ln								
-12317	Williams St near Ohoka Rd								
-51001	Awatea Rd near Carrs 								
-54512	Main North Rd near Woodend 								
-51489	The Runway near Kittyhawk Ave								
-14974	South City (Northbound)								
-38941	Main South Rd near Garvins 								
-15825	Main North Rd								
-37616	Frankleigh St near Alvarez Pl								
-10137	Kilmarnock St near Harakeke 								
-24309	Epsom Rd near Carbine Pl								
-43043	Withells Rd near Westall Ln								
-46552	Pages Rd near Ottawa 								
-23453	Radley St near Chichester 								
-12329	Williams St near Vickery 								
-50160	Gerald St near Springs Rd								
-51491	Corsair Dr near Gallagher Cl								
-15839	Main North Rd near Lees 								
-38939	Main South Rd near Hanworth Ave								
-33245	Mathers Rd near Redgrave St								
-24782	Westminster St near Flockton 								
-53673	Manchester St near Welles 								
-54520	Kilmore Street Town Hall								
-11473	Barrington St near Hammond Pl								
-37600	Barrington St near Bewdley 								
-10144	Kedleston Dr near Brockhall Ln								
-51017	Awatea Rd near Carrs 								
-42195	Port Hills Rd near Ardtrea Ln								
-36756	Hills Rd near Acheson Ave								
-47878	Springs Rd near Blakes 								
-44363	Wainoni Rd near Portsmouth St								
-10591	Clyde Rd near Jeffreys 								
-24753	Kensington Ave near Innes Rd								
-23424	Garlands Rd near Tanner St								
-26934	Pages Rd near Rowan Ave								
-13628	Waimairi Rd near Wentworth St								
-50173	Lowes Rd near Tennyson St								
-32387	Fendalton Rd near Jacksons 								
-53687	Manchester St near Allen 								
-33232	Rowley Ave near Salmond St								
-54531	Oxford Street near Winchester 								
-11441	Rose St near Hoon Hay Rd								
-36741	Hills Rd near Westminster St								
-12774	Halswell Rd near Rowley Ave								
-42182	Opawa Rd near Mary Mclean Pl								
-51029	Woodham Rd near Avonside Dr								
-20390	Queenspark Dr near Broadhaven Ave								
-53205	Hereford St near Montreal 								
-10116	Kilmarnock St near Deans Ave								
-38925	Main South Rd near Harvard Ave								
-26947	Pages Rd near Knightsbridge Ln								
-24769	Kensington Ave near Innes Rd								
-43027	Kotare St near Medbury Tce								
-46534	Rolleston Dr near Othello 								
-42176	Port Hills Rd near Stedley Pl								
-23430	Wilsons Rd								
-15818	Williams St near Coups Tce								
-10128	Mona Vale Ave near Kilmarnock St								
-53694	Ravensdale Rise near Woodside Common								
-13637	Waimairi Rd near Greers 								
-36739	Innes Rd near Hills 								
-38918	Main South Rd near Craven St								
-50187	Gerald St near Springs Rd								
-53214	Bus Interchange (Intercity stop)								
-32373	Fendalton Rd near Glandovey 								
-54549	Acacia Avenue near Maple Pl								
-51038	Woodham Rd near Patten St								
-12301	Kaiapoi (Police Station)								
-12788	Main North Rd near Lagan St								
-23889	Hargood St near Oban Pl								
-42169	Port Hills Rd near Horotane Valley 								
-23407	Garlands Rd near Cumnor Tce								
-44344	Mairehau Rd near Putake Dr								
-32360	Burnside High School								
-24730	Flockton St near Archer 								
-50194	Aylesbury Rd near Two Chain 								
-51040	Woodham Rd near Linwood Ave								
-33213	Mccarthy St near Rowley Ave								
-33693	Cobham St near Clent Ln								
-53222	Ferry Rd near Nursery 								
-54554	Jones Rd near Alston 								
-38902	Main South Rd near Weaver Pl								
-11425	Memorial Ave near Hampton Pl								
-36725	Innes Rd near Mahars 								
-29182	Daniels Rd near Hannah Pl								
-43487	Selwyn St Shops								
-24748	Flockton St near Carrick 								
-43004	Main South Rd near Bowman Pl								
-42153	Martindales Rd near Station 								
-23411	Wilsons Rd near Beckford 								
-13616	Grahams Rd near Powell Cres								
-36718	Innes Rd near Mahars 								
-32356	Ferry Rd near Aldwins 								
-51055	Woodham Rd near Brittan St								
-53233	Ferry Rd near Lancaster St								
-54565	Jones Rd near Alston 								
-23891	Colombo St near Walton 								
-46990	Rocking Horse Rd near Plover St								
-10100	Kahu Rd near Titoki St								
-12761	Papanui Rd near Holly 								
-29195	Daniels Rd								
-20357	Fitzgerald Ave near Alexandra St								
-46988	Supa Centa Terminus								
-47832	Warrington St near Woodville 								
-19369	Harewood Rd near Cotswold Ave								
-42148	Port Hills Rd near Castleview Ln								
-21683	North Shore								
-43473	Lincoln Rd near Sylvan St								
-23862	Radley St near Cumnor Tce								
-24711	Springs Rd near Sioux Ave								
-51064	Woodham Rd near Tancred St								
-14919	Gilberthorpes Rd near Gregory Ave								
-53246	Tuam St near Duke 								
-54577	Acacia Avenue								
-11880	Cashmere Rd								
-26906	Pages Rd near Fir Tree Ln								
-42130	Heathcote								
-18046	Marine Pde near Cygnet St								
-19376	Colombo St near Purchas 								
-44794	Bush St near Strachan Pl								
-23870	Radley St near Tavender 								
-44316	Burwood Hospital - Mairehau Rd								
-51072	Woodham Rd near Ngarimu St								
-24724	Briggs Rd near Innes 								
-11418	Barrington St near Bewdley 								
-33664	Coronation St near Selwyn 								
-53251	Ferry Rd (Ritchies Depot EB)								
-54583	Acacia Avenue near Hibiscus Grove								
-54107	Skyhawk Rd near Kittyhawk Avenue								
-43460	Wairakei Rd near Grahams 								
-32339	Main North Rd near Lagan St								
-11898	Riccarton Rd near Balgay St								
-12742	Papanui Rd near Clare 								
-10090	Kahu Rd near Tui St								
-52728	Two Chain Rd near Walkers 								
-12270	Main North Rd near Woodend Beach 								
-46048	Woodend								
-38420	Shirley Rd near Stapletons 								
-47377	Blenheim Rd near Acheron Dr								
-36242	Main Rd near St Andrews Hill 								
-25589	Kirk Rd near Mahoe St								
-26437	Estuary Rd near Cradock St								
-28616	St Andrews Hill Rd near Marama Cres								
-40745	Cavendish Rd near Northcote 								
-22071	Selwyn St Shops								
-42916	Opawa Rd near Manatu Ln								
-18815	Harrow St near Glasgow 								
-13126	Kendal Ave near Whitby St								
-15303	Ferry Rd near Catherine St								
-16633	Wairakei Rd near Todd Ave								
-54916	Faringdon Blvd near Dynes Road								
-51404	Dallington								
-17966	Riccarton Rd near Harakeke St								
-38892	Main South Rd near Weaver Pl								
-15792	Williams St near Carew 								
-40732	Williams St near Carew 								
-26444	Kippenberger Ave near Devlin 								
-24268	Cutts Rd near Springhill St								
-28628	Moorhouse Ave near Orbell St								
-22085	Coronation St near Selwyn 								
-52744	Izone Dr								
-17978	Lincoln Rolleston Rd near Dr								
-45184	Colombo St near Canon 								
-18827	Harrow St near Bordesley 								
-13135	Clyde Rd near Arts 								
-12289	Main North Rd near Sandhill 								
-15319	Main North Rd								
-51415	Dynes Rd near Springston Rolleston 								
-54928	Kirwee Tavern								
-10074	Kotare St near Roa Rd								
-40721	Main North near Loftus St								
-24234	Emmett St near Jebson 								
-26416	Union St near Mountbatten 								
-22059	Cobham St near Clent Ln								
-33191	Milton St near Selwyn 								
-38885	Main South Rd near Craven St								
-53602	Caulfield Ave near Piper St								
-17945	Lowes Rd near Goulds 								
-37556	Barrington St near Wychbury 								
-15763	Ferry Rd near Dyers 								
-52759	Link Dve								
-51427	Dynes Rd near Faringdon Blvd								
-12258	Marshland Rd near Hammersley Ave								
-54937	Kirwee Tavern								
-38408	Riccarton Rd near Newnham Tce								
-16614	Wairakei Rd near Greers 								
-17950	Masefield Dr near Durrell Wy								
-12262	Lake Terrace Rd near Oregon Pl								
-38871	Church Corner								
-45166	Birchs Rd near Glenwood Dr								
-37541	Barrington St near Neville 								
-15771	Ferry Rd near Waterman Pl								
-28600	Major Hornbrook Rd near Muritai Tce								
-24247	Amyes Rd near Shands 								
-29937	Daniels Rd near Rathlin St								
-36219	Gloucester St near Latimer Square								
-23392	Sydenham Shops								
-22063	Cobham St near Evesham Cres								
-52763	Tennyson St near Moore 								
-40709	Northcote Rd near Fenchurch St								
-10088	Kotare St near Kahu Rd								
-46011	Birchs Rd near Glenwood Dr								
-18804	Kerrs Rd near Dunarnan St								
-50586	Birmingham Dr near Halls Pl								
-50102	Jones Rd near Weedons Ross 								
-54944	West Melton Primary School								
-51436	Broadlands Dve near Goulds Rd								
-16622	Wairakei Rd near Charlcott St								
-53618	Caulfield Ave near Piper St								
-11384	Barrington Mall ( St)								
-25543	Waterloo Rd near Kissel St								
-29900	Daniels Rd								
-26877	Rangiora (Ashley St)								
-24690	Springs Rd near Dufek Cres								
-50593	Birmingham Dr near Halls Pl								
-36203	Major Hornbrook Rd near St Andrews Hill 								
-52771	Broadlands Dr near Goulds Rd								
-51443	Caulfield Ave & Gosling Cres								
-38863	Main South Rd near English St								
-15744	Ferry Rd near Palinurus 								
-39710	Shirley Rd near Slater St								
-53625	Richmond Ave near Kruger 								
-14413	Colombo St near Salisbury 								
-12236	Main North Rd								
-54959	Faringdon Boulevard near Broomfield Dr								
-17921	Fendalton Rd near Mona Vale Ave								
-37539	Whiteleigh Ave near Troup Dr								
-13573	Withells Rd near Avonhead 								
-10061	Kotare St near Medbury Tce								
-24223	Emmett St								
-33162	Milton St near Antrim 								
-29916	Daniels Rd near Mottram St								
-23371	Colombo St near Lawson 								
-54963	Springston - Rolleston Road near Geldard Dr								
-52785	Dynes Rd near Faringdon Blvd								
-26883	Kippenberger Ave near East Belt								
-11397	Hoon Hay Rd near Blakiston St								
-47320	Town Hall								
-12243	Marshland Rd near Joy St								
-44290	Smith St near Cass 								
-15759	Ferry Rd near Alport Pl								
-53639	Richmond Ave near Kruger 								
-16605	Strowan Rd near Normans 								
-17932	Riccarton Rd near Bartlett St								
-39706	Merivale Mall								
-38859	Main South Rd near Curletts 								
-44288	Ashley St near River Rd								
-24674	Masham Rd near Rosella St								
-25527	Waterloo Rd								
-37518	Lyttelton St								
-17909	Tennyson St near Michelangelo Dr								
-52792	Dynes Rd near Springston Rolleston 								
-33158	Mathers Rd near Waters St								
-15728	Linwood Ave near Tilford St								
-54971	Springston - Rolleston Road near Ed Hillary Dr								
-53641	Knights Stream Park								
-13541	Withells Rd near Westall Ln								
-12695	Halswell Rd near Hendersons 								
-12215	Kaiapoi (McDonalds)								
-36668	Main North Rd near Meadow St								
-42097	Port Hills Rd near Vega Pl								
-37980	Main North Rd near Cranford St								
-32292	Main North Rd near Spencerville 								
-24688	Carmen Rd near Steadman 								
-51470	The Runway near Dalwood Dve								
-14409	Park Tce near Bealey Ave								
-50141	Lowes Rd near Rembrandt Dr								
-54985	Lady Isaac Dr near Jean Batten Ln								
-33143	Mathers Rd near Waters St								
-17913	Lowes Rd near Goulds 								
-44274	Williams St near Cass 								
-53656	Hereford St (Aspire)								
-15737	Ferry Rd near Settlers Cres								
-11378	Barrington Mall ( St)								
-54508	Halkett Rd near Rossington Dr								
-13556	Withells Rd near Merrin St								
-38837	Church Corner								
-12227	Williams St near Courtenay Drive								
-17564	Commodore Hotel								
-43851	Gloucester St near Stanmore Rd								
-37174	Woodham Rd near Carnarvon St								
-15388	Main North Rd near Factory 								
-38023	Halswell Rd								
-39354	Rookwood Ave near Marriotts Rd								
-18891	Hardy St near Beresford 								
-20737	Queenspark Dr near Bower Ave								
-44702	Main North Rd near Holland Dr								
-54078	Innes Road near Severn Street								
-50950	Pegasus Blvd near Whakatipu St								
-32727	Soleares Ave near Cadiz Ln								
-19746	Edgeware Village								
-10930	Grahams Rd near Powell Cres								
-37161	Cranford St near Cornwall 								
-38010	Halswell Rd near Milns 								
-38496	Barbadoes St near Edward Ave								
-19751	Aylsham Ln near Regents Park Dr								
-40334	Pages Rd near Buckleys 								
-42512	Buchanans Rd near Vanguard Dr								
-54084	Corsair Drive								
-26041	Union St near Mountbatten 								
-29554	Brougham St near Kipling 								
-10948	Carlton Mill Rd near Hewitts 								
-32715	Mccormacks Bay Rd near Soleares Ave								
-39349	New Brighton Rd near Kingsford St								
-15361	Belfast								
-19722	Airport/Antarctic Centre								
-38483	Warrington St Shops								
-39331	New Brighton Rd near Queensbury St								
-13188	Cranbrook Ave near Grahams Rd								
-18870	Wainoni Rd near Hampshire St								
-37157	Waimairi Rd near Bowen St								
-10907	Teesdale St near Tay 								
-42508	Main Rd near Mulgans Trk								
-40323	Stanmore Rd near Trinity Ln								
-54097	Skyhawk near Kittyhawk Avenue								
-26492	Estuary Rd								
-10911	Grahams Rd near Powell Cres								
-38006	Halswell Rd near Lillian St								
-32704	Waltham Rd near Austin St								
-51824	Christchurch Hospital Main Stop EB								
-42971	Brougham St near Brisbane 								
-39320	New Brighton Rd near Queensbury St								
-37142	Frankleigh St								
-40310	Southern Park and Ride (South Belt)								
-15374	Belfast-Factory Rd								
-38477	Barbadoes St near Edward Ave								
-13190	Kendal Ave near Charlcott St								
-10924	Teesdale St near Deepdale 								
-29531	Cranford St near Main North Rd								
-51830	Moorhouse Slip Nth near Colombo St								
-50984	Mairehau Rd ( Spinal Unit)								
-18889	Beresford St								
-40784	Hussey Rd								
-15342	Supa Centa								
-38465	Warrington St Shops 								
-37135	Main Nth Rd near Loftus St								
-24299	Russley Rd near Dinton St								
-42963	Cranford St near Berwick 								
-40306	Pages Rd near Ottawa 								
-26471	Oram Ave near Hood St								
-29985	Daniels Rd near Inca Pl								
-16679	Sawyers Arms Rd near Cotswold Ave								
-19705	Purchas St near Colombo 								
-50997	Mairehau Rd (Spinal Unit)								
-18862	Buckleys Rd and Dacre St								
-14024	Gloucester St near Fitzgerald Ave								
-13174	Cranbrook Ave near Glencoe St								
-38454	Edgeware Rd near Caledonian 								
-42959	Brougham St near Waltham Rd								
-29992	Redwood								
-26485	Pages Rd near Waitaki St								
-26002	Woodend Rd near Greenwood Cl								
-17538	Memorial Ave near Avice Hill Reserve								
-52700	Link Dve								
-37126	Harewood Rd near Wilmot St								
-15357	Main North Rd near Belfast 								
-46076	Mandeville St								
-39308	Travis Rd near Blue Gum Pl								
-19714	Airport/Antarctic Centre								
-12291	Main North Rd near Kaiapoi Golf Club								
-37594	Whiteleigh Ave near Jack Hinton Dr								
-16651	Gardiners Rd near St Ives 								
-13142	Clyde Rd near Fendalton 								
-40766	O'Neill Ave near Beechwood Dr								
-26459	Pages Rd near Shortland St								
-28637	Fitzgerald Ave near Avonside Dr								
-42944	Stanmore Rd near Lychgate Cl								
-22092	Halswell Rd and Nash 								
-29963	Grimseys Rd near Mulberry Pl								
-24275	Cutts Rd near Delaware Cres								
-38449	Springfield Rd near Pitt Pl								
-52716	Izone Dr								
-50538	Rolleston (Kidman St)								
-40750	Norwich Qy near Dublin St								
-38431	Edgeware Rd near Bishop St								
-28644	Moorhouse Ave near Slip S								
-42937	Opawa Rd near Brabourne St								
-42928	Wairakei Rd near Pitcairn Cres								
-29971	Grimseys Rd near Prestons 								
-54900	Ledbury Drive near Rangatira St								
-13157	Woodbury St near Glenharrow Ave								
-18843	Wainoni Rd near Pannell Ave								
-17997	Rolleston Dr near Lincoln Rd								
+	
+24814	Barbadoes St near Canon 
+40064	Hussey Rd near Springvale Gdns
+22636	Waltham Rd near Coleridge St
+43571	Memorial Ave near Ilam Rd
+18131	Hardy St near Beresford 
+42241	Main North Rd near Kaiapoi Golf Club
+20451	Hills Rd near Warden St
+17282	Highsted Rd near Sapphire St
+46608	Halswell Junction Rd near Foremans 
+45757	O'Neill Ave near Beechwood Dr
+21789	Effingham St near Marine Pde
+10656	Guildford St near Wayside Ave
+36804	Gayhurst Rd near Strathfield Ave
+12837	Lincoln Rd near Nairn St
+53383	Lake Tce Rd near New Brighton 
+54239	Innes Rd near Nancy Ave
+11500	The Hub Hornby
+33779	Patterson Tce near Alvaston Dr
+20467	Hills Rd near Dudley St
+18149	Seaview Rd
+41382	Fendalton Rd near Waiwetu St
+17295	Veitches Rd near Larch Pl
+40055	Town Hall
+21791	Effingham St near Surfers Pl
+23972	Sydenham Shops
+39061	Travis Rd near Country Dr
+42239	Winchester St near Coleridge Tce
+54241	Greers Rd near Westburn Terrace
+11516	Rossall St near Rhodes 
+10660	Carlton Mill Rd near Shrewsbury St
+29273	Regents Park Dr near Styx Mill Rd
+12844	Papanui Rd near Webb St
+33767	Nottingham Ave near Arkwright Pl
+11996	St Martins Rd near Ensors 
+40040	Port Hills Rd near Curries 
+17269	Veitches Rd near Kimberley St
+39057	New Brighton Rd near Locksley Ave
+23940	Colombo St near Southampton 
+15083	Main North Rd near Parsonage 
+11965	Barrington St near Wychbury 
+32421	Opawa Rd near Brougham St
+29241	Regents Park Dr near Styx Mill Rd
+10639	Clyde Rd near Morley St
+33751	Patterson Tce near Clipston Pl
+12816	Papanui Rd near Weston 
+54256	Greers Rd near Westburn Terrace
+23955	Colombo St near Byron 
+39042	Awatea Rd near Owaka 
+15096	Rangiora Woodend Rd near Chinnerys 
+24805	Yaldhurst Rd near Bucknell St
+38197	Amyes Rd near Trevor St
+42698	Colenso St near Menzies 
+40038	North Pde near Poulton Ave
+54260	Victoria St near Peterborough 
+42218	Dublin St near Norwich Qy
+45726	Charlesworth St near Ti Rakau Dr
+20446	Broadhaven Ave near Anglesea 
+11977	Harvard Ave and Main South Rd
+32893	Huntsbury
+10641	Clyde Rd near Hooker Ave
+19459	Harewood Rd near Trafford St
+38184	Awatea Rd near Dix St
+15065	Main North Rd near Woodend Beach 
+20894	Broadhaven Ave near Ferngrove Pl
+18578	N Avon Rd near Tweed St
+42680	Sumner
+39035	Awatea Rd near Owaka 
+3684	Acacia Avenue near Hibiscus Grove
+41353	Templeton
+23929	Hargood St near Clydesdale 
+54273	Waimairi Rd near Dovedale Ave
+20414	Queenspark
+43537	Rossall St near Highgate Ave
+32886	Huntsbury Ave
+11949	Clarence St near Peverel 
+10618	Clyde Rd near Wai-iti Tce
+32409	Ramahana Rd near Aotea Tce
+19428	Colombo St near Bealey Ave
+20422	Broadhaven Ave near Ferngrove Pl
+40491	Ferry Rd near Osborne St
+38178	Awatea Rd near Dix St
+18584	Beach Rd near Bower Ave
+17253	Riccarton Ave
+15077	Woodend (Main North Rd)
+43528	Williams St near Courtenay Drive
+41348	Fendalton
+40017	Rossall St near Highgate Ave
+29239	Daniels Rd near Marwick Pl
+44858	Ti Rakau Dr near Kestrel Pl
+11954	St Martins Rd near Wilding 
+54287	Waimairi Rd near Dovedale Ave
+32872	Huntsbury Ave near Ramahana Rd
+10625	Clyde Rd near Evatt St
+19437	Veitches Rd near Larch Pl
+12800	Papanui Rd near Milford St
+18108	Wainoni Rd near Ottawa 
+41330	New Brighton Rd near Bower Ave
+20873	Queenspark
+19400	Colombo St near Canon 
+23901	Hargood St and Linwood Ave
+38166	Awatea Rd near Gdns
+14198	Buchanans Rd near Peebles Dr
+16370	Wairakei Rd near Charlcott St
+42667	Wakefield Ave near Paisley St
+54294	Cranford St near Knowles 
+32864	Ramahana Rd near Aotea Tce
+15049	Main North Rd near the lakes
+39019	Main South Rd near Canterbury St
+33714	Selwyn St near Bletsoe Ave
+30688	Gloucester St near Latimer Square
+26170	Woodend (Main North Rd)
+42651	Nayland St near Head 
+18566	Marine Pde near Rawhiti Ave
+39003	Main South Rd near Tower St
+17230	Riccarton Ave (Hospital)
+23917	Colombo St near Boon 
+20405	Broadhaven Ave near Jacaranda Pl
+21736	Effingham St near Pegasus Ave
+20887	Bower Ave near Pinewood 
+38150	Awatea Rd near Gdns
+10602	Clyde Rd near Jeffreys 
+30674	Marriner St near Wakefield Ave
+26189	Estuary Rd near Beatty St
+33705	Selwyn St near Cheviot 
+19416	Harewood Rd near Gardiners 
+11931	Cashmere Rd near Crichton Tce
+32855	Ramahana Rd near Aotea Tce
+24418	Barbadoes St near Bealey Ave
+10251	Maidstone Rd near Colina St
+23566	Ferry Rd near Phillipstown Cts
+19060	Highsted Rd near Glenmore Ave
+53781	Yaldhurst
+32048	Carmen Rd near Halwyn Dr
+54633	Gardiners Road near Cullahill Street
+22230	Westlake Dr near Hemingford Pl
+51126	Disraeli St near Selwyn 
+43172	Harper Ave near Deans 
+12431	Stanmore Rd near Lychgate Cl
+14612	Gilberthorpes Rd near Waterloo 
+36889	Buckleys Rd near Pamela St
+13766	Lake Terrace Rd near Fairway Dr
+53308	Westfield Riccarton
+15943	Main North Rd near Swift St
+43164	Wairakei Rd near Jennifer St
+36870	Kerrs Rd
+44014	Ashley St near River Rd
+11592	Hoon Hay Rd near Cashmere 
+32030	Blenheim Rd near Cable St
+19073	Highsted Rd near Sapphire St
+26601	Southern Park and Ride (South Belt)
+24425	Flockton St near Archer 
+33369	Milton St
+15958	Main North Rd near Thompsons 
+3248	Mt Pleasant Terminus
+37721	Memorial Ave near Hampton Pl
+54646	Southbridge
+53799	Yaldhurst
+13778	Lake Terrace Rd near Lakewood Dr
+10267	Maidstone Rd near Radbrook St
+11117	Lyttelton St near Conway 
+24879	Springs Rd near Caudron 
+43155	Wairakei Rd near Pitcairn Cres
+3263	NTA
+3262	NTA
+23545	Aylmer St and Colombo 
+54651	Southbridge Hotel
+15927	Main North Rd near Richill St
+50295	Ellesmere Junction Rd near Mather Pl
+32024	Hackthorne Rd near Gwynfa Ave
+36862	Woodham Rd near Carnarvon St
+10233	Withells Rd near Gainford St
+12892	Papanui Rd near Tomes 
+11563	Ensors Rd near Grenville St
+44482	Main North Rd near Hewitts 
+13745	Burwood Rd near Helmsdale St
+12412	Stanmore Rd near London St
+44476	King St near Royal Tce
+22224	Lancewood Dr near Westlake 
+24402	Barbadoes St near Canon 
+14608	Manurere St near Tauiwi Cres
+33348	Cashmere Rd near Penruddock Rse
+53331	Silverstream
+15936	Main North Rd near Donegal St
+37709	Greers Rd near Saffron St
+51157	Woodham Rd near Tancred St
+23550	Colombo St near Fisher Ave
+32011	Colombo St near Fisher Ave
+13750	Stanmore Rd near Gloucester St
+43140	Highsted Rd
+12420	Stanmore Rd near Alexandra St
+54667	Kaiapoi Central Park & Ride
+42294	Port Hills Rd near Nuttall Dr
+10246	Maidstone Rd near Derenzy Pl
+20498	Queenspark Dr near Chadlington St
+44469	Main North Rd near Hewitts 
+47976	James St near Boundary Rd
+25706	Waterloo Rd near Kissel St
+19025	Cranford St near Mcfaddens Rd
+18177	Wainoni Rd near Ottawa 
+42287	Main North Rd near Lees 
+23521	Ferry Rd near Bordesley St
+24851	Carmen Rd near Waterloo 
+15904	Kainga
+33330	Cashmere Rd near Mavin 
+32484	Glovers Rd near Larsens 
+53349	Silverstream
+12871	Papanui Rd near Mays 
+10694	Whitby St near Everest 
+32007	Buchanans Rd near Dumfries Dr
+13721	Beach Rd near Effingham St
+10214	Avonhead Mall
+46631	Merrin St near Withells Rd
+42273	Port Hills Rd near Avoca Valley 
+45301	Burwood Rd
+44453	King St near Royal Tce
+18183	Wainoni Rd near Avonside Dr
+25710	Waterloo Rd
+23532	Hackthorne Rd near Westenra Tce
+54680	Travis Road near Atlantis Street
+32478	Roydvale Ave
+12408	Burwood Rd near Lakewood Dr
+15915	Main North Rd near Link 
+51174	Gardiners Rd near Sawyers Arms 
+54202	Penruddock Rise near Sedbergh Place
+10222	Withells Rd near Apsley Dr
+13732	Burwood Rd near Mairehau 
+12885	Papanui Rd near Normans 
+19485	Harewood Rd near Cotswold Ave
+23509	Ferry Rd near Manning Pl
+19002	Claridges Rd near Opal Pl
+39090	Bassett St near Tobin Ln
+43117	Rocking Horse Rd near Heron St
+24833	Yaldhurst Rd near Corfe St
+33798	Halswell Rd nearHalswell Junction 
+51188	Gardiners Rd near Sawyers Arms 
+54698	Acacia Avenue near Beech Dr
+33311	Cashmere Rd near Kaiwara St
+53365	Richill St near Main North Rd
+54218	Prestons Rd near Alpine View
+42260	Main North Rd near Williams St
+24846	Russley
+42256	Port Hills Rd near Chapmans 
+19018	Highsted Rd near Ludhiana St
+39088	New Brighton Rd
+45761	Harewood Rd near Waimakariri 
+18165	Wainoni Rd near Cuffs 
+43101	Memorial Ave near Ilam Rd
+19492	Bishopdale Mall (Harewood Rd)
+33780	Halswell Rd near Larsens 
+51190	Woodham Rd near Ngarimu St
+23513	Ferry Rd near Isabella Pl
+10205	Avonhead Mall
+54225	Innes Rd near Nancy Ave
+32450	Lake Terrace Rd near De Ville Pl
+53377	Lake Tce Rd near New Brighton 
+33307	Hoon Hay Rd
+29294	Main North Rd near Queen Elizabeth II Dr
+13713	Beach Rd near Bower Ave
+12863	Papanui Rd near Tomes 
+10687	Rossall St near Holmwood Rd
+51518	Corsair Dr near Harvard Ave
+37692	Riccarton Rd near Balgay St
+11062	Lincoln University
+12393	Mairehau Rd near Royal Pk Dr
+26557	Estuary Rd
+28732	Opawa Rd near Ensors 
+24378	Yaldhurst Rd near Angela St
+40869	Beach Rd near Britannia St
+22194	Lyttelton St near Glynne Cres
+50670	Hansons Ln near Arthur St
+17604	Memorial Ave near Roydvale 
+38546	St Albans near Devonport Ln
+18938	Tuam St near Saxon 
+53706	Gloucester St near Fitzgerald Ave
+51525	Corsair Dr near Gallaghan Cl
+52856	Brookside Rd near Stonebrook Dr
+13249	Kahu Rd near Titoki St
+14581	Hagley Ave near Selwyn St
+13254	Clyde Rd near Arts 
+47003	Mcgregors Rd near Ruru 
+40853	Halswell Rd near Warren Cres
+40848	Wainoni Rd near Avonside Dr
+52860	Rolleston (Kidman St)
+17615	Memorial Ave near Grangewood Ln
+38533	Springfield Rd near Kinloch St
+53710	Gloucester St near Fitzgerald Ave
+16764	Wairakei Rd near Blighs 
+36359	Mccormacks Bay Rd near Maffeys 
+50689	Hansons Ln near Haynes Ave
+51539	The Runway near Kittyhawk Ave
+50207	Godley Rd
+10192	Hawthornden Rd near Henridge Pl
+13220	Kotare St near Kahu Rd
+11043	Centaurus Rd near Austin Kirk Ln
+12372	Main North Rd near Swift St
+46146	Linwood Ave near Cashel St
+28713	Fitzgerald Ave near Armagh St
+50691	Hansons Ln near Haynes Ave
+52873	Cranley St
+24350	Emmett St near Riselaw 
+50211	Aylesbury Rd near Runners 
+51541	The Runway near Dalwood Dve
+53723	Innes Road near Severn Street
+38522	Springfield Rd near Kinloch St
+15887	Main North Rd near Neeves 
+16738	Sawyers Arms Rd
+15405	Papanui
+13231	Kahu Rd near Girvan St
+15894	Main North Rd near Doubledays 
+38994	Main South Rd near Canterbury St
+37663	Burnside High School
+26542	Estuary Rd near Bellamy Ave
+23033	Eastgate Mall (Linwood Ave)
+53734	Marine Parade near Beresford St
+52887	Salisbury St near Victoria 
+15414	Papanui Rd near Blighs 
+46133	Gloucester St near Barbadoes 
+12386	Main North Rd near Factory 
+51556	Wharenui Rd near Janet St
+38514	Edgeware Rd near Caledonian 
+10171	Hyde Park
+15860	Woodend Rd near Greenwood Cl
+24332	Buchanans Rd near Peebles Dr
+22156	Selwyn St near Ruskin 
+40824	Wairakei Rd near Jennifer St
+26999	Gloucester St
+51560	Wharenui Rd near Riccarton 
+13208	Guildford St near Wadhurst Pl
+25660	Westlake Dr near Eskdale Pl
+52894	Bealey Ave
+50230	Two Chain Rd near Aylesbury 
+23482	Radley St near Tavender 
+12355	Belfast
+14534	Epsom Rd near Carbine Pl
+38987	Main South Rd near Tower St
+13685	Stanmore Rd near Haast St
+11027	Main South Rd near English St
+43091	Maidstone Rd near Farnham Pl
+38505	Barbadoes St near Edgeware Rd
+53747	Halswell Shops
+10185	Kedleston Dr near Audley Gate
+43089	Main South Rd near Carmen 
+36794	Cresswell Ave near Gayhurst Rd
+33284	Moorhouse Ave near Antigua St
+23014	Hay St near Kuaka Cres
+24345	Emmett St near Shirley Rd
+40811	Lincoln Rd near Ln
+40807	Wairakei Rd near Greers 
+22160	Halswell Rd nearHalswell Junction 
+53752	Marine Parade near Beresford Street
+51573	Wharenui Rd near Riccarton 
+25673	Westlake
+23495	Cashmere 
+45262	Rolleston Dr near Renoir 
+38973	Main South Rd near Springs 
+37644	Whiteleigh Ave near Leamington St
+12364	Halswell Rd near Warren Cres
+47440	Clarence St near Dilworth 
+13212	Guildford St near Heath 
+15873	Main North Rd
+54605	Hereford St near Latimer Square
+18901	Seaview Rd
+47438	Rolleston Dr near Othello 
+14990	Bealey Ave
+24795	Emmett St near Skipton 
+24313	Buchanans Rd near Cicada Pl
+50253	Jones Rd (Templeton)
+54614	Hereford St near Latimer Square
+51587	Wharenui Rd near Puna St
+53768	Birchs Rd near Oaks Dr
+51103	Ti Rakau Dr near Delta Wy
+11004	Cashmere Rd near Thorrington 
+12338	Williams St near Holland Drive
+43070	Maidstone Rd near Farnham Pl
+37637	Clarence St near Burdale 
+10159	Kedleston Dr near Apsley 
+12340	Main North Rd near Doubledays 
+13671	Ilam Rd near Montana Ave
+10163	Kedleston Dr near Greystoke Ln
+24321	Briggs Rd
+23476	Cashmere
+25656	Westlake Dr near Lancewood 
+26503	Estuary Rd near Bellamy Ave
+54622	Gardiners Road near Cullahill Street
+33266	Moorhouse Ave near Montreal St
+26981	Kingsbury Ave near Melford Cl
+51594	Hereford St near Barbadoes 
+53775	West Melton shops
+22141	Barrington Mall (Athelstan St)
+14523	Moorhouse Ave near Madras St
+50269	Ellesmere Junction Rd near Mather Pl
+38956	Main South Rd near Garvins 
+51119	Disraeli St near Braddon 
+39472	Keyes Rd near Lonsdale St
+18532	Lake Terrace Rd
+15020	Williams St near Dale 
+38145	Dunbars Rd near Westlake Dr
+26158	Estuary Rd near Sandra St
+54195	Penruddock Rise near Francis Mill Grove
+43977	Cranford St near Fraser 
+42646	Wakefield Ave near Duncan St
+55046	Jones Rd near Dawsons 
+30661	Major Hornbrook Rd near Billys Trk
+32840	Ramahana Rd near Centaurus 
+14179	Parker St near Steele 
+16358	Carlton Mill Rd near Cheltenham St
+17689	Memorial Ave near Chilcombe St
+17207	Riccarton Rd near Bartlett St
+15031	Main North Rd near Old 
+16362	Rossall St near Rhodes 
+38132	Dunbars Rd near Westlake Dr
+39464	Keyes Rd near Rawson St
+32829	Waltham Rd near Rogers St
+11908	Centaurus Rd near Whaka Tce
+44815	Buchanans Rd near Dumfries Dr
+14180	Colombo St near Salisbury 
+42633	Lyttelton Wharf
+55051	Jones Rd near Dawsons 
+26162	Rocking Horse Rd near Tern St
+11912	Hoon Hay Rd near Cashmere 
+32838	Centaurus Rd near Ramahana 
+30657	Nayland St near Stoke 
+50604	Birmingham Dr near Craft Pl
+14151	Smiths City (Southbound)
+15480	Pages Rd near Shortland St
+38121	Dunbars Rd near Lancewood Dr
+26136	Rocking Horse Rd near Whimbrels Wy
+42622	Duncan St near Campbell 
+43954	Marshland Rd near Cotton St
+55067	Apsley Drive
+30642	Nayland St near Hardwicke 
+28797	Bealey Ave near Madras St
+47074	Pages Rd near Portchester St
+50615	Birmingham Dr near Craft Pl
+15008	Kaiapoi (McDonalds)
+18521	Marshland Rd near Voss St
+17670	Memorial Ave near Kendal 
+15012	Williams St near Davie 
+16343	Carlton Mill Rd near Exeter St
+38113	Dunbars Rd near Balkwell St
+40436	Blenheim Rd near Hansons Ln
+43949	Marshland Rd near Hercules St
+42614	Main North Rd near Barnes 
+2854	The Hub Hornby
+28323	Birchs Rd near Robinsons 
+26143	Estuary Rd near Jellicoe St
+32817	Wilsons Rd near Timbertop Ln
+30635	Marriner St near Richmond Hill Wlk
+52802	Brookside Rd near Stonebrook Dr
+38580	Merivale Mall
+13283	The Palms (Marshland Rd- vet side)
+18972	New Brighton (Beresford St)
+50627	Annex Rd near Nazareth Ave
+19820	Veitches Rd near Grampian St
+17643	Memorial Ave near Burnside Park
+14133	Manurere St near Wycola Ave
+30619	Main Rd near Marriner St
+42605	Van Asch St near Denman 
+55080	South Belt near Buckleys Rd
+43931	Marshland Rd near Mcsaveneys 
+40427	Memorial Ave near Grahams Rd
+26590	Buckleys Rd near Rudds 
+30626	Nayland St near Menzies 
+39438	Travis Road near Bower Ave
+32801	Waltham Rd near Austin St
+38109	Halswell Rd near Dunbars 
+50636	Annex Rd near Birmingham Dr
+52818	Brookside Rd near East Maddisons 
+36392	St Andrews Hill Rd near Marama Cres
+19831	Claridges Rd near Opal Pl
+13296	Lake Terrace Rd near Giles Pl
+28306	Dunbars Rd near Hindess St
+43920	Bush St near Strachan Pl
+40415	Halswell Rd near Rowley Ave
+20818	Queenspark Dr near Bower Ave
+28784	Fitzgerald Ave near Alexandra St
+46198	Rolleston Dr near Renoir 
+15479	Pages Rd near Breezes 
+14146	Manurere St near Ranui 
+38579	Springfield Rd near St Albans 
+50643	Annex Rd near Railway
+52825	East Maddisons Rd near Lowes 
+17658	Aylesbury Rd near Queens Dr
+13265	North Pde near Averill St
+40882	Eastgate Mall (Buckleys Rd)
+36385	St Andrews Hill Rd near The Brae
+41733	Rangiora Woodend Rd near Chinnerys 
+43912	Marshland Rd near Mcsaveneys 
+43908	The Palms (Shirley Rd)
+24397	Gerald St near Murray Pl
+26574	Oram Ave near Rodney St
+14599	Hei Rd near Buchanans 
+30603	Moorhouse Ave near Manchester St
+38567	Springfield Rd near St Albans 
+51502	Corsair Dr near Grebe Pl
+14114	Hagley Ave near High Sch
+18955	Tuam St near England 
+50658	Annex Rd near Railway
+36371	Major Hornbrook Rd near Billys Trk
+52839	Rolleston Terminus
+14122	Gilberthorpes Rd near Prichard Cres
+38551	St Albans near Donald Pl
+20802	Queenspark Dr near Donnington St
+50662	Hansons Ln near Arthur St
+13277	North Parade
+52841	Brookside Rd near East Maddisons 
+16786	Sawyers Arms Rd near Cotswold Ave
+17636	Veitches Rd near Grampian St
+20576	Bower Ave near Saltaire St
+18257	Marine Pde near Bowhill Rd
+23606	Colombo St near Thorrington Rd
+40188	Bower Ave near Pinewood 
+43210	Northwood Blvd near Mounter Ave
+16078	Rossall St near Glandovey Rd
+41039	Opawa Rd near Mary McLean Pl
+24931	Carmen Rd near Waterloo 
+39192	New Brighton (Oram Ave)
+28055	Blenheim Rd near Curletts 
+11626	Gamblins Rd near Ngaio St
+33896	Halswell Rd near O'halloran Dr
+36929	Aldwins Rd near Matlock St
+29389	Cranford St near Malvern 
+10775	Guildford St near Heath 
+33416	Cashmere Rd near Kaiwara St
+39185	Keyes Rd
+40174	Kaiapoi (Police Station)
+44532	Oxford Rd near Fairview Briars
+24949	Carmen Rd
+20582	Bower Ave near Dick Taylor Dr
+16084	Strowan Rd near Lloyd St
+42358	Bridle Path Rd near Port Hills 
+28064	Blenheim Rd near Curletts 
+33400	Penruddock Rse near Sedgwick Wy
+36917	Aldwins Rd near Bass St
+10308	Maidstone Rd near Colina St
+32552	Brougham St near Albemarle 
+33883	Halswell Rd near Village Lane
+10781	Guildford St near Heath 
+12960	Papanui Rd near Hawthorne St
+13811	Main North Rd near Williams St
+21886	Aston Dr near Orlando Cres
+42343	Head St near Dryden 
+44521	Kingsbury Ave near Windsor Ct
+18235	Marine Pde near Hawke St
+40161	Wainoni Rd near Breezes 
+17380	Veitches Rd near Cavendish 
+41018	Brittan Tce near Simeon Qy
+39171	Keyes Rd near Sinclair St
+16050	Rossall St near Office Rd
+11603	Centaurus Rd near Torvill & Dean Ln
+29362	Cranford St near Berwick 
+12939	Lincoln Rd near Torrens 
+10752	Whitby St near Everest 
+33877	Halswell Rd near Glovers 
+36901	Aldwins Rd near Harrow St
+16066	Rossall St near Leinster Rd
+39163	Bassett St near Parnwell 
+44513	High St near Stephen 
+40157	Wainoni Rd near Orrick Cres
+18242	New Brighton (Oram Ave)
+41002	Tuam St near Percy 
+19574	Grampian St near Cavendish Rd
+42336	Bridle Path Rd
+20569	Bower Ave near Palmers Rd
+33865	Halswell Rd near Nicholls 
+10768	Sheffield Cres near Wairakei Rd
+11619	Centaurus Rd near St Martins 
+29370	Cranford St near Westminster 
+12941	Main North Rd near Belfast 
+40142	Wainoni Rd near Portsmouth St
+21864	Effingham St near Monowai Cres
+17367	Memorial Ave near Avice Hill Reserve
+41471	Mairehau Rd near Putake Dr
+39159	Bassett St near Vivian 
+28017	Creyke Rd
+44509	Kingsbury Ave near Regent 
+15181	Ferry Rd near Manning Pl
+42327	Bridle Path Rd near Ferrymead Park Dr
+53061	Manchester St Super Stop
+10734	Teesdale St near Deepdale 
+32523	Brougham St near Wilsons Rd
+33854	Larsens Rd near Glovers 
+12918	Halswell Rd near Tankerville 
+28491	Fitzgerald Ave near River Rd
+18219	Stanmore Rd near London St
+39144	Keyes Rd near Gresham Tce
+17379	Memorial Ave near Spitfire Square
+18226	Marine Pde near Lonsdale St
+40135	Cavendish Rd near Barnes 
+24908	Yaldhurst Rd near Curletts 
+15199	Main North Rd
+42793	Nayland St near Head 
+16045	Wairakei Rd near Spalding St
+42315	Masham Rd near Kintyre Dr
+38291	Riccarton Rd near Shand Cres
+53074	Manchester St Super Stop
+12925	Papanui Rd near Rugby St
+10747	Teesdale St near Tay 
+32510	Opawa Rd near Hawford 
+29358	Cranford St near Winton 
+32990	Opawa
+33849	Patterson Tce near Ridder Pl
+20511	Queenspark Dr near Chadlington St
+18675	Mairehau Rd near Tapiri St
+42786	Nayland St near Hardwicke 
+17346	Memorial Ave near Burnside Park
+16499	Wairakei Rd near Abros Pl
+38289	Riccarton Rd near Paeroa St
+39137	Hawke St near Convoy 
+16013	Wairakei Rd near Aorangi 
+29327	Regent's Park Dr near Primrose Hill Ln
+40126	Wainoni Rd near Orrick Cres
+42304	Bridle Path Rd near Ferrymead Park Dr
+33831	Oakridge St near Nicholls Rd
+53088	Bus Interchange (Platform C)
+26297	Rocking Horse Rd near Torea Ln
+32506	Opawa Rd near Locarno St
+32988	Opawa
+50810	Lyttelton Jetty
+10710	Sir William Pickering Dr near Roydvale Ave
+42772	Colenso St near Menzies 
+18203	Stanmore Rd near Warwick St
+17351	Memorial Ave near Roydvale 
+53090	Bus Interchange (Platform D)
+36098	Moorhouse near Manchester St
+38270	Springs Rd near Amyes 
+12902	Papanui Rd near Weston 
+10723	Roydvale Ave near O'connor Pl
+33820	Halswell Shops
+32974	Opawa Rd near Cholmondeley Ave
+30795	Main Rd near Augusta St
+28489	Blenheim Rd near Curletts 
+50823	Diamond Harbour Jetty
+21024	Gloucester St near England 
+45477	Aidanfield Dr near Bibiana St
+25866	Dunbars Rd near Balkwell St
+23203	Hackthorne Rd near Dyers Pass 
+24537	Springs Rd near Dufek Cres
+26714	Gloucester St near England 
+33018	Mccarthy St near Rowley Ave
+32167	Major Hornbrook Rd near Muritai Tce
+22351	Wales St near Shamrock Pl
+36521	Waimairi Rd near Brulay Cts
+37853	Aldwins Rd near Bass St
+13882	Kotare St
+11223	Lyttelton St near Conway 
+51249	Sir William Pickering Dr
+12551	Lincoln Rd and Parade Ct
+54755	West Belt
+13404	Woodbury St near Glenharrow Ave
+10377	Kedleston Dr near Hatfield Pl
+14736	Moorhouse Ave near Washington Wy
+53429	Williams St (Mobil Kaiapoi)
+23219	Hackthorne Rd near Stambridge Pl
+10383	Maidstone Rd near Derenzy Pl
+32151	Major Hornbrook Rd near Rockview Pl
+24544	Bentley St near Cutts Rd
+26722	Kippenberger Ave near East Belt
+22367	Barrington St near Conway 
+23699	Wilsons Rd
+46318	Mandeville St near Kyle 
+51254	Riccarton Ave (Hospital)
+54764	West Belt
+33485	Sedgwick Way near Woodside Common
+13895	Williams St near Cass 
+21030	Gloucester St
+14743	Park Tce near Peterborough St
+11234	Frankleigh St near Alvarez Pl
+44131	Rocking Horse Rd near Penguin St
+13415	Staveley St
+12567	Lincoln Rd near Nairn St
+46789	Pages Rd near Woodham 
+24516	Cutts Rd near Yaldhurst 
+20152	Hills Rd near Gresford St
+19162	Harewood Rd near Farrington Ave
+33471	Penruddock Rse near Highcrest Hts
+3386	Barrington Mall
+22333	Patterson Tce near Ridder Pl
+24996	Yaldhurst Rd near Racecourse 
+25845	James St near Boundary Rd
+53440	Corsair Dr - The Landing
+54772	Smith Street near Raven St N
+11206	Aldwins Rd near Harrow St
+14715	Riccarton Ave
+32146	St Martins Shops
+13869	Kotare St near Roa Rd
+10354	Merrin St near Hawthornden Rd
+11688	Centaurus Rd near Major Aitken Dr
+24528	Springs Rd near Sioux Ave
+26705	Oram Ave near Hood St
+41087	Ti Rakau Dr near Shearwater 
+11690	Centaurus Rd near Austin Kirk Ln
+44597	High St near Weston Pl
+45449	Linwood Ave near Kidbrooke St
+22346	Patterson Tce near Rempstone Dr
+19170	Bishopdale Mall (Harewood Rd)
+14727	Oakridge St near Nicholls Rd
+32133	Fendalton Rd near Stratford St
+53455	The Runway near Deal St
+54786	Smith Street near Raven St N
+51277	Sir William Pickering near Gil Simpson
+36972	St Martins Rd near Wilding 
+10365	Kedleston Dr near Audley Gate
+54304	Darfield
+12546	Bealey Ave
+13876	Williams St near Davie 
+23647	Hay St near Mcgregors Rd
+20134	Hills Rd near Warden St
+44584	Ashley St near Duke 
+19143	Harewood Rd near Marble Wood Dr
+44108	Addington Village
+24977	Yaldhurst Rd near Withells 
+22314	Barrington St near Strauss Pl
+51283	Sir William Pickering Dr
+54793	Kingsbury Ave near Melford Cl
+32122	University - Creyke Rd
+53464	The Runway near Deal St
+12994	Halswell Rd near Coppell Pl
+10331	Avonhead Mall
+54315	Darfield Town Centre
+41073	Opawa Rd near Grange St
+36964	St Martins Rd near Ensors 
+12514	Papanui Rd near Webb St
+28093	Blenheim Rd near Watts 
+33459	Penruddock Rse near Pembridge Ln
+19158	Harewood Rd near St James Ave
+45420	Bluestone Dr near Alpine View
+24500	Yaldhurst Rd near Ludecke Pl
+25832	Springs Rd near Birchs 
+10349	Avonhead Mall
+32599	Greers Rd near Ardmore Pl
+14704	Christchurch Hospital Main Stop WB
+51296	Bush St near Coates Pl
+33444	Penruddock Rse near Croftfield Pl
+53472	Hawke St near Keppel 
+32114	University - Creyke Rd
+42391	Heathcote
+11674	Gamblins Rd near Ngaio St
+36955	Ensors Rd
+13853	Williams St near Dale 
+44566	Ashley St near Duke 
+42389	Bridle Path Rd near Hammerton Ln
+19127	Harewood Rd near Wooldridge 
+20595	Whitmore St near Bealey Ave
+18274	Burwood Rd near Stanford St
+45892	Halswell Junction Rd near Foremans 
+25809	Springs Rd near Boston Ave
+41056	Bridle Path Rd near Rollin St
+32581	Hills Rd near Dudley St
+24954	Barbadoes St near Purchas 
+32105	Ferry Rd near Radley St
+10799	Guildford St near Wayside Ave
+53486	Hawke St near Keppel 
+36940	Ensors Rd and Sullivan Ave
+10312	Withells Rd near Gainford St
+11642	Centaurus Rd near Woodlau Rse
+12973	Main North Rd near Cranford St
+33437	Cashmere Rd near Mavin 
+28072	Blenheim Rd near Hansons Ln
+19136	Harewood Rd near Nunweek Blvd
+18288	The Palms (Marshland Rd mall side)
+46736	Brittan Tce near Seaview 
+54343	Pegasus Main St near Motu Qy
+11657	Howard St near Simeon 
+28086	Blenheim Rd near Watts 
+53493	Williams St (Mobil Kaiapoi)
+12505	Papanui Rd near St Albans 
+36938	Ensors Rd near Charles St
+13830	Williams St near Sims Rd
+42370	Bridle Path Rd
+10320	Withells Rd near Apsley Dr
+33428	Cashmere Rd - Francis Res
+12987	Papanui Rd near Heaton St
+40190	Bower Ave near Dick Taylor Dr
+36482	Soleares Ave near Mt Pleasant Rd
+47137	Lincoln Rd near Hazeldean 
+11186	Kerrs Rd
+40980	Wairakei Rd near Kendal Ave
+40502	Milton St near Strickland 
+24015	Barbadoes St near Bealey Ave
+41831	Brittan Tce near Voelas Rd
+26672	Gloucester St near Stanmore Rd
+36005	Major Hornbrook Rd near Billys Trk
+23165	Princess Margaret Hospital
+12034	Main North Rd near Richill St
+39515	Shirley Rd near Quinns 
+51644	Inwoods Rd near Jade Pl
+53821	Doyleston
+38669	Idris Rd near Fendalton 
+15548	Ferry Rd near Oak St
+14216	Bealey Ave
+11193	Lyttelton St near Rose 
+15553	Ferry Rd near Charlesworth St
+13375	Clyde Rd near Fendalton 
+38653	Straven Rd near Rochdale St
+23177	Hackthorne Rd near Stambridge Pl
+26686	Estuary Rd near Halsey St
+24027	Middlepark Rd near Epsom 
+40979	Highsted Rd near Glenmore Ave
+26209	Rocking Horse Rd near Petrel Ln
+28869	Main Rd near Te Awakura Tce
+50322	Ellesmere Junction Rd near Leeston 
+39504	Shirley Rd near Quinns 
+12047	Main North Rd near Donegal St
+53832	Doyleston
+19910	Veitches Rd near Cavendish 
+51659	Inwoods Rd near Jade Pl
+11164	Eastgate Mall (Buckleys Rd)
+12010	N Avon Rd near Petrie St
+40967	Ferry Rd near Settlers Cres
+23149	Hackthorne Rd near Gwynfa Ave
+41812	Norwich Quay near Canterbury St
+28830	Bealey Ave
+51663	Bower Ave near Crofts Ln
+22295	Lyttelton St near Hennessy Pl
+24473	Racecourse Rd near O'briens 
+15524	Ferry Rd near Tilford St
+14677	St Asaph near Fitzgerald Ave
+50333	Lowes Rd near Rembrandt Dr
+53845	Springston
+44080	Rowley Ave near Salmond St
+38648	Idris Rd near Wroxton Tce
+13347	Main North Rd near Manse Pl
+14683	Moorhouse Ave near Selwyn St
+13352	Main North Rd near the lakes
+11172	Buckleys Rd near Butterfield Ave
+14200	Buchanans Rd near Racecourse 
+38630	Idris Rd near Wroxton Tce
+28848	Main Rd near Wakatu Ave
+51671	Bower Ave near Crofts Ln
+23154	Hackthorne Rd near Cashmere 
+12023	Burwood Rd near Clarevale St
+54701	Oxford Road near Charles Upham Dr
+50346	Lowes Rd near Tennyson St
+28811	Bealey Ave near Madras St
+22276	Halswell Rd near Village Lane
+24456	Emmett St near Riselaw 
+40946	Tuam St near Nursery Rd
+26638	Pages Rd near Farnborough St
+50351	Jones Rd near Weedons Ross 
+51685	Aston Dr near Torres Pines
+23120	Hackthorne Rd near Lowick Ave
+13323	N Avon Rd near Chrystal St
+12477	Marshland Rd near Pagoda St
+10298	Maidstone Rd near Highfield Pl
+38624	Glandovey Rd
+37778	Gayhurst Rd near Coopers 
+54717	Oxford Road near Oakwood Dr
+12483	Papanui Rd near Murray Pl
+15991	Northwood Blvd near Main North Rd
+25312	Middlepark Rd near Takaro Ave
+28824	Main Rd near Celia St
+51692	Aston Dr near Torres Pines
+24460	Buchanans Rd near Racecourse 
+32076	Innes Rd near Hills 
+23131	Hackthorne Rd near Lady Polson Ln
+51212	Roydvale Ave near Highwood Ln
+26640	Bush St near South Blt
+47562	Hussey Rd near Millpark Tce
+14665	St Asaph near Barbadoes 
+50367	Jones Rd near Hoskyns 
+53878	Springston
+15511	Ferrymead Shops
+54729	Rangiora (Ashley Street)
+24439	Quinns Rd near Hercules St
+37750	Aldwins Rd near Edmond St
+23584	Colombo St near Nutfield Ln
+33395	Milton St near Drummond 
+19087	Highsted Rd
+40922	Hussey Rd near Springvale Gdns
+25768	Springs Rd near Henry Wigram Pl
+38607	Heaton St near Glandovey Rd
+11129	Rose St near Hoon Hay Rd
+32069	Lake Terrace Rd near Lakewood Dr
+40914	Main North Rd near Sturrocks 
+53884	Irwell
+53401	Island Rd near Barnard St
+13784	Hawthornden Rd near Bellingham Pl
+50379	Jones Rd near Hoskyns 
+10279	Maidstone Rd
+13306	Marshland Rd near Alma Pl
+54738	West Belt near Arlington Boulevard
+26629	Pages Rd
+10280	Maidstone Rd near Westmont St
+28807	Main Rd near Raekura Pl
+15970	Northwood
+36891	Aldwins Rd near Marlborough St
+25775	Springs Rd near Boston Ave
+33382	Milton St near Selwyn 
+22269	Nottingham Ave near Arkwright Pl
+19094	Veitches Rd near Kimberley St
+50380	Kissel St near Banks 
+51231	Roydvale Ave near Homersham Pl
+24441	Barbadoes St near Purchas 
+54740	West Belt near Arlington Blvd
+12465	Marshland Rd near Cotton St
+13797	Main North Rd
+13310	North Pde near Medway St
+53897	Corsair Dr near Keene St
+37745	Riccarton Rd near Field Tce
+53417	Island Rd near Barnard St
+18652	Mairehau Rd near Daytona Pl
+17322	Memorial Ave near Grahams Rd
+38262	Amyes Rd near Shands 
+36080	Moorhouse Ave near Montreal St
+50708	Withells Rd near Woodbury St
+33808	Wales St near Shamrock Pl
+16475	Wairakei Rd near Sheffield Cres
+19981	Cranford St near Westminster 
+41437	Papanui Rd near Holly 
+40103	Wainoni Rd near Hampshire St
+29304	Lowry Ave near Denniston Cres
+43619	Southern Park and Ride (South Belt)
+39591	Bassett St near Parnwell 
+30782	St Andrews Hill Rd near The Brae
+26278	Estuary Rd near Sandra St
+50712	Withells Rd near Staveley St
+24091	Kensington Ave near Westminster St
+33812	Wales St near Oldham Cres
+17333	Memorial Ave near Grangewood Ln
+15152	Linwood Ave near Cashel St
+39100	Bassett St near Tobin Ln
+16481	Wairakei Rd near Abros Pl
+20507	Broadhaven Ave near Queenspark Dr
+29315	Regent's Park Dr near Aylsham Ln
+42755	Duncan St near Truro 
+29793	Blenheim Rd near Penn Pl
+26284	Rocking Horse Rd near Tern St
+10706	Sir William Pickering Dr (NB)
+39589	Travis Rd near Atlantis St
+32957	Opawa Rd near Manatu Ln
+19999	Cavendish Rd near Sturrocks 
+30776	Major Hornbrook Rd near Billys Trk
+18668	Mairehau Rd near Inwoods 
+17783	Tennyson St near Michelangelo Dr
+42740	Nayland St near Menzies 
+52904	Victoria St near Dorset 
+14271	St Asaph near Montreal 
+38243	Amyes Rd near Branston St
+15123	Main North Rd near Cunliffe 
+12099	Mairehau Rd near Inwoods 
+37399	Colombo St near Remuera Ave
+36067	Mt Pleasant Rd near Belleview Tce
+20958	Broadhaven Ave near Inwoods Rd
+41896	Cranford St near Malvern 
+28436	Madeley Rd near Major Hornbrook 
+41416	Pak n Save Wainoni
+26250	Rocking Horse Rd near Plover St
+47192	Aidanfield Dr near Bibiana St
+18634	Lake Terrace Rd near Fairway Dr
+17305	Veitches Rd near Northfield 
+32942	Huntsbury Ave near Ramahana Rd
+24070	Craven St near Algidus 
+20962	Bower Ave near New Brighton Rd
+39562	Rookwood Ave near Marriotts Rd
+19975	Cavendish Rd near Northcote 
+52915	Hereford St near Montreal 
+42738	Wakefield Ave near Paisley St
+36051	Ara Institute
+29772	Grimseys Rd near Lowry Ave
+42729	Van Asch St near Denman 
+26266	Estuary Rd near Jellicoe St
+28443	Major Hornbrook Rd near Belleview Tce
+24089	Westminster St near Flockton 
+38236	Amyes Rd near Branston St
+16468	Wairakei Rd near Todd Ave
+32935	Huntsbury Ave
+30753	St Andrews Hill Rd near Marama Cres
+18647	Marshland Rd near Amos Pl
+15582	Ferry Rd near Catherine St
+18610	Marshland Rd near Hammersley Ave
+52927	Rolleston Ave near Gloucester St
+32919	Huntsbury
+41877	Cranford St near Winton 
+36046	Fitzgerald Ave near Harvey Tce
+24058	Emmett St near Jebson 
+26232	Estuary Rd near Ebbtide St
+15106	Main North Rd near Momorangi Cres
+32926	Huntsbury Ave near Aotea Tce
+14259	Epsom Rd near Middlepark 
+38227	Amyes Rd near Witham St
+39558	Keyes Rd
+51600	Hereford St near Barbadoes 
+30748	Major Hornbrook Rd near Muritai Tce
+17765	Tennyson St near Rolleston Dr
+52936	Madras St Terminus
+38695	Riccarton Rd near Newnham Tce
+14263	St Asaph near Colombo 
+36033	Gloucester St near Fitzgerald Ave
+42717	Hendersons Rd near Rowley Ave
+24062	Buchanans Rd near Peebles Dr
+30730	St Andrews Hill Rd near Major Hornbrook 
+26245	Rocking Horse Rd near Penguin St
+38215	Amyes Rd near Witham St
+52943	Madras St near Southwark 
+18623	Lake Terrace Rd near De Ville Pl
+17777	Main South Rd near Chalmers St
+51616	Hereford St near Fitzgerald Ave
+13381	Staveley St
+38682	Ilam Rd near Rudleigh Ave
+12052	Main North Rd near Tuckers 
+26213	Southshore
+24036	Middlepark Rd near Takaro Ave
+36022	Moorhouse Ave near Hagley 
+42701	Head St near Wiggins 
+23183	Dyers Pass Rd and Hackthorne 
+26693	Union St
+38204	Amyes Rd near Trevor St
+14237	Racecourse Rd near O'briens 
+30724	St Andrews Hill Rd near Marama Cres
+39536	New Brighton Rd near Lake Terrace 
+32903	Huntsbury Ave near Aotea Tce
+52958	Tuam St near Madras 
+19923	Grampian St near Cavendish Rd
+53809	Leeston Rd near Ellesmere Junction 
+14244	Buchanans Rd near Vanguard Dr
+29738	Ensors Rd near Sullivan Ave
+40998	Park Tce
+26221	Estuary Rd near Halsey St
+23196	Hackthorne Rd near Westenra Tce
+24043	Flockton St near Carrick 
+28882	Greers Rd near Ardmore Pl
+36014	Moorhouse Ave near Waller Tce
+12068	Main North Rd near Momorangi Cres
+38676	Ilam Rd near Kirkwood Ave
+15576	Ferry Rd near Tunnel 
+13399	Solway Ave near Glenside 
+17754	Main South Rd near Seymour St
+50305	Godley Rd
+39527	The Palms (New Brighton Rd)
+53813	Leeston Rd near Ellesmere Junction 
+30711	Mt Pleasant
+19221	Harewood Rd near Wooldridge 
+25907	Gerald St near Kildare Tce
+46840	Marshland Rd
+45994	Rolleston Dr near Othello 
+18371	Burwood Hospital - Mairehau Rd
+20217	Queenspark Dr near Lamorna Rd
+42009	Port Hills Rd near Martindales 
+54475	Prestons (Te Korari St)
+53144	Manchester St near Kilmore 
+11748	Centaurus Rd near Landsdowne Tce
+10417	Sheffield Cres near Sir William Pickering Dr
+28174	Lincoln Rd near Dickens St
+32683	Wilsons Rd near Riverlaw Tce
+32200	Major Hornbrook Rd near Freeman St
+42481	Bridle Path Rd near Cannon Hill Cres
+42475	Mt Pleasant Rd near Main 
+40296	North Pde near Averill St
+41143	Park Tce near Cressy 
+45987	Linwood Ave near Wanstead Pl
+21552	North Shore
+43321	Hoon Hay Rd near Lewis St
+20229	Queenspark Dr near Brentwood St
+54481	Prestons (Te Korari St)
+22403	Wales St near Oldham Cres
+32677	Ramahana Rd near Aotea Tce
+53159	Kilmore St near Manchester 
+10429	Roydvale Ave near Juniper Pl
+12607	Halswell Rd near Coppell Pl
+54009	Prestons Rd near Te Korari St
+11753	Beckenham
+13933	Main North Rd near Wrights 
+39298	Travis Rd near Blue Gum Pl
+41136	Governors Bay Rd near Mariners Cv
+46829	Saracen Ave near Mahlet St
+11724	Cashmere Rd near Ferniehurst St
+54013	Prestons Rd near Te Korari St
+53163	Hereford St near Colombo 
+54499	Preston Downs Reserve
+33999	Halswell
+19213	Fendalton Rd near Tui St
+40277	Marine Pde near Hawke St
+18363	Burwood Rd near Mairehau 
+23718	Wilsons Rd near Koromiko St
+45960	Mandeville St near Kyle 
+41127	Delta Wy near Ti Rakau Dr
+46817	Saracen Ave near Handel Cl
+39280	Travis Rd near Bower Ave
+53171	Hereford St near Colombo 
+13914	Kainga
+32654	Centaurus Rd near Ramahana 
+54021	Simeon St near Milton 
+33981	Halswell Rd near O'halloran Dr
+29499	Cranford St near Fraser 
+11730	Cashmere Rd near Valley 
+10401	Kilmarnock St near Kahu Rd
+19664	Northcote Rd near Uxbridge St
+46801	Pages Rd near Kearneys 
+17488	Main South Rd near Seymour St
+44623	King St near Seddon 
+50909	Pegasus Blvd near Whakatipu St
+39279	New Brighton Rd near Bampton St
+41115	Rapaki
+42447	Heathcote
+37093	Frankleigh St
+33975	Halswell Rd near Larsens 
+2107	Burnham
+53185	Rolleston Ave near Gloucester St
+54032	Milton St near Simeon 
+29468	Antigua St near Disraeli 
+28135	Lincoln Rd near Clarence St S
+11707	Cashmere Rd
+32649	Mt Pleasant Rd near Belleview Tce
+10850	Clyde Rd near Aorangi 
+44610	Main North Rd near Pa 
+45941	Mcgregors Rd near Ruru 
+50913	Springs Rd near Marshs 
+37086	Harewood Rd near Restell St
+42434	Main Rd near Raekura Pl
+22847	Coronation St near Simeon 
+39267	Cresswell Ave and New Brighton Rd
+40254	Rodney St near Union 
+17490	Main South Rd near Chalmers St
+41104	Gardiners Rd near Smacks Cl
+53192	Salisbury St near Gracefield Ave
+29475	Cranford St near Mcfaddens Rd
+54045	Faringdon (Blvd)
+28142	Addington Village
+32631	Mt Pleasant Rd near Drayton Dr
+50921	Pegasus Blvd near Solander Rd
+33968	Halswell Rd near Glovers 
+11711	Cashmere Rd near Valley 
+20632	Hills Rd near Gresford St
+39251	New Brighton Rd near Horseshoe Lake 
+42423	Bridle Path Rd near Rollin St
+17461	Riccarton Rd near Harakeke St
+15286	Ferry Rd near Hargood St
+19640	Regents Park Dr near Woodhurst 
+37072	Waimairi Rd near Bowen St
+22810	Simeon St near Howard 
+54050	Faringdon (Lansdowne Wy)
+28594	Matipo St near Maxwell 
+33952	Patterson Tce near Brigham Dr
+10832	Clyde Rd near Morley St
+32620	Soleares Ave near Mccormacks Bay Rd
+50932	Pegasus Blvd near Main St
+38393	Riccarton Rd near Middleton 
+42410	Main Rd near Celia St
+22823	Waltham Rd near Hastings St E
+15293	Ferry Rd near Portman St
+40231	Buckleys Rd near Kerrs 
+43748	Central Park and Ride (White St)
+45925	Christchurch Gondola
+20645	Hills Rd near Avalon St
+29452	Cranford St near Edgeware Rd
+54066	Birchs Rd near Barton Fields Dr
+16148	Wairakei Rd near Aorangi 
+50945	Pegasus Blvd near Waireka St
+32612	Brougham St near Wilsons Rd
+23328	Colombo St and Somerfield 
+47775	Merrin St near Farndale Pl
+10493	Cranbrook Ave near Appleby Cres
+22474	Barrington St near Conway 
+26831	Pages Rd near Rowan Ave
+52697	Tennyson St near Markham Way
+54874	Kaiapoi South Park & Ride
+32285	Main North Rd near School 
+51368	Fendalton Rd near Holmwood 
+44261	Ashley St near Rickton Pl
+50037	Burwood Rd near Rothesay 
+42084	Port Hills Rd near Mauger Dr
+12676	Hendersons Road
+26849	Pages Rd near Portchester St
+44257	Southbrook
+12682	Hendersons Rd near Rowley Ave
+42078	Port Hills Rd near Avoca Valley 
+25995	Waterloo Rd near Wilson St
+22488	Westlake
+45109	Jones Rd (Templeton)
+23337	Colombo St near Devon 
+25515	Waterloo Rd near Brixton St
+33127	Hoon Hay Rd near Smartlea St
+13539	Withells Rd near Avonhead 
+15716	Ferry Rd near Charlesworth St
+24661	Yaldhurst Rd near Brodie St
+45580	Linwood Ave near Wanstead Pl
+14864	Manchester St near Salisbury 
+54888	Northern Park and Ride (River Rd)
+10026	Maidstone Rd
+12204	Burwood Rd near Carlsen St
+37967	Innes Rd near Mahars 
+45579	Warrington St near Woodville 
+44242	Ashley St near Coldstream Rd
+43397	Sparks Rd near Hoon Hay 
+42066	Port Hills Rd near Horotane Valley 
+19284	Cranford St near Main North Rd
+23787	Colombo St near Ernlea Tce
+53562	Stanmore Rd near Worcester St
+33115	Mathers Rd near Hoon Hay 
+54890	Ledbury Drive near East Maddisons Road
+54410	Prestons School
+20272	Queenspark Dr near Branksome Pl
+10472	Kendal Ave near Whitby St
+37951	Hills Rd near Westminster St
+12653	Halswell Rd near Hendersons 
+11321	Lyttelton St near Rose 
+44235	Southbrook
+19297	Fendalton Rd near Snowdon 
+20286	Queenspark Dr near Brentwood St
+23794	Colombo St near Tennyson 
+24642	Russley Rd near Dinton St
+25976	Prebbleton
+53570	Murphys Rd near Graycliffe St
+33104	Hoon Hay Rd near Maryhill Ave
+54423	Prestons School
+42050	Port Hills Rd near Nuttall Dr
+10486	Cranbrook Ave near Kendal 
+36610	Greers Rd near Ruddenklau Ln
+14840	Bealey Ave
+13998	Main North Rd near Neeves 
+10003	Maidstone Rd near Hounslow St
+37946	Hills Rd near Acheson Ave
+43378	Sparks Rd near Waimokihi Pl
+20255	Queenspark Dr near Inwoods Rd
+25948	Springs Rd near Birchs 
+44226	Southbrook Rd near Coronation St
+24619	Bentley St near Delaware Cres
+42045	Port Hills Rd near Ardtrea Ln
+19266	Edgeware Village
+17085	Memorial Ave near Stableford Green
+22435	Rose St near Cashmere View 
+53100	Bus Interchange (Platform A)
+14817	Gilberthorpes Rd near Prichard Cres
+36606	Greers Rd near Saffron St
+13967	Main North Rd near Old 
+11309	Aldwins Rd near Marlborough St
+54434	Te Korari St near Raranga 
+32244	Madeley Rd near Major Hornbrook 
+12630	Halswell Rd near Tankerville 
+21581	Effingham St near Surfers Pl
+53589	Murphys Rd near Halswell Junction 
+37933	Main North Rd near Vagues 
+41191	Park Tce near Cressy 
+24626	Yaldhurst Rd near Bucknell St
+45546	Burwood Rd near Rothesay 
+44699	Main North Rd near Pa 
+26808	Kippenberger Ave near Devlin 
+41189	Governors Bay Rd
+46872	James St near Birchs Rd
+22442	Barrington St near Strauss Pl
+25953	Gerald St near West Belt
+53591	Longhurst Medical Centre
+44219	Sewell St near Smith 
+32237	Major Hornbrook Rd near Belleview Tce
+13979	Main North Rd
+53116	Bus Interchange (Platform B)
+11795	Centaurus Rd near Bowenvale Ave
+54447	Te Korari St near David Palmer 
+44203	Southbrook Rd near Denchs 
+25924	Templeton
+46864	Springs Rd near Brynley St
+22419	Halswell Shops
+42021	Martindales Rd near Truscotts 
+18392	Wainoni Rd near Cuffs 
+23741	Colombo St near Somerfield 
+20238	Queenspark Dr near Branksome Pl
+21568	Aston Dr near Beach Rd
+54452	Leeston
+13946	Creyke Rd
+11769	Cashmere Rd near Crichton Tce
+44681	Main North Rd near Sandhill 
+41170	Grimseys Rd near Dunedin St
+42013	Hendersons Road
+42499	Main Rd near The Brae
+21575	Effingham St near Monowai Cres
+41162	Brittan Tce near Seaview 
+20240	Queenspark Dr near Chadlington St
+25930	Gerald St near Murray Pl
+47706	Halswell Rd near Milns 
+24603	Yaldhurst Rd near Nortons 
+23756	Colombo St near Thorrington Rd
+37905	Innes Rd near Manuka St
+32696	Waltham Rd near Bunyan St
+54468	Irwell
+13951	Supa Centa
+14801	Manurere St
+32216	Major Hornbrook Rd near Muritai Tce
+29050	Selwyn St near Dobson 
+12150	Marine Pde near Rawhiti Ave
+38301	Riccarton Rd near Wainui St
+23288	Hackthorne Rd near Cashmere 
+33094	Hoon Hay Rd near Maryhill Ave
+29826	Grimseys Rd near Exton St
+26311	Caspian St near Rocking Horse Rd
+13489	Papanui Rd near Grants 
+17847	Main South Rd
+38788	Main South Rd near Curletts 
+39639	Hills Rd near Ailsa St
+13491	Papanui Rd near Bellvue Ave
+16520	Wairakei Rd near Manor Pl
+26324	Rocking Horse Rd near Godwit St
+29835	Grimseys Rd near Dunbarton St
+33087	Hoon Hay Rd near Lewis St
+40616	Colombo St near Bealey Ave
+23290	Hackthorne Rd near Lowick Ave
+28980	Main Rd
+24140	Emmett St near Acheson Ave
+36597	Greers Rd near Brookside Tce
+15678	Pages Rd
+12166	Marine Pde near Bowhill Rd
+39625	Shirley Rd near Slater St
+30814	Main Rd near Cliff St
+53953	Preston Downs Reserve
+13017	Staveley St near Avonhead Rd
+18702	Tuam St near Phillips 
+54803	Fuller St near Peraki 
+11281	Whiteleigh Ave near Leamington St
+13462	Main North Rd near Barnes 
+38761	Riccarton Rd near Paeroa St
+14791	Manurere St near Ranui 
+12132	Beach Rd near Britannia St
+40600	Gardiners Rd near Smacks Cl
+33073	Hoon Hay Rd near Smartlea St
+24117	Briggs Rd near Innes 
+29803	Lowry Ave near Grimseys Rd
+23261	Hargood St near Oban Pl
+24592	Yaldhurst Rd near English St
+28951	Matipo St near Rex 
+15645	Main North Rd near Tuckers 
+37436	Harewood Rd near Marble Wood Dr
+51306	Bush St near Watson Pl
+53969	Halkett Rd near Rossington Dr
+14318	Manchester St near Kilmore 
+39618	New Brighton Rd near Netherby Ln
+13470	Main North Rd near Sturrocks 
+29819	Daniels Rd near Hannah Pl
+54819	Fuller St near Evans Pl
+15650	Northlands Platform C
+25455	Gerald St near West Belt
+33060	Mathers Rd near Cedars St
+26307	Rocking Horse Rd near Godwit St
+16508	Wairakei Rd
+23274	Hargood St near Clydesdale 
+12145	Marine Pde near Lonsdale St
+47222	Christchurch International Airport
+44196	Sheffield Cres
+11299	Buckleys Rd near Rhona St
+36578	Burnside High School
+46373	Heaton St
+38757	Clyde Rd near Totara St
+54826	Fuller Street near Akaroa St
+17834	Burnham
+25429	Craven St near Algidus 
+14770	Hei Rd near Buchanans 
+22398	Barrington Mall (Athelstan St)
+17806	Masefield Dr near Durrell Wy
+26751	Central Park and Ride (White St)
+50474	Heaton Intermediate
+33056	Penruddock Rse near Hamish Pl
+23242	Radley St near Cumnor Tce
+54835	Adderley Tce near Sneyd St
+51323	Pegasus Blvd near SH-1
+44183	Ferry Rd near Phillipstown Cts
+53504	Burwood Hospital - Main Entrance
+15621	Ferrymead Shops
+13443	Waimairi Rd near Maidstone 
+12113	Burwood Rd near Stanford St
+37415	Greers Rd near Ruddenklau Ln
+11268	Clarence St near Lyndon 
+44177	Lincoln Rd near Domain Tce
+45023	Rolleston Dr near Othello 
+12121	Burwood Rd near Newhaven St
+24101	Kensington Ave near Innes Rd
+23257	Colombo St near Woodbridge Rd
+28946	Main Rd near Mccormacks Bay 
+50000	Ellesmere Junction Rd near Leeston 
+54842	Adderley Tce near Wesley St
+53995	Briggs Rd
+32198	Rodney St near Union 
+14302	Manchester St near Salisbury 
+50488	Heaton St - Georges
+11275	Whiteleigh Ave near Troup Dr
+53515	Patterson Tce near Calverton Place
+51334	Pegasus Blvd near SH-1
+15632	Ferry Rd near Waterman Pl
+16963	Gardiners Rd near St Ives 
+37404	Waimairi Rd near Athol Tce
+13458	Dovedale Ave near Lynfield 
+14789	Manurere St near Tauiwi Cres
+20199	Queenspark Dr near Chadbury St
+25884	Kirk Rd near Railway Tce
+25401	Craven St near Algidus 
+32180	Ferry Rd (Ritchies Depot WB)
+28914	Matipo St near Elizabeth 
+23226	Colombo St near Hastings W
+22379	Rose St near Beechworth Ave
+24559	Springs Rd near Garvins 
+15609	Linwood Ave near Keighleys Rd
+10396	Kilmarnock St near Kahu Rd
+46341	Harewood Rd near Waimakariri 
+54857	Barnard St near Silverstream Blvd
+51347	Northlands Platform B
+45010	Mandeville St
+37876	Cresswell Ave near Gayhurst Rd
+11247	Whiteleigh Ave near Barrington St
+12579	Lincoln Rd near Torrens 
+13427	Staveley St near Nortons Rd
+53527	Hereford St near Fitzgerald Ave
+38726	Clyde Rd near Hinau St
+46339	Gloucester St near Barbadoes 
+44154	Wainoni Rd near Shortland St
+24563	Springs Rd near Henry Wigram Pl
+25897	Birchs Rd near Hamptons 
+23235	Colombo St near King 
+26746	White St near Parkhouse Dr
+38719	University - Ilam Rd
+32179	Major Hornbrook Rd near Freeman St
+22380	Rose St near Beechworth Ave
+51352	Northlands Platform D
+33025	Mathers Rd near Redgrave St
+54861	Barnard St near Rahme Cres
+53536	Milton St near Selwyn 
+47660	Creyke Rd near Clyde 
+13436	Staveley St near Avonhead Rd
+18773	Beach Rd near Effingham St
+13086	Clyde Rd near Wai-iti Tce
+16596	Wairakei Rd near Breens 
+15264	Ferry Rd near Smith St
+42406	Bridle Path Rd near Port Hills 
+20613	Bower Ave near Castletown Pl
+42888	Harewood Rd near Wilmot St
+26395	Estuary Rd near Ebbtide St
+10813	Clyde Rd near Hooker Ave
+20609	Bower Ave near Thurso Pl
+19629	Northcote Rd near Lydia St
+32608	Brougham St near Defoe Place
+33934	Rose St near Marley View 
+50834	Selwyn St near Disraeli 
+18300	North Pde near Randall St
+20621	Whitmore St near Avalon 
+13093	Clyde Rd near Evatt St
+15272	Ferry Rd near Tilford St
+42874	Colombo St near Cass 
+18787	St Asaph near Phillips 
+40212	Wairakei Rd near Kendal Ave
+39222	Travis Rd
+16124	Wairakei Rd near Blighs 
+45902	Gerald St near Kildare Tce
+28587	Matipo St near Peverel 
+29434	Cranford St near Innes Rd
+17457	Fendalton
+50847	Selwyn St near Harman 
+42861	Harewood Rd near Harris Cres
+14394	Park Tce near Peterborough St
+39694	Ensors Rd
+38364	Barbadoes St near Edgeware Rd
+13064	Ilam Rnear Montana Ave
+39214	Bassett St near Vivian 
+43711	Main North Rd near Thompsons 
+24193	Emmett St near Bellbrook Cres
+25042	Buchanans Rd near Peebles Dr
+30880	Soleares Ave near Santa Maria 
+50852	Harman St near Grove Rd
+16577	Rossall St near Glandovey Rd
+18756	Burwood Rd near Clarevale St
+33910	Sparks Rd near Hoon Hay 
+16583	Rossall St near Leinster Rd
+13072	Clyde Rd near Fendalton 
+15255	Williams St near Ohoka Rd
+51709	Bromley Rd near Raymond 
+39687	University of Canterbury
+38355	Edgeware Rd near Madras St
+42857	Harewood Rd near Breens 
+21935	Effingham St near Marine Pde
+26382	Caspian St near Rocking Horse Rd
+16107	Wairakei Rd near Chislehurst Pl
+30879	Soleares Ave near Valencia Ln
+19617	Glandovey Rd
+37029	Tuam St near Olliviers Rd
+17435	Fendalton Rd near Wairarapa Tce
+51713	Bromley Rd near Raymond 
+50868	Harman St near Lincoln Rd
+13040	Dovedale Ave near Waimairi Rd
+38340	Edgeware Rd near Packe St
+16554	Wairakei Rd near Breens 
+39673	Greers Rd near Clyde 
+14373	Moorhouse Ave near Stewart St
+12197	Mairehau Rd near Medina Cres
+25026	Birchs Rd near Robinsons 
+42842	Clyde Rd near Ilam 
+28539	Blenheim Rd near Middleton 
+24172	Bentley St near Pinehurst Cres
+26353	Estuary Rd near Halsey St
+47298	Main North Rd near Link 
+30867	Soleares Ave near Mt Pleasant Rd
+50875	Selwyn St near Hazeldean Rd
+18739	Burwood Rd near Carlsen St
+51721	Maces Rd near Lupins Ln
+17403	Northcote Rd near Uxbridge St
+53907	Corsair Dr near Keene St
+18741	Burwood Rd near Lakewood Dr
+39660	Greers Rd near Clyde 
+13055	Waimairi Rd near Maydell St
+37001	St Martins Shops
+14387	Park Tce near Chester St W
+42835	Harewood Rd near Crofton 
+30851	Soleares Ave near Mt Pleasant Rd
+29874	Blenheim Rd near Watts 
+24186	Emmett St near Bellbrook Cres
+25035	Buchanans Rd near Cicada Pl
+50881	Springs Rd near Marshs 
+15238	Williams St near Vickery 
+37489	Harewood Rd near Matsons Ave
+53911	Darfield Town centre
+17419	Fendalton Rd near Wood Ln
+51732	Maces Rd near Wickham St
+15201	Main North Rd near Spencerville 
+15684	Pages Rd near Charles Gallagher Pl
+16531	Wairakei Rd near Spalding St
+40644	Stanmore Rd near Draper St
+25003	Buchanans Rd
+42826	Yaldhurst Rd near Withells 
+28518	Main South Rd near Lowther St
+26330	Rocking Horse Rd near Heron St
+42819	Maidstone Rd near Farnham Pl
+39656	Greers Rd near Brookside Tce
+12178	Marine Pde near Cygnet St
+45099	Charlesworth St near Ti Rakau Dr
+18718	Tuam St near Fitzgerald Ave
+50899	Selwyn St near Moorhouse Ave
+38329	Straven Rd near Rochdale St
+51745	Ruru Rd near Hay St
+13029	Staveley St near Colina 
+53924	Waterloo Rd near Islington Ave
+14360	St David near Moorhouse Ave
+39641	Northlands Platform A
+37462	Harewood Rd near Greers 
+47267	Birchs Rd near Grangewood Dr
+29857	Grimseys Rd near Exton St
+28525	Blenheim Rd near Penn Pl
+26348	Estuary Rd near Ebbtide St
+25493	James St near North Blt
+40628	Stanmore Rd near Siddal Pl
+24164	Russley
+51750	Ruru Rd near Hay St
+13038	Solway Ave near Glenside 
+53930	Waterloo Rd near Islington Ave
+38317	Ilam Rd near Kirkwood Ave
+15217	Main North Rd near Wrights 
+18014	Burwood Rd near Helmsdale St
+21665	Effingham St near Beach Rd
+47813	Linwood Ave near Kidbrooke St
+43456	Lincoln Rd near Parade Ct
+44787	Oxford Rd near Fairview Briars
+46961	Main North Rd near Styx Mill 
+18495	Harrow St near Bordesley 
+45630	Prebbleton
+17160	Memorial Ave near Chilcombe St
+33655	Selwyn St near Fairfield Ave
+11867	Hoon Hay Rd near Barossa Ln
+10536	Maidstone Rd near Solway Ave
+54596	Rolleston College
+54111	Halswell Rd near Augustine Drive
+32325	Carmen Rd near Halwyn Dr
+51086	Aidenfield (near McMahon Dr)
+12719	Halswell Rd near Nash 
+29148	Brougham St near Barrie 
+53267	McCormacks Bay Rd & Maffeys WB
+42596	Clifton Tce and Main Rd
+21677	Aston Dr near Ballance St
+23858	Linwood Ave near Tilford St
+38099	Dunbars Rd near Ensign St
+19353	Harewood Rd near Nunweek Blvd
+24707	Springs Rd near Brynley St
+44773	White St near Parkhouse Dr
+42111	Heathcote
+51093	Aidenfield (near McMahon Dr)
+12726	Papanui Rd near Paparoa St
+14903	Parker St near Kathleen Cres
+33640	Lyttelton St near Hennessy Pl
+53279	Jones Rd near Curraghs 
+32791	Brougham St near Albemarle 
+54124	Halswell Rd near Augustine Drive
+32318	Creyke Rd near Barlow St
+18476	North Parade
+19324	Harewood Rd
+23827	Radley St near Sheldon 
+42583	Main Rd near Augusta St
+38081	Halswell Rd near Nicholls 
+54130	Taiora/QEII
+42107	Port Hills Rd near Curries 
+53280	Jones Rd near Curraghs 
+29124	Selwyn St near Bolton Ave
+26094	Main North Rd near School 
+10995	Kilmarnock St near Deans Ave
+32789	Waltham Rd near Hastings St E
+17156	Burnside High School
+38075	Halswell Junction Rd near Sabys 
+21654	Aston Dr near Beach Rd
+23836	Colombo St near Wordsworth 
+18005	Burwood Rd near Newhaven St
+42577	Marriner St near Main Rd
+40399	Pages Rd near Breezes 
+18482	Kerrs Rd near Traynor Ln
+53298	Westfield Riccarton
+10527	Maidstone Rd
+32770	Brougham St near Brisbane 
+33629	Coronation St near Simeon 
+29130	Brougham St near Somerset Cres
+11851	Centaurus Rd near St Martins 
+42565	Main Rd near Wakatu Ave
+17125	Memorial Ave near Otara St
+16273	Rossall St near Office Rd
+40381	Union St near Tovey 
+39396	New Brighton Rd near Locksley Ave
+23804	Garlands Rd near Tanner St
+20771	Bower Ave near Thurso Pl
+38068	Halswell Junction Rd near Kinrara Pl
+43418	Ferry Rd near Rutherford St
+29107	Selwyn St near Cheviot 
+19780	Veitches Rd near Northfield 
+22950	Selwyn St near Fairfield Ave
+10976	Mona Vale Ave near Kilmarnock St
+26073	Estuary Rd near Cradock St
+28254	Major Hornbrook Rd near Rockview Pl
+32762	Waltham Rd near Mowbray St
+33617	Lyttelton St near Glynne Cres
+19307	Fendalton Rd near Quamby Pl
+38052	Halswell Junction Rd near Nicholls 
+39383	Hawke St near Fenners Ln
+20785	Queenspark Dr near Chadbury St
+42554	Wakefield Ave near Nayland St
+19798	Highsted Rd near Ludhiana St
+23815	Garlands Rd near Maunsell St
+16287	Wairakei Rd near Grahams 
+20303	Queenspark Dr near Inwoods Rd
+29596	Brougham St near James K Baxter Pl
+55014	Broadway Pde near Munro Ln
+29111	Selwyn St near Bletsoe Ave
+33601	Cobham St near Evesham Cres
+26087	Woodend
+10504	Cranbrook Ave near Grahams Rd
+54169	Taiora/QEII
+18469	Wainoni Rd near Shortland St
+32758	Defoe Pl
+10982	Sir William Pickering Dr (SB)
+17102	Memorial Ave near Spitfire Square
+39377	Keyes Rd near Rawson St
+18430	Wainoni Rd near Pannell Ave
+42549	Main Rd near Moncks Bay Ln
+20759	Bower Ave
+40368	Pages Rd near Waitaki St
+46903	Marshland Rd
+44725	King St near Andrew 
+32743	Ferry Rd near Alport Place
+10953	Kilmarnock St near Harakeke 
+54176	Ravensdale rise near Cumbria Lane
+55022	Broadway Pde near Munro Ln
+26056	Oram Ave near Rodney St
+11805	Centaurus Rd near Sloan Tce
+29565	Selwyn St near Bolton Ave
+42531	Nayland St near Stoke 
+20763	Bower Ave near Castletown Pl
+38034	Halswell Rd
+39365	Keyes Rd near Lonsdale St
+40352	Pages Rd near Kearneys 
+16260	Wairakei Rd near Idris 
+54182	Ravensdale Rise at Park
+11814	Lyttelton St near Glue Pl
+55033	Faringdon Blvd near Ledbury Dr
+10969	Roydvale Ave near Sir William Pickering Dr
+29577	Antigua St near Fairfield Ave
+18448	Wainoni Rd near Bexley 
+32736	Soleares Ave near Toledo Pl
+26060	Estuary Rd near Beatty St
+43058	Maidstone Rd
+44385	Ferry Rd near Mackworth St
+36760	Hills Rd near Ailsa St
+11460	Clarence St near Lyndon 
+33250	Moorhouse Ave near Selwyn St
+24776	Emmett St near Orcades 
+23448	Garlands Rd near Maunsell St
+53660	Hereford St (Aspire)
+54992	Lady Isaac Dr near Jean Batten Ln
+12317	Williams St near Ohoka Rd
+51001	Awatea Rd near Carrs 
+54512	Main North Rd near Woodend 
+51489	The Runway near Kittyhawk Ave
+14974	South City (Northbound)
+38941	Main South Rd near Garvins 
+15825	Main North Rd
+37616	Frankleigh St near Alvarez Pl
+10137	Kilmarnock St near Harakeke 
+24309	Epsom Rd near Carbine Pl
+43043	Withells Rd near Westall Ln
+46552	Pages Rd near Ottawa 
+23453	Radley St near Chichester 
+12329	Williams St near Vickery 
+50160	Gerald St near Springs Rd
+51491	Corsair Dr near Gallagher Cl
+15839	Main North Rd near Lees 
+38939	Main South Rd near Hanworth Ave
+33245	Mathers Rd near Redgrave St
+24782	Westminster St near Flockton 
+53673	Manchester St near Welles 
+54520	Kilmore Street Town Hall
+11473	Barrington St near Hammond Pl
+37600	Barrington St near Bewdley 
+10144	Kedleston Dr near Brockhall Ln
+51017	Awatea Rd near Carrs 
+42195	Port Hills Rd near Ardtrea Ln
+36756	Hills Rd near Acheson Ave
+47878	Springs Rd near Blakes 
+44363	Wainoni Rd near Portsmouth St
+10591	Clyde Rd near Jeffreys 
+24753	Kensington Ave near Innes Rd
+23424	Garlands Rd near Tanner St
+26934	Pages Rd near Rowan Ave
+13628	Waimairi Rd near Wentworth St
+50173	Lowes Rd near Tennyson St
+32387	Fendalton Rd near Jacksons 
+53687	Manchester St near Allen 
+33232	Rowley Ave near Salmond St
+54531	Oxford Street near Winchester 
+11441	Rose St near Hoon Hay Rd
+36741	Hills Rd near Westminster St
+12774	Halswell Rd near Rowley Ave
+42182	Opawa Rd near Mary Mclean Pl
+51029	Woodham Rd near Avonside Dr
+20390	Queenspark Dr near Broadhaven Ave
+53205	Hereford St near Montreal 
+10116	Kilmarnock St near Deans Ave
+38925	Main South Rd near Harvard Ave
+26947	Pages Rd near Knightsbridge Ln
+24769	Kensington Ave near Innes Rd
+43027	Kotare St near Medbury Tce
+46534	Rolleston Dr near Othello 
+42176	Port Hills Rd near Stedley Pl
+23430	Wilsons Rd
+15818	Williams St near Coups Tce
+10128	Mona Vale Ave near Kilmarnock St
+53694	Ravensdale Rise near Woodside Common
+13637	Waimairi Rd near Greers 
+36739	Innes Rd near Hills 
+38918	Main South Rd near Craven St
+50187	Gerald St near Springs Rd
+53214	Bus Interchange (Intercity stop)
+32373	Fendalton Rd near Glandovey 
+54549	Acacia Avenue near Maple Pl
+51038	Woodham Rd near Patten St
+12301	Kaiapoi (Police Station)
+12788	Main North Rd near Lagan St
+23889	Hargood St near Oban Pl
+42169	Port Hills Rd near Horotane Valley 
+23407	Garlands Rd near Cumnor Tce
+44344	Mairehau Rd near Putake Dr
+32360	Burnside High School
+24730	Flockton St near Archer 
+50194	Aylesbury Rd near Two Chain 
+51040	Woodham Rd near Linwood Ave
+33213	Mccarthy St near Rowley Ave
+33693	Cobham St near Clent Ln
+53222	Ferry Rd near Nursery 
+54554	Jones Rd near Alston 
+38902	Main South Rd near Weaver Pl
+11425	Memorial Ave near Hampton Pl
+36725	Innes Rd near Mahars 
+29182	Daniels Rd near Hannah Pl
+43487	Selwyn St Shops
+24748	Flockton St near Carrick 
+43004	Main South Rd near Bowman Pl
+42153	Martindales Rd near Station 
+23411	Wilsons Rd near Beckford 
+13616	Grahams Rd near Powell Cres
+36718	Innes Rd near Mahars 
+32356	Ferry Rd near Aldwins 
+51055	Woodham Rd near Brittan St
+53233	Ferry Rd near Lancaster St
+54565	Jones Rd near Alston 
+23891	Colombo St near Walton 
+46990	Rocking Horse Rd near Plover St
+10100	Kahu Rd near Titoki St
+12761	Papanui Rd near Holly 
+29195	Daniels Rd
+20357	Fitzgerald Ave near Alexandra St
+46988	Supa Centa Terminus
+47832	Warrington St near Woodville 
+19369	Harewood Rd near Cotswold Ave
+42148	Port Hills Rd near Castleview Ln
+21683	North Shore
+43473	Lincoln Rd near Sylvan St
+23862	Radley St near Cumnor Tce
+24711	Springs Rd near Sioux Ave
+51064	Woodham Rd near Tancred St
+14919	Gilberthorpes Rd near Gregory Ave
+53246	Tuam St near Duke 
+54577	Acacia Avenue
+11880	Cashmere Rd
+26906	Pages Rd near Fir Tree Ln
+42130	Heathcote
+18046	Marine Pde near Cygnet St
+19376	Colombo St near Purchas 
+44794	Bush St near Strachan Pl
+23870	Radley St near Tavender 
+44316	Burwood Hospital - Mairehau Rd
+51072	Woodham Rd near Ngarimu St
+24724	Briggs Rd near Innes 
+11418	Barrington St near Bewdley 
+33664	Coronation St near Selwyn 
+53251	Ferry Rd (Ritchies Depot EB)
+54583	Acacia Avenue near Hibiscus Grove
+54107	Skyhawk Rd near Kittyhawk Avenue
+43460	Wairakei Rd near Grahams 
+32339	Main North Rd near Lagan St
+11898	Riccarton Rd near Balgay St
+12742	Papanui Rd near Clare 
+10090	Kahu Rd near Tui St
+52728	Two Chain Rd near Walkers 
+12270	Main North Rd near Woodend Beach 
+46048	Woodend
+38420	Shirley Rd near Stapletons 
+47377	Blenheim Rd near Acheron Dr
+36242	Main Rd near St Andrews Hill 
+25589	Kirk Rd near Mahoe St
+26437	Estuary Rd near Cradock St
+28616	St Andrews Hill Rd near Marama Cres
+40745	Cavendish Rd near Northcote 
+22071	Selwyn St Shops
+42916	Opawa Rd near Manatu Ln
+18815	Harrow St near Glasgow 
+13126	Kendal Ave near Whitby St
+15303	Ferry Rd near Catherine St
+16633	Wairakei Rd near Todd Ave
+54916	Faringdon Blvd near Dynes Road
+51404	Dallington
+17966	Riccarton Rd near Harakeke St
+38892	Main South Rd near Weaver Pl
+15792	Williams St near Carew 
+40732	Williams St near Carew 
+26444	Kippenberger Ave near Devlin 
+24268	Cutts Rd near Springhill St
+28628	Moorhouse Ave near Orbell St
+22085	Coronation St near Selwyn 
+52744	Izone Dr
+17978	Lincoln Rolleston Rd near Dr
+45184	Colombo St near Canon 
+18827	Harrow St near Bordesley 
+13135	Clyde Rd near Arts 
+12289	Main North Rd near Sandhill 
+15319	Main North Rd
+51415	Dynes Rd near Springston Rolleston 
+54928	Kirwee Tavern
+10074	Kotare St near Roa Rd
+40721	Main North near Loftus St
+24234	Emmett St near Jebson 
+26416	Union St near Mountbatten 
+22059	Cobham St near Clent Ln
+33191	Milton St near Selwyn 
+38885	Main South Rd near Craven St
+53602	Caulfield Ave near Piper St
+17945	Lowes Rd near Goulds 
+37556	Barrington St near Wychbury 
+15763	Ferry Rd near Dyers 
+52759	Link Dve
+51427	Dynes Rd near Faringdon Blvd
+12258	Marshland Rd near Hammersley Ave
+54937	Kirwee Tavern
+38408	Riccarton Rd near Newnham Tce
+16614	Wairakei Rd near Greers 
+17950	Masefield Dr near Durrell Wy
+12262	Lake Terrace Rd near Oregon Pl
+38871	Church Corner
+45166	Birchs Rd near Glenwood Dr
+37541	Barrington St near Neville 
+15771	Ferry Rd near Waterman Pl
+28600	Major Hornbrook Rd near Muritai Tce
+24247	Amyes Rd near Shands 
+29937	Daniels Rd near Rathlin St
+36219	Gloucester St near Latimer Square
+23392	Sydenham Shops
+22063	Cobham St near Evesham Cres
+52763	Tennyson St near Moore 
+40709	Northcote Rd near Fenchurch St
+10088	Kotare St near Kahu Rd
+46011	Birchs Rd near Glenwood Dr
+18804	Kerrs Rd near Dunarnan St
+50586	Birmingham Dr near Halls Pl
+50102	Jones Rd near Weedons Ross 
+54944	West Melton Primary School
+51436	Broadlands Dve near Goulds Rd
+16622	Wairakei Rd near Charlcott St
+53618	Caulfield Ave near Piper St
+11384	Barrington Mall ( St)
+25543	Waterloo Rd near Kissel St
+29900	Daniels Rd
+26877	Rangiora (Ashley St)
+24690	Springs Rd near Dufek Cres
+50593	Birmingham Dr near Halls Pl
+36203	Major Hornbrook Rd near St Andrews Hill 
+52771	Broadlands Dr near Goulds Rd
+51443	Caulfield Ave & Gosling Cres
+38863	Main South Rd near English St
+15744	Ferry Rd near Palinurus 
+39710	Shirley Rd near Slater St
+53625	Richmond Ave near Kruger 
+14413	Colombo St near Salisbury 
+12236	Main North Rd
+54959	Faringdon Boulevard near Broomfield Dr
+17921	Fendalton Rd near Mona Vale Ave
+37539	Whiteleigh Ave near Troup Dr
+13573	Withells Rd near Avonhead 
+10061	Kotare St near Medbury Tce
+24223	Emmett St
+33162	Milton St near Antrim 
+29916	Daniels Rd near Mottram St
+23371	Colombo St near Lawson 
+54963	Springston - Rolleston Road near Geldard Dr
+52785	Dynes Rd near Faringdon Blvd
+26883	Kippenberger Ave near East Belt
+11397	Hoon Hay Rd near Blakiston St
+47320	Town Hall
+12243	Marshland Rd near Joy St
+44290	Smith St near Cass 
+15759	Ferry Rd near Alport Pl
+53639	Richmond Ave near Kruger 
+16605	Strowan Rd near Normans 
+17932	Riccarton Rd near Bartlett St
+39706	Merivale Mall
+38859	Main South Rd near Curletts 
+44288	Ashley St near River Rd
+24674	Masham Rd near Rosella St
+25527	Waterloo Rd
+37518	Lyttelton St
+17909	Tennyson St near Michelangelo Dr
+52792	Dynes Rd near Springston Rolleston 
+33158	Mathers Rd near Waters St
+15728	Linwood Ave near Tilford St
+54971	Springston - Rolleston Road near Ed Hillary Dr
+53641	Knights Stream Park
+13541	Withells Rd near Westall Ln
+12695	Halswell Rd near Hendersons 
+12215	Kaiapoi (McDonalds)
+36668	Main North Rd near Meadow St
+42097	Port Hills Rd near Vega Pl
+37980	Main North Rd near Cranford St
+32292	Main North Rd near Spencerville 
+24688	Carmen Rd near Steadman 
+51470	The Runway near Dalwood Dve
+14409	Park Tce near Bealey Ave
+50141	Lowes Rd near Rembrandt Dr
+54985	Lady Isaac Dr near Jean Batten Ln
+33143	Mathers Rd near Waters St
+17913	Lowes Rd near Goulds 
+44274	Williams St near Cass 
+53656	Hereford St (Aspire)
+15737	Ferry Rd near Settlers Cres
+11378	Barrington Mall ( St)
+54508	Halkett Rd near Rossington Dr
+13556	Withells Rd near Merrin St
+38837	Church Corner
+12227	Williams St near Courtenay Drive
+17564	Commodore Hotel
+43851	Gloucester St near Stanmore Rd
+37174	Woodham Rd near Carnarvon St
+15388	Main North Rd near Factory 
+38023	Halswell Rd
+39354	Rookwood Ave near Marriotts Rd
+18891	Hardy St near Beresford 
+20737	Queenspark Dr near Bower Ave
+44702	Main North Rd near Holland Dr
+54078	Innes Road near Severn Street
+50950	Pegasus Blvd near Whakatipu St
+32727	Soleares Ave near Cadiz Ln
+19746	Edgeware Village
+10930	Grahams Rd near Powell Cres
+37161	Cranford St near Cornwall 
+38010	Halswell Rd near Milns 
+38496	Barbadoes St near Edward Ave
+19751	Aylsham Ln near Regents Park Dr
+40334	Pages Rd near Buckleys 
+42512	Buchanans Rd near Vanguard Dr
+54084	Corsair Drive
+26041	Union St near Mountbatten 
+29554	Brougham St near Kipling 
+10948	Carlton Mill Rd near Hewitts 
+32715	Mccormacks Bay Rd near Soleares Ave
+39349	New Brighton Rd near Kingsford St
+15361	Belfast
+19722	Airport/Antarctic Centre
+38483	Warrington St Shops
+39331	New Brighton Rd near Queensbury St
+13188	Cranbrook Ave near Grahams Rd
+18870	Wainoni Rd near Hampshire St
+37157	Waimairi Rd near Bowen St
+10907	Teesdale St near Tay 
+42508	Main Rd near Mulgans Trk
+40323	Stanmore Rd near Trinity Ln
+54097	Skyhawk near Kittyhawk Avenue
+26492	Estuary Rd
+10911	Grahams Rd near Powell Cres
+38006	Halswell Rd near Lillian St
+32704	Waltham Rd near Austin St
+51824	Christchurch Hospital Main Stop EB
+42971	Brougham St near Brisbane 
+39320	New Brighton Rd near Queensbury St
+37142	Frankleigh St
+40310	Southern Park and Ride (South Belt)
+15374	Belfast-Factory Rd
+38477	Barbadoes St near Edward Ave
+13190	Kendal Ave near Charlcott St
+10924	Teesdale St near Deepdale 
+29531	Cranford St near Main North Rd
+51830	Moorhouse Slip Nth near Colombo St
+50984	Mairehau Rd ( Spinal Unit)
+18889	Beresford St
+40784	Hussey Rd
+15342	Supa Centa
+38465	Warrington St Shops 
+37135	Main Nth Rd near Loftus St
+24299	Russley Rd near Dinton St
+42963	Cranford St near Berwick 
+40306	Pages Rd near Ottawa 
+26471	Oram Ave near Hood St
+29985	Daniels Rd near Inca Pl
+16679	Sawyers Arms Rd near Cotswold Ave
+19705	Purchas St near Colombo 
+50997	Mairehau Rd (Spinal Unit)
+18862	Buckleys Rd and Dacre St
+14024	Gloucester St near Fitzgerald Ave
+13174	Cranbrook Ave near Glencoe St
+38454	Edgeware Rd near Caledonian 
+42959	Brougham St near Waltham Rd
+29992	Redwood
+26485	Pages Rd near Waitaki St
+26002	Woodend Rd near Greenwood Cl
+17538	Memorial Ave near Avice Hill Reserve
+52700	Link Dve
+37126	Harewood Rd near Wilmot St
+15357	Main North Rd near Belfast 
+46076	Mandeville St
+39308	Travis Rd near Blue Gum Pl
+19714	Airport/Antarctic Centre
+12291	Main North Rd near Kaiapoi Golf Club
+37594	Whiteleigh Ave near Jack Hinton Dr
+16651	Gardiners Rd near St Ives 
+13142	Clyde Rd near Fendalton 
+40766	O'Neill Ave near Beechwood Dr
+26459	Pages Rd near Shortland St
+28637	Fitzgerald Ave near Avonside Dr
+42944	Stanmore Rd near Lychgate Cl
+22092	Halswell Rd and Nash 
+29963	Grimseys Rd near Mulberry Pl
+24275	Cutts Rd near Delaware Cres
+38449	Springfield Rd near Pitt Pl
+52716	Izone Dr
+50538	Rolleston (Kidman St)
+40750	Norwich Qy near Dublin St
+38431	Edgeware Rd near Bishop St
+28644	Moorhouse Ave near Slip S
+42937	Opawa Rd near Brabourne St
+42928	Wairakei Rd near Pitcairn Cres
+29971	Grimseys Rd near Prestons 
+54900	Ledbury Drive near Rangatira St
+13157	Woodbury St near Glenharrow Ave
+18843	Wainoni Rd near Pannell Ave
+17997	Rolleston Dr near Lincoln Rd
