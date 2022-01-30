@@ -39,7 +39,14 @@ If you would like to connect the metroinfo schedule (does't update in realtime) 
 
 10. Change `apitoken` to your api token. Api token can be found [here](https://apidevelopers.metroinfo.co.nz/profile)
 11. Change `stopcode` to a stop found [here.](https://go.metroinfo.co.nz/) List of stop codes can be found [here](/metroinfo-data/stops.txt)
-12. Change `filterbuscode`. list of bus route codes can be found [here](/metroinfo-data/routes.txt)
+<p class='img'>
+  <img src='images/Bus-Stop-Number-metro-go.png' alt='Screenshot of the metro go page'>
+</p>
+
+12. Change `filterbuscode`. list of bus route codes can be found [here](/metroinfo-data/routes.txt) 
+<p class='img'>
+  <img src='images/Bus-Code-metro-go.png' alt='Screenshot of the metro go page'>
+</p>
 
 If you want to get the next bus regardless of the next bus code you will need to set `get_next_bus` to true in `Setup.py` see example bellow.
 
