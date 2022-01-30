@@ -4,12 +4,10 @@ from dateutil.parser import parse
 import Setup
 currenttime = datetime.datetime.now()
 baseurl = 'https://apis.metroinfo.co.nz/rti/siri/v1/sm?stopcode='
-stopcode = Setup.stopcode
-apitoken = Setup.apitoken
 filterbuscode = Setup.filterbuscode
 nextbus = 0
-headers = {'Ocp-Apim-Subscription-Key': apitoken}
-fullurl = baseurl + stopcode
+headers = {'Ocp-Apim-Subscription-Key': Setup.apitoken}
+fullurl = baseurl + Setup.stopcode
 responsejson = (requests.get(fullurl, headers=headers)).json
 # Get data
 def getbustime(nextbusnumber):
