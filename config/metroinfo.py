@@ -19,6 +19,10 @@ def getbuscode(nextbusnumber):
     nextbuscode = responsejson()['Siri']['ServiceDelivery']['StopMonitoringDelivery'][0]['MonitoredStopVisit'][int(nextbusnumber)]['MonitoredVehicleJourney']['PublishedLineName']
     return nextbuscode
 
+def getbuserror(nextbusnumber):
+    nextbuserror = responsejson()['Siri']['ServiceDelivery']['StopMonitoringDelivery'][0]["ErrorCondition"]["OtherError"]["ErrorText"]
+    return nextbuserror
+
 # If get next bus is true it will get the next bus else it will look for the filtered bus
 try:
     if Setup.get_next_bus != "true":
@@ -42,5 +46,12 @@ try:
     Difftimemin = Difftimemin + (Difftimehour * 60)
     print(Difftimemin)
 except KeyError:
-    # bus no bus detected at bus stop
-    print(0)
+    try:
+        if getbuserror(nextbus) == "No trips on stop.":
+            print(0)
+        else:
+            print("bus error didn't = 'No trips on stop.'")
+    except:
+        print("Got key error when searching for bus time but got another error when searching for bus error")
+except:
+    print("got an error that was not key error when searching for bus time")
