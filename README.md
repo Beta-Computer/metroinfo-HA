@@ -140,6 +140,7 @@ Alternativly you can restart your entire home assistant instance.
 ```
 ### Command failed: python3 metroinfo.py
   - This may occour when no bus is on its way. This usally happens during the night, see [timetable.](https://www.metroinfo.co.nz/timetables/)
-  - [This is a known issue and I am working on it](https://github.com/Beta-Computer/metroinfo-HA/issues/3) 
+  - [This is a known issue and I am working on it](https://github.com/Beta-Computer/metroinfo-HA/issues/3)
+  - use [this code](https://github.com/Beta-Computer/metroinfo-HA/blob/f8f971f2dfb2f4652e7665a2bf8d4052494b5eb3/config/metroinfo.py) instead of `metroinfo.py`. This code is from Pull request [#4](https://github.com/Beta-Computer/metroinfo-HA/pull/4/) 
 ### Other Error
   - [Open a issue](https://github.com/Beta-Computer/metroinfo-HA/issues/new/choose)
