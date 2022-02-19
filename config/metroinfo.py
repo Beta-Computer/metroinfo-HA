@@ -33,10 +33,8 @@ else:
     nextbuscode = (getbuscode(nextbus))
 # Turn time of bus into time till bus
 Bustime = parse(nextbustime)
-Difftimemin = (Bustime.minute - currenttime.minute)
-Difftimehour = (Bustime.hour - currenttime.hour)
-Difftimemin = Difftimemin + (Difftimehour * 60)
-print(Difftimemin)
+print(((Bustime.minute - currenttime.minute)
+      ((Bustime.hour - currenttime.hour) * 60)) - Setup.offset)
 # Debug
 # print("time till next bus is:", Difftimemin, "minutes")
 # print("next bus code: " + nextbuscode)

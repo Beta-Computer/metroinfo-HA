@@ -38,15 +38,28 @@ If you would like to connect the metroinfo schedule (does't update in realtime) 
 9. Open `Setup.py` with [Visual Studio Code](https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_vscode), [File editor](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_configurator) or [Samba share](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_samba)
 
 10. Change `apitoken` to your api token. Api token can be found [here](https://apidevelopers.metroinfo.co.nz/profile)
+
+```python
+apitoken = "paste your api token here"
+```
+
 11. Change `stopcode` to a stop found [here.](https://go.metroinfo.co.nz/) Alternatively a list of stop codes can be found [here](/metroinfo-data/stops.txt)
 <p class='img'>
   <img src='images/Bus-Stop-Number-metro-go.png' alt='Screenshot of the metro go page'>
 </p>
 
-12. Change `filterbuscode` to a stop found [here.](https://go.metroinfo.co.nz/). Alternatively a list of bus route codes can be found [here](/metroinfo-data/routes.txt) 
+```python
+apitoken = "paste your api token here"
+stopcode = "53088"
+```
+
+12. Change `filterbuscode` to a stop found [here](https://go.metroinfo.co.nz/). Alternatively a list of bus route codes can be found [here](/metroinfo-data/routes.txt) 
 <p class='img'>
   <img src='images/Bus-Code-metro-go.png' alt='Screenshot of the metro go page'>
 </p>
+
+
+13. Set `get_next_bus` to true or false 
 
 If you want to get the next bus regardless of the next bus code you will need to set `get_next_bus` to true in `Setup.py` see example bellow.
 
@@ -55,15 +68,48 @@ apitoken = "paste your api token here"
 stopcode = "53088"
 get_next_bus = "true"
 ```
-If you would like to filter by a bus code for example: "29" use this in `Setup.py`
+if you would like to filter the next bus set `get_next_bus` to false in `Setup.py` see example bellow
+
 ```python
 apitoken = "paste your api token here"
 stopcode = "53088"
-filterbuscode = '29'
-get_next_bus = "false"
+get_next_bus = "true"
 ```
+14. Optional set the filter bus code.
+
+If you would like to filter by a bus code for example: "29" use this in `Setup.py`
+note get_next_bus must be set to false to filter.
+
+```python
+apitoken = "paste your api token here"
+stopcode = "53088"
+get_next_bus = "false"
+filterbuscode = '29'
+```
+
+15. Set offset
+offset allowes you to account for the time to travel to the bus stop. This means that a bus time of 0 will be when you need to leave to catch your bus. See example bellow
+
+```python
+apitoken = "paste your api token here"
+stopcode = "53088"
+get_next_bus = "false"
+filterbuscode = '29'
+offset = 5
+```
+
+if you would like no offset the nset `offset = 0` in `Setup.py` See example bellow
+
+```python
+apitoken = "paste your api token here"
+stopcode = "53088"
+get_next_bus = "false"
+filterbuscode = '29'
+offset = 0
+```
+
 ### Edit Configuartion.yaml
-13. Open `configuration.yaml` and add this code. See [this](https://www.home-assistant.io/docs/configuration/#editing-configurationyaml) if you need help editing `configuration.yaml`. Change `/path/to/script/` to the path to your `metroinfo.py` file.
+16. Open `configuration.yaml` and add this code. See [this](https://www.home-assistant.io/docs/configuration/#editing-configurationyaml) if you need help editing `configuration.yaml`. Change `/path/to/script/` to the path to your `metroinfo.py` file.
 ```yaml
 sensor:
   - platform: command_line
@@ -73,7 +119,7 @@ sensor:
 ```
 ### Restart Home Assistant
 
-14. [Restart Home assistant](https://www.home-assistant.io/docs/configuration/#reloading-changes) 
+17. [Restart Home assistant](https://www.home-assistant.io/docs/configuration/#reloading-changes) 
 
 
 
