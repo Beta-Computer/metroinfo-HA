@@ -190,3 +190,5 @@ Alternativly you can restart your entire home assistant instance.
   - use [this code](https://github.com/Beta-Computer/metroinfo-HA/blob/f8f971f2dfb2f4652e7665a2bf8d4052494b5eb3/config/metroinfo.py) instead of `metroinfo.py`. This code is from Pull request [#4](https://github.com/Beta-Computer/metroinfo-HA/pull/4/) 
 ### Other Error
   - [Open a issue](https://github.com/Beta-Computer/metroinfo-HA/issues/new/choose)
+## License
+Metroinfo-HA is licensed under the [MIT License](https://github.com/Beta-Computer/metroinfo-HA/blob/main/LICENSE)
