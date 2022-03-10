@@ -1,3 +1,7 @@
+[![Issues](https://img.shields.io/github/issues/Beta-Computer/metroinfo-HA)](https://github.com/Beta-Computer/metroinfo-HA/issues?)
+[![GitHub forks](https://img.shields.io/github/forks/Beta-Computer/metroinfo-HA)](https://github.com/Beta-Computer/metroinfo-HA/network)
+[![GitHub stars](https://img.shields.io/github/stars/Beta-Computer/metroinfo-HA)](https://github.com/Beta-Computer/metroinfo-HA/stargazers)
+[![license](https://img.shields.io/github/license/Beta-Computer/metroinfo-HA)](https://github.com/Beta-Computer/metroinfo-HA/blob/main/LICENSE)
 # Metroinfo-HA
 This code connects [Metroinfo Siri API](https://apidevelopers.metroinfo.co.nz/api-details#api=siri-service) to [Home assistant](https://www.home-assistant.io) using the [command line sensor intergation.](https://www.home-assistant.io/integrations/sensor.command_line/) This allows you to obtain realtime departure info for Christchurch public transport, which can then be displayed on your [Home Assistant dashboard](https://www.home-assistant.io/lovelace/) or used in [automations](https://www.home-assistant.io/docs/automation/).
 
