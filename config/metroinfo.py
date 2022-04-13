@@ -11,13 +11,16 @@ fullurl = baseurl + Setup.stopcode
 responsejson = (requests.get(fullurl, headers=headers)).json
 # Get data
 
+
 def getbustime(nextbusnumber):
     nextbustime = responsejson()['Siri']['ServiceDelivery']['StopMonitoringDelivery'][0]['MonitoredStopVisit'][int(nextbusnumber)]['MonitoredVehicleJourney']['MonitoredCall']['ExpectedArrivalTime']
     return nextbustime
 
+
 def getbuscode(nextbusnumber):
     nextbuscode = responsejson()['Siri']['ServiceDelivery']['StopMonitoringDelivery'][0]['MonitoredStopVisit'][int(nextbusnumber)]['MonitoredVehicleJourney']['PublishedLineName']
     return nextbuscode
+
 
 def getbuserror(nextbusnumber):
     nextbuserror = responsejson()['Siri']['ServiceDelivery']['StopMonitoringDelivery'][0]["ErrorCondition"]["OtherError"]["ErrorText"]
@@ -40,11 +43,11 @@ try:
         nextbustime = (getbustime(nextbus))
         nextbuscode = (getbuscode(nextbus))
     # Turn time of bus into time till bus
-    Bustime = parse(nextbustime)
-    Difftimemin = (Bustime.minute - currenttime.minute)
-    Difftimehour = (Bustime.hour - currenttime.hour)
-    Difftimemin = Difftimemin + (Difftimehour * 60)
-    print(Difftimemin)
+        Bustime = parse(nextbustime)
+        Difftimemin = (Bustime.minute - currenttime.minute)
+        Difftimehour = (Bustime.hour - currenttime.hour)
+        Difftimemin = Difftimemin + (Difftimehour * 60)
+        print(Difftimemin - Setup.bus_offset)
 except KeyError:
     try:
         if getbuserror(nextbus) == "No trips on stop.":
