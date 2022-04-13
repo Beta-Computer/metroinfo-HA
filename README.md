@@ -21,7 +21,6 @@
 * [Troubleshooting](#Troubleshooting)
 	* [IndexError: list index out of range](#IndexError:listindexoutofrange)
 	* [Configuration.yaml Error](#Configuration.yamlError)
-	* [Command failed: python3 metroinfo.py](#Commandfailed:python3metroinfo.py)
 	* [Other Error](#OtherError)
 * [License](#License)
 
@@ -219,10 +218,6 @@ Alternativly you can restart your entire home assistant instance.
   command: "python3 /path/to/script/metroinfo.py"
   unit_of_measurement: minutes
 ```
-###  5.3. <a name='Commandfailed:python3metroinfo.py'></a>Command failed: python3 metroinfo.py
-  - This may occour when no bus is on its way. This usally happens during the night, see [timetable.](https://www.metroinfo.co.nz/timetables/)
-  - [This is a known issue and I am working on it](https://github.com/Beta-Computer/metroinfo-HA/issues/3)
-  - use [this code](https://github.com/Beta-Computer/metroinfo-HA/blob/f8f971f2dfb2f4652e7665a2bf8d4052494b5eb3/config/metroinfo.py) instead of `metroinfo.py`. This code is from Pull request [#4](https://github.com/Beta-Computer/metroinfo-HA/pull/4/) 
 ###  5.4. <a name='OtherError'></a>Other Error
   - [Open a issue](https://github.com/Beta-Computer/metroinfo-HA/issues/new/choose)
 ##  6. <a name='License'></a>License
