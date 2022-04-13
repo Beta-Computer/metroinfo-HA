@@ -1,0 +1,7 @@
+{
+  "domain": "metroinfo",
+  "name": "Metroinfo",
+  "config_flow": true,
+  "documentation": "https://github.com/Beta-Computer/metroinfo-HA",
+  "version": "1.0.0"
+}
